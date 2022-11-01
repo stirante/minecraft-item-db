@@ -15570,7 +15570,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -15580,7 +15581,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -15590,7 +15592,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -15600,7 +15603,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -15610,7 +15614,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -15620,7 +15625,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -15630,7 +15636,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -15640,7 +15647,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -15660,7 +15668,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -15670,7 +15679,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -15680,7 +15690,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -15690,7 +15701,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -15700,7 +15712,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -15710,7 +15723,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -15720,7 +15734,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -22600,7 +22615,8 @@
             "type": "string",
             "value": "cobblestone"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 1,
@@ -22635,7 +22651,8 @@
             "type": "string",
             "value": "mossy_cobblestone"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 2,
@@ -22670,7 +22687,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 3,
@@ -22705,7 +22723,8 @@
             "type": "string",
             "value": "diorite"
           }
-        ]
+        ],
+        "mapColor": "fffffcf5"
       },
       {
         "metadata": 4,
@@ -22740,7 +22759,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 5,
@@ -22775,7 +22795,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 6,
@@ -22810,7 +22831,8 @@
             "type": "string",
             "value": "brick"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 7,
@@ -22845,7 +22867,8 @@
             "type": "string",
             "value": "stone_brick"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 8,
@@ -22880,7 +22903,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 9,
@@ -22915,7 +22939,8 @@
             "type": "string",
             "value": "nether_brick"
           }
-        ]
+        ],
+        "mapColor": "ff700200"
       },
       {
         "metadata": 10,
@@ -22950,7 +22975,8 @@
             "type": "string",
             "value": "end_brick"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 11,
@@ -22985,7 +23011,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 12,
@@ -23020,7 +23047,8 @@
             "type": "string",
             "value": "none"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 13,
@@ -23055,7 +23083,8 @@
             "type": "string",
             "value": "red_nether_brick"
           }
-        ]
+        ],
+        "mapColor": "ff700200"
       },
       {
         "metadata": 16,
@@ -102438,7 +102467,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -102448,7 +102478,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -102458,7 +102489,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -102468,7 +102500,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -102478,7 +102511,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -102488,7 +102522,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -102498,7 +102533,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -102508,7 +102544,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -102528,7 +102565,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -102538,7 +102576,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -102548,7 +102587,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -102558,7 +102598,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -102568,7 +102609,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -102578,7 +102620,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -102588,7 +102631,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -102608,7 +102652,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -102618,7 +102663,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -102628,7 +102674,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -102638,7 +102685,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -102648,7 +102696,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -102658,7 +102707,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -102668,7 +102718,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -102678,7 +102729,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -102698,7 +102750,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -102708,7 +102761,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -102718,7 +102772,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -102728,7 +102783,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -102738,7 +102794,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -102748,7 +102805,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -102758,7 +102816,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -102828,7 +102887,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 1,
@@ -102843,7 +102903,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 2,
@@ -102858,7 +102919,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 3,
@@ -102873,7 +102935,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 4,
@@ -102888,7 +102951,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 8,
@@ -134817,7 +134881,8 @@
             "type": "string",
             "value": "y"
           }
-        ]
+        ],
+        "mapColor": "ff8f7748"
       },
       {
         "metadata": 1,
@@ -134832,7 +134897,8 @@
             "type": "string",
             "value": "y"
           }
-        ]
+        ],
+        "mapColor": "ff815631"
       },
       {
         "metadata": 2,
@@ -134847,7 +134913,8 @@
             "type": "string",
             "value": "birch"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 3,
@@ -134862,7 +134929,8 @@
             "type": "string",
             "value": "y"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 4,
@@ -135008,7 +135076,8 @@
             "type": "string",
             "value": "acacia"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 1,
@@ -135023,7 +135092,8 @@
             "type": "string",
             "value": "y"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 2,
@@ -146116,7 +146186,8 @@
             "type": "string",
             "value": "oak"
           }
-        ]
+        ],
+        "mapColor": "ff8f7748"
       },
       {
         "metadata": 1,
@@ -146126,7 +146197,8 @@
             "type": "string",
             "value": "spruce"
           }
-        ]
+        ],
+        "mapColor": "ff815631"
       },
       {
         "metadata": 2,
@@ -146136,7 +146208,8 @@
             "type": "string",
             "value": "birch"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 3,
@@ -146146,7 +146219,8 @@
             "type": "string",
             "value": "jungle"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 4,
@@ -146156,7 +146230,8 @@
             "type": "string",
             "value": "acacia"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 5,
@@ -146166,7 +146241,8 @@
             "type": "string",
             "value": "dark_oak"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       }
     ]
   },
@@ -166767,7 +166843,8 @@
             "type": "string",
             "value": "normal"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 1,
@@ -166777,7 +166854,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       }
     ]
   },
@@ -168397,7 +168475,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -168407,7 +168486,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -168417,7 +168497,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -168427,7 +168508,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -168437,7 +168519,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -168447,7 +168530,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -168457,7 +168541,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -168467,7 +168552,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -168487,7 +168573,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -168497,7 +168584,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -168507,7 +168595,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -168517,7 +168606,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -168527,7 +168617,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -168537,7 +168628,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -168547,7 +168639,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -172355,7 +172448,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -172365,7 +172459,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -172375,7 +172470,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -172385,7 +172481,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -172395,7 +172492,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -172405,7 +172503,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -172415,7 +172514,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -172425,7 +172525,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -172445,7 +172546,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -172455,7 +172557,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -172465,7 +172568,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -172475,7 +172579,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -172485,7 +172590,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -172495,7 +172601,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -172505,7 +172612,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -172523,7 +172631,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -172533,7 +172642,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -172543,7 +172653,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -172553,7 +172664,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -172563,7 +172675,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -172573,7 +172686,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -172583,7 +172697,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -172593,7 +172708,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -172613,7 +172729,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -172623,7 +172740,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -172633,7 +172751,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -172643,7 +172762,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -172653,7 +172773,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -172663,7 +172784,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -172673,7 +172795,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },
@@ -173343,7 +173466,8 @@
             "type": "string",
             "value": "stone"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 1,
@@ -173353,7 +173477,8 @@
             "type": "string",
             "value": "granite"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 2,
@@ -173363,7 +173488,8 @@
             "type": "string",
             "value": "granite_smooth"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 3,
@@ -173373,7 +173499,8 @@
             "type": "string",
             "value": "diorite"
           }
-        ]
+        ],
+        "mapColor": "fffffcf5"
       },
       {
         "metadata": 4,
@@ -173383,7 +173510,8 @@
             "type": "string",
             "value": "diorite_smooth"
           }
-        ]
+        ],
+        "mapColor": "fffffcf5"
       },
       {
         "metadata": 5,
@@ -173393,7 +173521,8 @@
             "type": "string",
             "value": "andesite"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 6,
@@ -173403,7 +173532,8 @@
             "type": "string",
             "value": "andesite_smooth"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       }
     ]
   },
@@ -173431,7 +173561,8 @@
             "type": "string",
             "value": "smooth_stone"
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 1,
@@ -173446,7 +173577,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 2,
@@ -173461,7 +173593,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff8f7748"
       },
       {
         "metadata": 3,
@@ -173476,7 +173609,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 4,
@@ -173491,7 +173625,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 5,
@@ -173506,7 +173641,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 6,
@@ -173521,7 +173657,8 @@
             "type": "string",
             "value": "quartz"
           }
-        ]
+        ],
+        "mapColor": "fffffcf5"
       },
       {
         "metadata": 7,
@@ -173536,7 +173673,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff700200"
       },
       {
         "metadata": 8,
@@ -173681,7 +173819,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 1,
@@ -173696,7 +173835,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 2,
@@ -173711,7 +173851,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 3,
@@ -173726,7 +173867,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff5cdbd5"
       },
       {
         "metadata": 4,
@@ -173741,7 +173883,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff5cdbd5"
       },
       {
         "metadata": 5,
@@ -173756,7 +173899,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "FF707070"
       },
       {
         "metadata": 6,
@@ -173771,7 +173915,8 @@
             "type": "string",
             "value": "smooth_sandstone"
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 7,
@@ -173786,7 +173931,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff700200"
       },
       {
         "metadata": 8,
@@ -182966,7 +183112,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff8f7748"
       },
       {
         "metadata": 1,
@@ -182986,7 +183133,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff815631"
       },
       {
         "metadata": 2,
@@ -183006,7 +183154,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 3,
@@ -183026,7 +183175,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 4,
@@ -183046,7 +183196,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 5,
@@ -183066,7 +183217,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 8,
@@ -184867,7 +185019,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff8f7748"
       },
       {
         "metadata": 1,
@@ -184882,7 +185035,8 @@
             "type": "string",
             "value": "spruce"
           }
-        ]
+        ],
+        "mapColor": "ff815631"
       },
       {
         "metadata": 2,
@@ -184897,7 +185051,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "fff7e9a3"
       },
       {
         "metadata": 3,
@@ -184912,7 +185067,8 @@
             "type": "string",
             "value": "jungle"
           }
-        ]
+        ],
+        "mapColor": "ff976d4d"
       },
       {
         "metadata": 4,
@@ -184927,7 +185083,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 5,
@@ -184942,7 +185099,8 @@
             "type": "byte",
             "value": 0
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 8,
@@ -185050,7 +185208,8 @@
             "type": "string",
             "value": "white"
           }
-        ]
+        ],
+        "mapColor": "ffffffff"
       },
       {
         "metadata": 1,
@@ -185060,7 +185219,8 @@
             "type": "string",
             "value": "orange"
           }
-        ]
+        ],
+        "mapColor": "ffd88033"
       },
       {
         "metadata": 2,
@@ -185070,7 +185230,8 @@
             "type": "string",
             "value": "magenta"
           }
-        ]
+        ],
+        "mapColor": "ffb24cd8"
       },
       {
         "metadata": 3,
@@ -185080,7 +185241,8 @@
             "type": "string",
             "value": "light_blue"
           }
-        ]
+        ],
+        "mapColor": "ff6699d8"
       },
       {
         "metadata": 4,
@@ -185090,7 +185252,8 @@
             "type": "string",
             "value": "yellow"
           }
-        ]
+        ],
+        "mapColor": "ffe5e533"
       },
       {
         "metadata": 5,
@@ -185100,7 +185263,8 @@
             "type": "string",
             "value": "lime"
           }
-        ]
+        ],
+        "mapColor": "ff7fcc19"
       },
       {
         "metadata": 6,
@@ -185110,7 +185274,8 @@
             "type": "string",
             "value": "pink"
           }
-        ]
+        ],
+        "mapColor": "fff27fa5"
       },
       {
         "metadata": 7,
@@ -185120,7 +185285,8 @@
             "type": "string",
             "value": "gray"
           }
-        ]
+        ],
+        "mapColor": "ff4c4c4c"
       },
       {
         "metadata": 8,
@@ -185140,7 +185306,8 @@
             "type": "string",
             "value": "cyan"
           }
-        ]
+        ],
+        "mapColor": "ff4c7f99"
       },
       {
         "metadata": 10,
@@ -185150,7 +185317,8 @@
             "type": "string",
             "value": "purple"
           }
-        ]
+        ],
+        "mapColor": "ff7f3fb2"
       },
       {
         "metadata": 11,
@@ -185160,7 +185328,8 @@
             "type": "string",
             "value": "blue"
           }
-        ]
+        ],
+        "mapColor": "ff334cb2"
       },
       {
         "metadata": 12,
@@ -185170,7 +185339,8 @@
             "type": "string",
             "value": "brown"
           }
-        ]
+        ],
+        "mapColor": "ff664c33"
       },
       {
         "metadata": 13,
@@ -185180,7 +185350,8 @@
             "type": "string",
             "value": "green"
           }
-        ]
+        ],
+        "mapColor": "ff667f33"
       },
       {
         "metadata": 14,
@@ -185190,7 +185361,8 @@
             "type": "string",
             "value": "red"
           }
-        ]
+        ],
+        "mapColor": "ff993333"
       },
       {
         "metadata": 15,
@@ -185200,7 +185372,8 @@
             "type": "string",
             "value": "black"
           }
-        ]
+        ],
+        "mapColor": "ff191919"
       }
     ]
   },

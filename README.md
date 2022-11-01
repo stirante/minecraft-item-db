@@ -2,7 +2,7 @@
 
 This is a simple repo containing JSON files with list of all Minecraft Bedrock items and blocks together with useful info about them.
 
-To save some space, some properties are hidden, when having a default or empty value.
+To save some space, some properties are hidden, when set to default or empty value.
 
 ## Items
 
@@ -30,15 +30,16 @@ Item object schema:
 
 Block object schema:
 
-| Name             | Description                                                     |
-|------------------|-----------------------------------------------------------------|
-| `id`             | ID of the block                                                 |
-| `legacyId`       | Numerical ID of the item                                        |
-| `group`          | Item group in creative inventory                                |
-| `tags`           | A list of tags, that this block has                             |
-| `aliases`        | A list of old IDs, that this item was under                     |
-| `minimumVersion` | Required Minecraft version in order to be able to use this item |
-| `variants`       | A list of block variants                                        |
+| Name             | Description                                                      |
+|------------------|------------------------------------------------------------------|
+| `id`             | ID of the block                                                  |
+| `legacyId`       | Numerical ID of the block                                        |
+| `group`          | Item group in creative inventory                                 |
+| `tags`           | A list of tags, that this block has                              |
+| `aliases`        | A list of old IDs, that this block was under                     |
+| `minimumVersion` | Required Minecraft version in order to be able to use this block |
+| `variants`       | A list of block variants                                         |
+| `mapColor`       | A hex color on the map in format `#RRGGBB`                       |
 
 Block Variant object schema:
 
@@ -46,6 +47,7 @@ Block Variant object schema:
 |------------|------------------------------------------------------------------|
 | `metadata` | Numerical data value of the block variant                        |
 | `states`   | List of NBT properties, that will be defined for this data value |
+| `mapColor` | A hex color on the map in format `#RRGGBB`                       |
 
 NBT Property object schema:
 
