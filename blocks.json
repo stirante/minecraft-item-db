@@ -2410,7 +2410,6 @@
     "id": "minecraft:amethyst_block",
     "legacyId": 582,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -2424,7 +2423,6 @@
     "id": "minecraft:amethyst_cluster",
     "legacyId": 584,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -2494,7 +2492,6 @@
     "id": "minecraft:ancient_debris",
     "legacyId": 526,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -2508,7 +2505,6 @@
     "id": "minecraft:andesite_stairs",
     "legacyId": 426,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -2637,7 +2633,6 @@
   {
     "id": "minecraft:anvil",
     "legacyId": 145,
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -2887,7 +2882,6 @@
     "id": "minecraft:azalea",
     "legacyId": 592,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -2902,7 +2896,6 @@
     "legacyId": 579,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.leaves",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -2973,7 +2966,6 @@
     "legacyId": 580,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.leaves",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -3043,7 +3035,6 @@
     "id": "minecraft:bamboo",
     "legacyId": 418,
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -3292,7 +3283,6 @@
   {
     "id": "minecraft:bamboo_sapling",
     "legacyId": 419,
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -3673,7 +3663,6 @@
   {
     "id": "minecraft:barrier",
     "legacyId": 416,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -3687,7 +3676,6 @@
     "id": "minecraft:basalt",
     "legacyId": 489,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -3727,7 +3715,6 @@
     "id": "minecraft:beacon",
     "legacyId": 138,
     "group": "itemGroup.name.beacon",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -3740,7 +3727,6 @@
   {
     "id": "minecraft:bed",
     "legacyId": 26,
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -4102,7 +4088,6 @@
     "id": "minecraft:bee_nest",
     "legacyId": 473,
     "minimumVersion": "1.14.0",
-    "tags": [],
     "mapColor": "#ffe5e533",
     "aliases": [],
     "variants": [
@@ -4472,7 +4457,6 @@
     "id": "minecraft:beehive",
     "legacyId": 474,
     "minimumVersion": "1.14.0",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -4841,7 +4825,6 @@
   {
     "id": "minecraft:beetroot",
     "legacyId": 244,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -4931,7 +4914,6 @@
     "id": "minecraft:bell",
     "legacyId": 461,
     "group": "itemGroup.name.bell",
-    "tags": [],
     "mapColor": "#fffaee4d",
     "aliases": [],
     "variants": [
@@ -5581,7 +5563,6 @@
     "id": "minecraft:big_dripleaf",
     "legacyId": 578,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -8446,7 +8427,6 @@
     "id": "minecraft:black_candle",
     "legacyId": 683,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8577,7 +8557,6 @@
     "legacyId": 700,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -8607,7 +8586,6 @@
     "id": "minecraft:black_glazed_terracotta",
     "legacyId": 235,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8677,7 +8655,6 @@
     "id": "minecraft:blackstone",
     "legacyId": 528,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8691,7 +8668,6 @@
     "id": "minecraft:blackstone_double_slab",
     "legacyId": 538,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8721,7 +8697,6 @@
     "id": "minecraft:blackstone_slab",
     "legacyId": 537,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8751,7 +8726,6 @@
     "id": "minecraft:blackstone_stairs",
     "legacyId": 531,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -8881,7 +8855,6 @@
     "id": "minecraft:blackstone_wall",
     "legacyId": 532,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -13751,7 +13724,6 @@
     "id": "minecraft:blast_furnace",
     "legacyId": 451,
     "group": "itemGroup.name.furnaces",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -13821,7 +13793,6 @@
     "id": "minecraft:blue_candle",
     "legacyId": 679,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff334cb2",
     "aliases": [],
     "variants": [
@@ -13952,7 +13923,6 @@
     "legacyId": 696,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -13982,7 +13952,6 @@
     "id": "minecraft:blue_glazed_terracotta",
     "legacyId": 231,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff334cb2",
     "aliases": [],
     "variants": [
@@ -14051,7 +14020,6 @@
   {
     "id": "minecraft:blue_ice",
     "legacyId": 266,
-    "tags": [],
     "mapColor": "#ffa0a0ff",
     "aliases": [],
     "variants": [
@@ -14065,7 +14033,6 @@
     "id": "minecraft:bone_block",
     "legacyId": 216,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -14255,7 +14222,6 @@
     "id": "minecraft:bookshelf",
     "legacyId": 47,
     "group": "itemGroup.name.enchantingTable",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -14268,7 +14234,6 @@
   {
     "id": "minecraft:brewing_stand",
     "legacyId": 117,
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -14454,7 +14419,6 @@
     "id": "minecraft:brick_stairs",
     "legacyId": 108,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -14584,7 +14548,6 @@
     "id": "minecraft:brown_candle",
     "legacyId": 680,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff664c33",
     "aliases": [],
     "variants": [
@@ -14715,7 +14678,6 @@
     "legacyId": 697,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -14745,7 +14707,6 @@
     "id": "minecraft:brown_glazed_terracotta",
     "legacyId": 232,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff664c33",
     "aliases": [],
     "variants": [
@@ -14815,7 +14776,6 @@
     "id": "minecraft:brown_mushroom",
     "legacyId": 39,
     "group": "itemGroup.name.mushroom",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -14829,7 +14789,6 @@
     "id": "minecraft:brown_mushroom_block",
     "legacyId": 99,
     "group": "itemGroup.name.mushroom",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -14998,7 +14957,6 @@
   {
     "id": "minecraft:bubble_column",
     "legacyId": 415,
-    "tags": [],
     "mapColor": "#ff4040ff",
     "aliases": [],
     "variants": [
@@ -15028,7 +14986,6 @@
     "id": "minecraft:budding_amethyst",
     "legacyId": 583,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -15042,7 +14999,6 @@
     "id": "minecraft:cactus",
     "legacyId": 81,
     "group": "itemGroup.name.cactus",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -15212,7 +15168,6 @@
     "id": "minecraft:cake",
     "legacyId": 92,
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -15292,7 +15247,6 @@
     "id": "minecraft:calcite",
     "legacyId": 581,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ffd1b1a1",
     "aliases": [],
     "variants": [
@@ -15306,7 +15260,6 @@
     "id": "minecraft:camera",
     "legacyId": 242,
     "group": "itemGroup.name.camera",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -15319,7 +15272,6 @@
   {
     "id": "minecraft:campfire",
     "legacyId": 464,
-    "tags": [],
     "mapColor": "#ff815631",
     "aliases": [],
     "variants": [
@@ -15449,7 +15401,6 @@
     "id": "minecraft:candle",
     "legacyId": 667,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -15580,7 +15531,6 @@
     "legacyId": 684,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -15610,7 +15560,6 @@
     "id": "minecraft:carpet",
     "legacyId": 171,
     "group": "itemGroup.name.woolCarpet",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -15778,7 +15727,6 @@
   {
     "id": "minecraft:carrots",
     "legacyId": 141,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -15868,7 +15816,6 @@
     "id": "minecraft:cartography_table",
     "legacyId": 455,
     "group": "itemGroup.name.craftingTables",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -16260,7 +16207,6 @@
     "id": "minecraft:cave_vines",
     "legacyId": 577,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -16530,7 +16476,6 @@
     "id": "minecraft:cave_vines_body_with_berries",
     "legacyId": 630,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -16800,7 +16745,6 @@
     "id": "minecraft:cave_vines_head_with_berries",
     "legacyId": 631,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -17070,7 +17014,6 @@
     "id": "minecraft:chain",
     "legacyId": 541,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -17109,7 +17052,6 @@
   {
     "id": "minecraft:chain_command_block",
     "legacyId": 189,
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -17371,7 +17313,6 @@
     "id": "minecraft:chiseled_deepslate",
     "legacyId": 650,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -17385,7 +17326,6 @@
     "id": "minecraft:chiseled_nether_bricks",
     "legacyId": 557,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -17399,7 +17339,6 @@
     "id": "minecraft:chiseled_polished_blackstone",
     "legacyId": 534,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -17413,7 +17352,6 @@
     "id": "minecraft:chorus_flower",
     "legacyId": 200,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -17483,7 +17421,6 @@
     "id": "minecraft:chorus_plant",
     "legacyId": 240,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -17497,7 +17434,6 @@
     "id": "minecraft:clay",
     "legacyId": 82,
     "group": "itemGroup.name.clay",
-    "tags": [],
     "mapColor": "#ffa4a8b8",
     "aliases": [],
     "variants": [
@@ -17511,7 +17447,6 @@
     "id": "minecraft:coal_block",
     "legacyId": 173,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -17542,7 +17477,6 @@
     "id": "minecraft:cobbled_deepslate",
     "legacyId": 634,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -17556,7 +17490,6 @@
     "id": "minecraft:cobbled_deepslate_double_slab",
     "legacyId": 651,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -17586,7 +17519,6 @@
     "id": "minecraft:cobbled_deepslate_slab",
     "legacyId": 635,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -17616,7 +17548,6 @@
     "id": "minecraft:cobbled_deepslate_stairs",
     "legacyId": 636,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -17746,7 +17677,6 @@
     "id": "minecraft:cobbled_deepslate_wall",
     "legacyId": 637,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -102022,7 +101952,6 @@
   {
     "id": "minecraft:cocoa",
     "legacyId": 127,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -102211,7 +102140,6 @@
   {
     "id": "minecraft:command_block",
     "legacyId": 137,
-    "tags": [],
     "mapColor": "#ff664c33",
     "aliases": [],
     "variants": [
@@ -102401,7 +102329,6 @@
     "id": "minecraft:composter",
     "legacyId": 468,
     "group": "itemGroup.name.composter",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -102501,7 +102428,6 @@
     "id": "minecraft:concrete",
     "legacyId": 236,
     "group": "itemGroup.name.concrete",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -102670,7 +102596,6 @@
     "id": "minecraft:concrete_powder",
     "legacyId": 237,
     "group": "itemGroup.name.concretePowder",
-    "tags": [],
     "aliases": [
       "minecraft:concretePowder"
     ],
@@ -102841,7 +102766,6 @@
     "id": "minecraft:conduit",
     "legacyId": 412,
     "group": "itemGroup.name.lights",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -102889,7 +102813,6 @@
     "id": "minecraft:coral",
     "legacyId": 386,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -103048,7 +102971,6 @@
     "id": "minecraft:coral_block",
     "legacyId": 387,
     "group": "itemGroup.name.coral",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -103207,7 +103129,6 @@
     "id": "minecraft:coral_fan",
     "legacyId": 388,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -103366,7 +103287,6 @@
     "id": "minecraft:coral_fan_dead",
     "legacyId": 389,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -103525,7 +103445,6 @@
     "id": "minecraft:coral_fan_hang",
     "legacyId": 390,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -103854,7 +103773,6 @@
     "id": "minecraft:coral_fan_hang2",
     "legacyId": 391,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -104183,7 +104101,6 @@
     "id": "minecraft:coral_fan_hang3",
     "legacyId": 392,
     "group": "itemGroup.name.coral_decorations",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -104512,7 +104429,6 @@
     "id": "minecraft:cracked_deepslate_bricks",
     "legacyId": 665,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -104526,7 +104442,6 @@
     "id": "minecraft:cracked_deepslate_tiles",
     "legacyId": 664,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -104540,7 +104455,6 @@
     "id": "minecraft:cracked_nether_bricks",
     "legacyId": 558,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -104554,7 +104468,6 @@
     "id": "minecraft:cracked_polished_blackstone_bricks",
     "legacyId": 535,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -104568,7 +104481,6 @@
     "id": "minecraft:crafting_table",
     "legacyId": 58,
     "group": "itemGroup.name.craftingTables",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -104582,7 +104494,6 @@
     "id": "minecraft:crimson_button",
     "legacyId": 515,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -104772,7 +104683,6 @@
     "id": "minecraft:crimson_door",
     "legacyId": 499,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff943f61",
     "aliases": [],
     "variants": [
@@ -105582,7 +105492,6 @@
     "id": "minecraft:crimson_double_slab",
     "legacyId": 521,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -105612,7 +105521,6 @@
     "id": "minecraft:crimson_fence",
     "legacyId": 511,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -105626,7 +105534,6 @@
     "id": "minecraft:crimson_fence_gate",
     "legacyId": 513,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -105956,7 +105863,6 @@
     "id": "minecraft:crimson_fungus",
     "legacyId": 483,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -105970,7 +105876,6 @@
     "id": "minecraft:crimson_hyphae",
     "legacyId": 554,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff5c191d",
     "aliases": [],
     "variants": [
@@ -106026,7 +105931,6 @@
     "id": "minecraft:crimson_planks",
     "legacyId": 497,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff943f61",
     "aliases": [],
     "variants": [
@@ -106040,7 +105944,6 @@
     "id": "minecraft:crimson_pressure_plate",
     "legacyId": 517,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -106210,7 +106113,6 @@
     "id": "minecraft:crimson_roots",
     "legacyId": 478,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -106224,7 +106126,6 @@
     "id": "minecraft:crimson_slab",
     "legacyId": 519,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -106254,7 +106155,6 @@
     "id": "minecraft:crimson_stairs",
     "legacyId": 509,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff943f61",
     "aliases": [],
     "variants": [
@@ -106556,7 +106456,6 @@
     "id": "minecraft:crimson_stem",
     "legacyId": 480,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff943f61",
     "aliases": [],
     "variants": [
@@ -106596,7 +106495,6 @@
     "id": "minecraft:crimson_trapdoor",
     "legacyId": 501,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -106998,7 +106896,6 @@
     "id": "minecraft:crying_obsidian",
     "legacyId": 544,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -107030,7 +106927,6 @@
     "legacyId": 616,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -107193,7 +107089,6 @@
     "id": "minecraft:cyan_candle",
     "legacyId": 677,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -107324,7 +107219,6 @@
     "legacyId": 694,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -107354,7 +107248,6 @@
     "id": "minecraft:cyan_glazed_terracotta",
     "legacyId": 229,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -109395,7 +109288,6 @@
     "id": "minecraft:dark_prismarine_stairs",
     "legacyId": 258,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -109769,7 +109661,6 @@
     "id": "minecraft:daylight_detector",
     "legacyId": 151,
     "group": "itemGroup.name.redstoneProducers",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -109938,7 +109829,6 @@
   {
     "id": "minecraft:daylight_detector_inverted",
     "legacyId": 178,
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -110108,7 +109998,6 @@
     "id": "minecraft:deadbush",
     "legacyId": 32,
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -110122,7 +110011,6 @@
     "id": "minecraft:deepslate",
     "legacyId": 633,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -110162,7 +110050,6 @@
     "id": "minecraft:deepslate_brick_double_slab",
     "legacyId": 654,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -110192,7 +110079,6 @@
     "id": "minecraft:deepslate_brick_slab",
     "legacyId": 647,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -110222,7 +110108,6 @@
     "id": "minecraft:deepslate_brick_stairs",
     "legacyId": 648,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -110352,7 +110237,6 @@
     "id": "minecraft:deepslate_brick_wall",
     "legacyId": 649,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115222,7 +115106,6 @@
     "id": "minecraft:deepslate_bricks",
     "legacyId": 646,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115344,7 +115227,6 @@
     "legacyId": 655,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115376,7 +115258,6 @@
     "id": "minecraft:deepslate_tile_double_slab",
     "legacyId": 653,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115406,7 +115287,6 @@
     "id": "minecraft:deepslate_tile_slab",
     "legacyId": 643,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115436,7 +115316,6 @@
     "id": "minecraft:deepslate_tile_stairs",
     "legacyId": 644,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -115566,7 +115445,6 @@
     "id": "minecraft:deepslate_tile_wall",
     "legacyId": 645,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -120436,7 +120314,6 @@
     "id": "minecraft:deepslate_tiles",
     "legacyId": 642,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -120642,7 +120519,6 @@
     "id": "minecraft:diamond_block",
     "legacyId": 57,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -120673,7 +120549,6 @@
     "id": "minecraft:diorite_stairs",
     "legacyId": 425,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -120836,7 +120711,6 @@
     "legacyId": 573,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.dirt",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -120850,7 +120724,6 @@
     "id": "minecraft:dispenser",
     "legacyId": 23,
     "group": "itemGroup.name.redstoneContainers",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -121040,7 +120913,6 @@
     "id": "minecraft:double_cut_copper_slab",
     "legacyId": 623,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -121513,7 +121385,6 @@
   {
     "id": "minecraft:double_stone_block_slab2",
     "legacyId": 181,
-    "tags": [],
     "aliases": [
       "minecraft:double_stone_slab2"
     ],
@@ -121763,7 +121634,6 @@
   {
     "id": "minecraft:double_stone_block_slab3",
     "legacyId": 422,
-    "tags": [],
     "aliases": [
       "minecraft:double_stone_slab3"
     ],
@@ -122013,7 +121883,6 @@
   {
     "id": "minecraft:double_stone_block_slab4",
     "legacyId": 423,
-    "tags": [],
     "aliases": [
       "minecraft:double_stone_slab4"
     ],
@@ -122364,7 +122233,6 @@
     "id": "minecraft:dragon_egg",
     "legacyId": 122,
     "group": "itemGroup.name.eggBlocks",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -122378,7 +122246,6 @@
     "id": "minecraft:dried_kelp_block",
     "legacyId": 394,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -122408,7 +122275,6 @@
     "id": "minecraft:dropper",
     "legacyId": 125,
     "group": "itemGroup.name.redstoneContainers",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -122598,7 +122464,6 @@
     "id": "minecraft:emerald_block",
     "legacyId": 133,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff00d93a",
     "aliases": [],
     "variants": [
@@ -122629,7 +122494,6 @@
     "id": "minecraft:enchanting_table",
     "legacyId": 116,
     "group": "itemGroup.name.enchantingTable",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -122643,7 +122507,6 @@
     "id": "minecraft:end_brick_stairs",
     "legacyId": 433,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -122773,7 +122636,6 @@
     "id": "minecraft:end_bricks",
     "legacyId": 206,
     "group": "itemGroup.name.stoneBrick",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -122786,7 +122648,6 @@
   {
     "id": "minecraft:end_portal",
     "legacyId": 119,
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -122932,7 +122793,6 @@
     "id": "minecraft:end_rod",
     "legacyId": 208,
     "group": "itemGroup.name.endRod",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -123002,7 +122862,6 @@
     "id": "minecraft:end_stone",
     "legacyId": 121,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -123016,7 +122875,6 @@
     "id": "minecraft:ender_chest",
     "legacyId": 130,
     "group": "itemGroup.name.chest",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -123121,7 +122979,6 @@
     "legacyId": 617,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -123284,7 +123141,6 @@
     "id": "minecraft:exposed_double_cut_copper_slab",
     "legacyId": 624,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -123808,7 +123664,6 @@
   {
     "id": "minecraft:fire",
     "legacyId": 51,
-    "tags": [],
     "mapColor": "#ffff0000",
     "aliases": [],
     "variants": [
@@ -123993,7 +123848,6 @@
   {
     "id": "minecraft:flower_pot",
     "legacyId": 140,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -124023,7 +123877,6 @@
     "id": "minecraft:flowering_azalea",
     "legacyId": 593,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -124036,7 +123889,6 @@
   {
     "id": "minecraft:flowing_lava",
     "legacyId": 10,
-    "tags": [],
     "mapColor": "#ffff0000",
     "aliases": [],
     "variants": [
@@ -124376,7 +124228,6 @@
   {
     "id": "minecraft:frame",
     "legacyId": 199,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -124867,7 +124718,6 @@
     "legacyId": 723,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.eggBlocks",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -124880,7 +124730,6 @@
   {
     "id": "minecraft:frosted_ice",
     "legacyId": 207,
-    "tags": [],
     "mapColor": "#ffa0a0ff",
     "aliases": [],
     "variants": [
@@ -124930,7 +124779,6 @@
     "id": "minecraft:furnace",
     "legacyId": 61,
     "group": "itemGroup.name.furnaces",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -125000,7 +124848,6 @@
     "id": "minecraft:gilded_blackstone",
     "legacyId": 536,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -125014,7 +124861,6 @@
     "id": "minecraft:glass",
     "legacyId": 20,
     "group": "itemGroup.name.glass",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -125028,7 +124874,6 @@
     "id": "minecraft:glass_pane",
     "legacyId": 102,
     "group": "itemGroup.name.glassPane",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -125042,7 +124887,6 @@
     "id": "minecraft:glow_frame",
     "legacyId": 594,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -125533,7 +125377,6 @@
     "legacyId": 666,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "mapColor": "#ff7fa796",
     "aliases": [],
     "variants": [
@@ -126182,7 +126025,6 @@
   {
     "id": "minecraft:glowingobsidian",
     "legacyId": 246,
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -126196,7 +126038,6 @@
     "id": "minecraft:glowstone",
     "legacyId": 89,
     "group": "itemGroup.name.glowstone",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -126435,7 +126276,6 @@
     "id": "minecraft:granite_stairs",
     "legacyId": 424,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -126612,7 +126452,6 @@
     "id": "minecraft:gray_candle",
     "legacyId": 675,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff4c4c4c",
     "aliases": [],
     "variants": [
@@ -126743,7 +126582,6 @@
     "legacyId": 692,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -126773,7 +126611,6 @@
     "id": "minecraft:gray_glazed_terracotta",
     "legacyId": 227,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff4c4c4c",
     "aliases": [],
     "variants": [
@@ -126843,7 +126680,6 @@
     "id": "minecraft:green_candle",
     "legacyId": 681,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -126974,7 +126810,6 @@
     "legacyId": 698,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -127004,7 +126839,6 @@
     "id": "minecraft:green_glazed_terracotta",
     "legacyId": 233,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -127074,7 +126908,6 @@
     "id": "minecraft:grindstone",
     "legacyId": 450,
     "group": "itemGroup.name.grindStone",
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -127324,7 +127157,6 @@
     "id": "minecraft:hanging_roots",
     "legacyId": 574,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -127338,7 +127170,6 @@
     "id": "minecraft:hardened_clay",
     "legacyId": 172,
     "group": "itemGroup.name.stainedClay",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -127352,7 +127183,6 @@
     "id": "minecraft:hay_block",
     "legacyId": 170,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ffe5e533",
     "aliases": [],
     "variants": [
@@ -127542,7 +127372,6 @@
     "id": "minecraft:heavy_weighted_pressure_plate",
     "legacyId": 148,
     "group": "itemGroup.name.pressurePlate",
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -127712,7 +127541,6 @@
     "id": "minecraft:honey_block",
     "legacyId": 475,
     "minimumVersion": "1.14.0",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -127726,7 +127554,6 @@
     "id": "minecraft:honeycomb_block",
     "legacyId": 476,
     "minimumVersion": "1.14.0",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -127739,7 +127566,6 @@
   {
     "id": "minecraft:hopper",
     "legacyId": 154,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -127929,7 +127755,6 @@
     "id": "minecraft:ice",
     "legacyId": 79,
     "group": "itemGroup.name.ice",
-    "tags": [],
     "mapColor": "#ffa0a0ff",
     "aliases": [],
     "variants": [
@@ -127944,7 +127769,6 @@
     "legacyId": 709,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.monsterStoneEgg",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -127983,7 +127807,6 @@
   {
     "id": "minecraft:info_update",
     "legacyId": 248,
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -127996,7 +127819,6 @@
   {
     "id": "minecraft:info_update2",
     "legacyId": 249,
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -128009,7 +127831,6 @@
   {
     "id": "minecraft:invisible_bedrock",
     "legacyId": 95,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [
       "minecraft:invisibleBedrock"
@@ -128885,7 +128706,6 @@
     "id": "minecraft:iron_trapdoor",
     "legacyId": 167,
     "group": "itemGroup.name.trapdoor",
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -129214,7 +129034,6 @@
   {
     "id": "minecraft:jigsaw",
     "legacyId": 466,
-    "tags": [],
     "mapColor": "#null",
     "aliases": [],
     "variants": [
@@ -129584,7 +129403,6 @@
     "id": "minecraft:jukebox",
     "legacyId": 84,
     "group": "itemGroup.name.musicBlocks",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -131812,7 +131630,6 @@
   {
     "id": "minecraft:kelp",
     "legacyId": 393,
-    "tags": [],
     "mapColor": "#ff4040ff",
     "aliases": [],
     "variants": [
@@ -132154,7 +131971,6 @@
     "id": "minecraft:lantern",
     "legacyId": 463,
     "group": "itemGroup.name.lights",
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -132184,7 +132000,6 @@
     "id": "minecraft:lapis_block",
     "legacyId": 22,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#ff4a80ff",
     "aliases": [],
     "variants": [
@@ -132215,7 +132030,6 @@
     "id": "minecraft:large_amethyst_bud",
     "legacyId": 585,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -132284,7 +132098,6 @@
   {
     "id": "minecraft:lava",
     "legacyId": 11,
-    "tags": [],
     "mapColor": "#ffff0000",
     "aliases": [],
     "variants": [
@@ -132453,7 +132266,6 @@
   {
     "id": "minecraft:lava_cauldron",
     "legacyId": 465,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -132778,7 +132590,6 @@
     "id": "minecraft:leaves",
     "legacyId": 18,
     "group": "itemGroup.name.leaves",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -133107,7 +132918,6 @@
     "id": "minecraft:leaves2",
     "legacyId": 161,
     "group": "itemGroup.name.leaves",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -133276,7 +133086,6 @@
     "id": "minecraft:lectern",
     "legacyId": 449,
     "group": "itemGroup.name.lectern",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -133406,7 +133215,6 @@
     "id": "minecraft:lever",
     "legacyId": 69,
     "group": "itemGroup.name.redstoneProducers",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -133655,7 +133463,6 @@
   {
     "id": "minecraft:light_block",
     "legacyId": 470,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -133825,7 +133632,6 @@
     "id": "minecraft:light_blue_candle",
     "legacyId": 671,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff6699d8",
     "aliases": [],
     "variants": [
@@ -133956,7 +133762,6 @@
     "legacyId": 688,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -133986,7 +133791,6 @@
     "id": "minecraft:light_blue_glazed_terracotta",
     "legacyId": 223,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff6699d8",
     "aliases": [],
     "variants": [
@@ -134056,7 +133860,6 @@
     "id": "minecraft:light_gray_candle",
     "legacyId": 676,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#null",
     "aliases": [],
     "variants": [
@@ -134187,7 +133990,6 @@
     "legacyId": 693,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -134217,7 +134019,6 @@
     "id": "minecraft:light_weighted_pressure_plate",
     "legacyId": 147,
     "group": "itemGroup.name.pressurePlate",
-    "tags": [],
     "mapColor": "#fffaee4d",
     "aliases": [],
     "variants": [
@@ -134387,7 +134188,6 @@
     "id": "minecraft:lightning_rod",
     "legacyId": 567,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -134457,7 +134257,6 @@
     "id": "minecraft:lime_candle",
     "legacyId": 673,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff7fcc19",
     "aliases": [],
     "variants": [
@@ -134588,7 +134387,6 @@
     "legacyId": 690,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -134618,7 +134416,6 @@
     "id": "minecraft:lime_glazed_terracotta",
     "legacyId": 225,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff7fcc19",
     "aliases": [],
     "variants": [
@@ -134687,7 +134484,6 @@
   {
     "id": "minecraft:lit_blast_furnace",
     "legacyId": 469,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -134773,7 +134569,6 @@
   {
     "id": "minecraft:lit_furnace",
     "legacyId": 62,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -134894,7 +134689,6 @@
   {
     "id": "minecraft:lit_redstone_lamp",
     "legacyId": 124,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -134923,7 +134717,6 @@
   {
     "id": "minecraft:lit_smoker",
     "legacyId": 454,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -134993,7 +134786,6 @@
     "id": "minecraft:lodestone",
     "legacyId": 477,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ffffffff",
     "aliases": [],
     "variants": [
@@ -135298,7 +135090,6 @@
   {
     "id": "minecraft:loom",
     "legacyId": 459,
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -135348,7 +135139,6 @@
     "id": "minecraft:magenta_candle",
     "legacyId": 670,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ffb24cd8",
     "aliases": [],
     "variants": [
@@ -135479,7 +135269,6 @@
     "legacyId": 687,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -135509,7 +135298,6 @@
     "id": "minecraft:magenta_glazed_terracotta",
     "legacyId": 222,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ffb24cd8",
     "aliases": [],
     "variants": [
@@ -135579,7 +135367,6 @@
     "id": "minecraft:magma",
     "legacyId": 213,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -135786,7 +135573,6 @@
     "id": "minecraft:mangrove_door",
     "legacyId": 748,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -136596,7 +136382,6 @@
     "id": "minecraft:mangrove_double_slab",
     "legacyId": 754,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -136626,7 +136411,6 @@
     "id": "minecraft:mangrove_fence",
     "legacyId": 746,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -136974,7 +136758,6 @@
     "legacyId": 727,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.leaves",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -137087,7 +136870,6 @@
     "id": "minecraft:mangrove_planks",
     "legacyId": 741,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -137274,7 +137056,6 @@
     "id": "minecraft:mangrove_propagule",
     "legacyId": 729,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -137434,7 +137215,6 @@
     "id": "minecraft:mangrove_roots",
     "legacyId": 737,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff815631",
     "aliases": [],
     "variants": [
@@ -137449,7 +137229,6 @@
     "legacyId": 744,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -137480,7 +137259,6 @@
     "legacyId": 743,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -138293,7 +138071,6 @@
     "id": "minecraft:medium_amethyst_bud",
     "legacyId": 586,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -138362,7 +138139,6 @@
   {
     "id": "minecraft:melon_block",
     "legacyId": 103,
-    "tags": [],
     "mapColor": "#ff7fcc19",
     "aliases": [],
     "variants": [
@@ -138375,7 +138151,6 @@
   {
     "id": "minecraft:melon_stem",
     "legacyId": 105,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -139122,7 +138897,6 @@
     "id": "minecraft:monster_egg",
     "legacyId": 97,
     "group": "itemGroup.name.monsterStoneEgg",
-    "tags": [],
     "mapColor": "#ffa4a8b8",
     "aliases": [],
     "variants": [
@@ -139208,7 +138982,6 @@
     "id": "minecraft:moss_carpet",
     "legacyId": 590,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -139238,7 +139011,6 @@
     "id": "minecraft:mossy_cobblestone_stairs",
     "legacyId": 434,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -139368,7 +139140,6 @@
     "id": "minecraft:mossy_stone_brick_stairs",
     "legacyId": 430,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -139497,7 +139268,6 @@
   {
     "id": "minecraft:moving_block",
     "legacyId": 250,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [
       "minecraft:movingBlock"
@@ -139513,7 +139283,6 @@
     "id": "minecraft:mud",
     "legacyId": 728,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff575c5c",
     "aliases": [],
     "variants": [
@@ -139527,7 +139296,6 @@
     "id": "minecraft:mud_brick_double_slab",
     "legacyId": 734,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -139558,7 +139326,6 @@
     "legacyId": 733,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -139589,7 +139356,6 @@
     "legacyId": 735,
     "minimumVersion": "1.19.0",
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -139719,7 +139485,6 @@
     "id": "minecraft:mud_brick_wall",
     "legacyId": 736,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -144589,7 +144354,6 @@
     "id": "minecraft:mud_bricks",
     "legacyId": 730,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -144603,7 +144367,6 @@
     "id": "minecraft:muddy_mangrove_roots",
     "legacyId": 738,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff815631",
     "aliases": [],
     "variants": [
@@ -144643,7 +144406,6 @@
     "id": "minecraft:mycelium",
     "legacyId": 110,
     "group": "itemGroup.name.dirt",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -144657,7 +144419,6 @@
     "id": "minecraft:nether_brick",
     "legacyId": 112,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -144671,7 +144432,6 @@
     "id": "minecraft:nether_brick_fence",
     "legacyId": 113,
     "group": "itemGroup.name.fence",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -144685,7 +144445,6 @@
     "id": "minecraft:nether_brick_stairs",
     "legacyId": 114,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -144815,7 +144574,6 @@
     "id": "minecraft:nether_gold_ore",
     "legacyId": 543,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -144829,7 +144587,6 @@
     "id": "minecraft:nether_sprouts",
     "legacyId": 493,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -144842,7 +144599,6 @@
   {
     "id": "minecraft:nether_wart",
     "legacyId": 115,
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -144892,7 +144648,6 @@
     "id": "minecraft:nether_wart_block",
     "legacyId": 214,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -144906,7 +144661,6 @@
     "id": "minecraft:netherite_block",
     "legacyId": 525,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -144920,7 +144674,6 @@
     "id": "minecraft:netherrack",
     "legacyId": 87,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -144933,7 +144686,6 @@
   {
     "id": "minecraft:netherreactor",
     "legacyId": 247,
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -144947,7 +144699,6 @@
     "id": "minecraft:normal_stone_stairs",
     "legacyId": 435,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -145077,7 +144828,6 @@
     "id": "minecraft:noteblock",
     "legacyId": 25,
     "group": "itemGroup.name.musicBlocks",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -145223,7 +144973,6 @@
     "id": "minecraft:observer",
     "legacyId": 251,
     "group": "itemGroup.name.redstoneProducers",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -145429,7 +145178,6 @@
     "id": "minecraft:ochre_froglight",
     "legacyId": 726,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -145469,7 +145217,6 @@
     "id": "minecraft:orange_candle",
     "legacyId": 669,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -145600,7 +145347,6 @@
     "legacyId": 686,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -145630,7 +145376,6 @@
     "id": "minecraft:orange_glazed_terracotta",
     "legacyId": 221,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -145735,7 +145480,6 @@
     "legacyId": 619,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff167e86",
     "aliases": [],
     "variants": [
@@ -145898,7 +145642,6 @@
     "id": "minecraft:oxidized_double_cut_copper_slab",
     "legacyId": 626,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff167e86",
     "aliases": [],
     "variants": [
@@ -145928,7 +145671,6 @@
     "id": "minecraft:packed_ice",
     "legacyId": 174,
     "group": "itemGroup.name.ice",
-    "tags": [],
     "mapColor": "#ffa0a0ff",
     "aliases": [],
     "variants": [
@@ -145942,7 +145684,6 @@
     "id": "minecraft:packed_mud",
     "legacyId": 732,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -145956,7 +145697,6 @@
     "id": "minecraft:pearlescent_froglight",
     "legacyId": 724,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#fff27fa5",
     "aliases": [],
     "variants": [
@@ -145996,7 +145736,6 @@
     "id": "minecraft:pink_candle",
     "legacyId": 674,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#fff27fa5",
     "aliases": [],
     "variants": [
@@ -146127,7 +145866,6 @@
     "legacyId": 691,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -146157,7 +145895,6 @@
     "id": "minecraft:pink_glazed_terracotta",
     "legacyId": 226,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#fff27fa5",
     "aliases": [],
     "variants": [
@@ -146227,7 +145964,6 @@
     "id": "minecraft:piston",
     "legacyId": 33,
     "group": "itemGroup.name.pistons",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -146296,7 +146032,6 @@
   {
     "id": "minecraft:piston_arm_collision",
     "legacyId": 34,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [
       "minecraft:pistonArmCollision"
@@ -146439,7 +146174,6 @@
     "id": "minecraft:podzol",
     "legacyId": 243,
     "group": "itemGroup.name.dirt",
-    "tags": [],
     "mapColor": "#ff815631",
     "aliases": [],
     "variants": [
@@ -146453,7 +146187,6 @@
     "id": "minecraft:pointed_dripstone",
     "legacyId": 563,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -146612,7 +146345,6 @@
     "id": "minecraft:polished_andesite_stairs",
     "legacyId": 429,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -146742,7 +146474,6 @@
     "id": "minecraft:polished_basalt",
     "legacyId": 490,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -146782,7 +146513,6 @@
     "id": "minecraft:polished_blackstone",
     "legacyId": 546,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -146796,7 +146526,6 @@
     "id": "minecraft:polished_blackstone_brick_double_slab",
     "legacyId": 540,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -146826,7 +146555,6 @@
     "id": "minecraft:polished_blackstone_brick_slab",
     "legacyId": 539,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -146856,7 +146584,6 @@
     "id": "minecraft:polished_blackstone_brick_stairs",
     "legacyId": 530,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -146986,7 +146713,6 @@
     "id": "minecraft:polished_blackstone_brick_wall",
     "legacyId": 533,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -151856,7 +151582,6 @@
     "id": "minecraft:polished_blackstone_bricks",
     "legacyId": 529,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -151870,7 +151595,6 @@
     "id": "minecraft:polished_blackstone_button",
     "legacyId": 551,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -152060,7 +151784,6 @@
     "id": "minecraft:polished_blackstone_double_slab",
     "legacyId": 549,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -152090,7 +151813,6 @@
     "id": "minecraft:polished_blackstone_pressure_plate",
     "legacyId": 550,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -152260,7 +151982,6 @@
     "id": "minecraft:polished_blackstone_slab",
     "legacyId": 548,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -152290,7 +152011,6 @@
     "id": "minecraft:polished_blackstone_stairs",
     "legacyId": 547,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -152420,7 +152140,6 @@
     "id": "minecraft:polished_blackstone_wall",
     "legacyId": 552,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -157290,7 +157009,6 @@
     "id": "minecraft:polished_deepslate",
     "legacyId": 638,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -157304,7 +157022,6 @@
     "id": "minecraft:polished_deepslate_double_slab",
     "legacyId": 652,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -157334,7 +157051,6 @@
     "id": "minecraft:polished_deepslate_slab",
     "legacyId": 639,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -157364,7 +157080,6 @@
     "id": "minecraft:polished_deepslate_stairs",
     "legacyId": 640,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -157494,7 +157209,6 @@
     "id": "minecraft:polished_deepslate_wall",
     "legacyId": 641,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -162364,7 +162078,6 @@
     "id": "minecraft:polished_diorite_stairs",
     "legacyId": 428,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -162494,7 +162207,6 @@
     "id": "minecraft:polished_granite_stairs",
     "legacyId": 427,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -162623,7 +162335,6 @@
   {
     "id": "minecraft:portal",
     "legacyId": 90,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -162662,7 +162373,6 @@
   {
     "id": "minecraft:potatoes",
     "legacyId": 142,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -162752,7 +162462,6 @@
     "id": "minecraft:powder_snow",
     "legacyId": 561,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ffffffff",
     "aliases": [],
     "variants": [
@@ -162765,7 +162474,6 @@
   {
     "id": "minecraft:powered_comparator",
     "legacyId": 150,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -163094,7 +162802,6 @@
   {
     "id": "minecraft:powered_repeater",
     "legacyId": 94,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -163343,7 +163050,6 @@
   {
     "id": "minecraft:prismarine",
     "legacyId": 168,
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -163382,7 +163088,6 @@
     "id": "minecraft:prismarine_bricks_stairs",
     "legacyId": 259,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff5cdbd5",
     "aliases": [],
     "variants": [
@@ -163512,7 +163217,6 @@
     "id": "minecraft:prismarine_stairs",
     "legacyId": 257,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -163693,7 +163397,6 @@
   {
     "id": "minecraft:pumpkin_stem",
     "legacyId": 104,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -164423,7 +164126,6 @@
     "id": "minecraft:purple_candle",
     "legacyId": 678,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -164554,7 +164256,6 @@
     "legacyId": 695,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -164584,7 +164285,6 @@
     "id": "minecraft:purple_glazed_terracotta",
     "legacyId": 219,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -164654,7 +164354,6 @@
     "id": "minecraft:purpur_block",
     "legacyId": 201,
     "group": "itemGroup.name.purpur",
-    "tags": [],
     "mapColor": "#ffb24cd8",
     "aliases": [],
     "variants": [
@@ -164844,7 +164543,6 @@
     "id": "minecraft:purpur_stairs",
     "legacyId": 203,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ffb24cd8",
     "aliases": [],
     "variants": [
@@ -164974,7 +164672,6 @@
     "id": "minecraft:quartz_block",
     "legacyId": 155,
     "group": "itemGroup.name.oreBlocks",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -165164,7 +164861,6 @@
     "id": "minecraft:quartz_bricks",
     "legacyId": 559,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -165178,7 +164874,6 @@
     "id": "minecraft:quartz_ore",
     "legacyId": 153,
     "group": "itemGroup.name.ore",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -165192,7 +164887,6 @@
     "id": "minecraft:quartz_stairs",
     "legacyId": 156,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -165487,7 +165181,6 @@
     "id": "minecraft:red_candle",
     "legacyId": 682,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -165618,7 +165311,6 @@
     "legacyId": 699,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -165770,7 +165462,6 @@
     "id": "minecraft:red_glazed_terracotta",
     "legacyId": 234,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -165840,7 +165531,6 @@
     "id": "minecraft:red_mushroom",
     "legacyId": 40,
     "group": "itemGroup.name.mushroom",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -165854,7 +165544,6 @@
     "id": "minecraft:red_mushroom_block",
     "legacyId": 100,
     "group": "itemGroup.name.mushroom",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -166024,7 +165713,6 @@
     "id": "minecraft:red_nether_brick",
     "legacyId": 215,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -166038,7 +165726,6 @@
     "id": "minecraft:red_nether_brick_stairs",
     "legacyId": 439,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -166168,7 +165855,6 @@
     "id": "minecraft:red_sandstone",
     "legacyId": 179,
     "group": "itemGroup.name.sandstone",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -166218,7 +165904,6 @@
     "id": "minecraft:red_sandstone_stairs",
     "legacyId": 180,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -166348,7 +166033,6 @@
     "id": "minecraft:redstone_block",
     "legacyId": 152,
     "group": "itemGroup.name.redstone",
-    "tags": [],
     "mapColor": "#ffff0000",
     "aliases": [],
     "variants": [
@@ -166362,7 +166046,6 @@
     "id": "minecraft:redstone_lamp",
     "legacyId": 123,
     "group": "itemGroup.name.lights",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -166393,7 +166076,6 @@
     "id": "minecraft:redstone_torch",
     "legacyId": 76,
     "group": "itemGroup.name.redstone",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -166462,7 +166144,6 @@
   {
     "id": "minecraft:redstone_wire",
     "legacyId": 55,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -166632,7 +166313,6 @@
     "id": "minecraft:reeds",
     "legacyId": 83,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -166802,7 +166482,6 @@
     "id": "minecraft:reinforced_deepslate",
     "legacyId": 721,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff646464",
     "aliases": [],
     "variants": [
@@ -166815,7 +166494,6 @@
   {
     "id": "minecraft:repeating_command_block",
     "legacyId": 188,
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -167004,7 +166682,6 @@
   {
     "id": "minecraft:reserved6",
     "legacyId": 255,
-    "tags": [],
     "mapColor": "#ff976d4d",
     "aliases": [],
     "variants": [
@@ -167018,7 +166695,6 @@
     "id": "minecraft:respawn_anchor",
     "legacyId": 527,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -167109,7 +166785,6 @@
     "id": "minecraft:sandstone",
     "legacyId": 24,
     "group": "itemGroup.name.sandstone",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -167159,7 +166834,6 @@
     "id": "minecraft:sandstone_stairs",
     "legacyId": 128,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -167481,7 +167155,6 @@
     "id": "minecraft:scaffolding",
     "legacyId": 420,
     "group": "itemGroup.name.climbing",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -167731,7 +167404,6 @@
     "id": "minecraft:sculk",
     "legacyId": 713,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff0d1217",
     "aliases": [],
     "variants": [
@@ -167745,7 +167417,6 @@
     "id": "minecraft:sculk_catalyst",
     "legacyId": 715,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff0d1217",
     "aliases": [],
     "variants": [
@@ -167775,7 +167446,6 @@
     "id": "minecraft:sculk_sensor",
     "legacyId": 562,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff0d1217",
     "aliases": [],
     "variants": [
@@ -167805,7 +167475,6 @@
     "id": "minecraft:sculk_shrieker",
     "legacyId": 716,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff0d1217",
     "aliases": [],
     "variants": [
@@ -167875,7 +167544,6 @@
     "id": "minecraft:sculk_vein",
     "legacyId": 714,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff0d1217",
     "aliases": [],
     "variants": [
@@ -168525,7 +168193,6 @@
     "id": "minecraft:sea_lantern",
     "legacyId": 169,
     "group": "itemGroup.name.lights",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [
       "minecraft:seaLantern"
@@ -168540,7 +168207,6 @@
   {
     "id": "minecraft:sea_pickle",
     "legacyId": 411,
-    "tags": [],
     "mapColor": "#ff667f33",
     "aliases": [],
     "variants": [
@@ -168670,7 +168336,6 @@
     "id": "minecraft:seagrass",
     "legacyId": 385,
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -168709,7 +168374,6 @@
     "id": "minecraft:shroomlight",
     "legacyId": 485,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff993333",
     "aliases": [],
     "variants": [
@@ -168723,7 +168387,6 @@
     "id": "minecraft:shulker_box",
     "legacyId": 218,
     "group": "itemGroup.name.shulkerBox",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -168892,7 +168555,6 @@
     "id": "minecraft:silver_glazed_terracotta",
     "legacyId": 228,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#null",
     "aliases": [],
     "variants": [
@@ -168961,7 +168623,6 @@
   {
     "id": "minecraft:skull",
     "legacyId": 144,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -169031,7 +168692,6 @@
     "id": "minecraft:slime",
     "legacyId": 165,
     "group": "itemGroup.name.constructionMisc",
-    "tags": [],
     "mapColor": "#ff7fb238",
     "aliases": [],
     "variants": [
@@ -169045,7 +168705,6 @@
     "id": "minecraft:small_amethyst_bud",
     "legacyId": 587,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -169115,7 +168774,6 @@
     "id": "minecraft:small_dripleaf_block",
     "legacyId": 591,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -169261,7 +168919,6 @@
     "id": "minecraft:smoker",
     "legacyId": 453,
     "group": "itemGroup.name.furnaces",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -169331,7 +168988,6 @@
     "id": "minecraft:smooth_basalt",
     "legacyId": 632,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff191919",
     "aliases": [],
     "variants": [
@@ -169345,7 +169001,6 @@
     "id": "minecraft:smooth_quartz_stairs",
     "legacyId": 440,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fffffcf5",
     "aliases": [],
     "variants": [
@@ -169475,7 +169130,6 @@
     "id": "minecraft:smooth_red_sandstone_stairs",
     "legacyId": 431,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -169605,7 +169259,6 @@
     "id": "minecraft:smooth_sandstone_stairs",
     "legacyId": 432,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -169735,7 +169388,6 @@
     "id": "minecraft:smooth_stone",
     "legacyId": 438,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -169749,7 +169401,6 @@
     "id": "minecraft:snow",
     "legacyId": 80,
     "group": "itemGroup.name.ice",
-    "tags": [],
     "mapColor": "#ffffffff",
     "aliases": [],
     "variants": [
@@ -170015,7 +169666,6 @@
     "id": "minecraft:soul_campfire",
     "legacyId": 545,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff815631",
     "aliases": [],
     "variants": [
@@ -170145,7 +169795,6 @@
     "id": "minecraft:soul_fire",
     "legacyId": 492,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff6699d8",
     "aliases": [],
     "variants": [
@@ -170315,7 +169964,6 @@
     "id": "minecraft:soul_lantern",
     "legacyId": 524,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ffa7a7a7",
     "aliases": [],
     "variants": [
@@ -170345,7 +169993,6 @@
     "id": "minecraft:soul_sand",
     "legacyId": 88,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ff664c33",
     "aliases": [],
     "variants": [
@@ -170359,7 +170006,6 @@
     "id": "minecraft:soul_soil",
     "legacyId": 491,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff664c33",
     "aliases": [],
     "variants": [
@@ -170373,7 +170019,6 @@
     "id": "minecraft:soul_torch",
     "legacyId": 523,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -170443,7 +170088,6 @@
     "id": "minecraft:sponge",
     "legacyId": 19,
     "group": "itemGroup.name.natureBuildingBlocks",
-    "tags": [],
     "mapColor": "#ffe5e533",
     "aliases": [],
     "variants": [
@@ -170473,7 +170117,6 @@
     "id": "minecraft:spore_blossom",
     "legacyId": 576,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -172702,7 +172345,6 @@
     "id": "minecraft:stained_glass",
     "legacyId": 241,
     "group": "itemGroup.name.glass",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -172871,7 +172513,6 @@
     "id": "minecraft:stained_glass_pane",
     "legacyId": 160,
     "group": "itemGroup.name.glassPane",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -173040,7 +172681,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "group": "itemGroup.name.stainedClay",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -173209,7 +172849,6 @@
     "id": "minecraft:standing_banner",
     "legacyId": 176,
     "group": "itemGroup.name.banner",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -173552,7 +173191,6 @@
     "id": "minecraft:sticky_piston",
     "legacyId": 29,
     "group": "itemGroup.name.pistons",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -173621,7 +173259,6 @@
   {
     "id": "minecraft:sticky_piston_arm_collision",
     "legacyId": 472,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [
       "minecraft:stickyPistonArmCollision"
@@ -174027,7 +173664,6 @@
     "id": "minecraft:stone_block_slab2",
     "legacyId": 182,
     "group": "itemGroup.name.slab",
-    "tags": [],
     "aliases": [
       "minecraft:stone_slab2"
     ],
@@ -174278,7 +173914,6 @@
     "id": "minecraft:stone_block_slab3",
     "legacyId": 417,
     "group": "itemGroup.name.slab",
-    "tags": [],
     "aliases": [
       "minecraft:stone_slab3"
     ],
@@ -174529,7 +174164,6 @@
     "id": "minecraft:stone_block_slab4",
     "legacyId": 421,
     "group": "itemGroup.name.slab",
-    "tags": [],
     "aliases": [
       "minecraft:stone_slab4"
     ],
@@ -174690,7 +174324,6 @@
     "id": "minecraft:stone_brick_stairs",
     "legacyId": 109,
     "group": "itemGroup.name.stairs",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -175316,7 +174949,6 @@
     "id": "minecraft:stonebrick",
     "legacyId": 98,
     "group": "itemGroup.name.stoneBrick",
-    "tags": [],
     "mapColor": "#ffa4a8b8",
     "aliases": [],
     "variants": [
@@ -175375,7 +175007,6 @@
   {
     "id": "minecraft:stonecutter",
     "legacyId": 245,
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -175389,7 +175020,6 @@
     "id": "minecraft:stonecutter_block",
     "legacyId": 452,
     "group": "itemGroup.name.craftingTables",
-    "tags": [],
     "mapColor": "#FF707070",
     "aliases": [],
     "variants": [
@@ -175543,7 +175173,6 @@
     "id": "minecraft:stripped_crimson_hyphae",
     "legacyId": 555,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff5c191d",
     "aliases": [],
     "variants": [
@@ -175583,7 +175212,6 @@
     "id": "minecraft:stripped_crimson_stem",
     "legacyId": 495,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff943f61",
     "aliases": [],
     "variants": [
@@ -175877,7 +175505,6 @@
     "id": "minecraft:stripped_warped_hyphae",
     "legacyId": 556,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff562c3e",
     "aliases": [],
     "variants": [
@@ -175917,7 +175544,6 @@
     "id": "minecraft:stripped_warped_stem",
     "legacyId": 496,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -175956,7 +175582,6 @@
   {
     "id": "minecraft:structure_block",
     "legacyId": 252,
-    "tags": [],
     "mapColor": "#null",
     "aliases": [],
     "variants": [
@@ -176025,7 +175650,6 @@
   {
     "id": "minecraft:structure_void",
     "legacyId": 217,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -176055,7 +175679,6 @@
     "id": "minecraft:sweet_berry_bush",
     "legacyId": 462,
     "group": "itemGroup.name.crop",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -176145,7 +175768,6 @@
     "id": "minecraft:tallgrass",
     "legacyId": 31,
     "group": "itemGroup.name.grass",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -176194,7 +175816,6 @@
     "id": "minecraft:target",
     "legacyId": 494,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ffffffff",
     "aliases": [],
     "variants": [
@@ -176209,7 +175830,6 @@
     "legacyId": 589,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.glass",
-    "tags": [],
     "mapColor": "#ff4c4c4c",
     "aliases": [],
     "variants": [
@@ -176223,7 +175843,6 @@
     "id": "minecraft:tnt",
     "legacyId": 46,
     "group": "itemGroup.name.tnt",
-    "tags": [],
     "mapColor": "#ffff0000",
     "aliases": [],
     "variants": [
@@ -176293,7 +175912,6 @@
     "id": "minecraft:torch",
     "legacyId": 50,
     "group": "itemGroup.name.torch",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -176695,7 +176313,6 @@
     "id": "minecraft:trapped_chest",
     "legacyId": 146,
     "group": "itemGroup.name.chest",
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -176764,7 +176381,6 @@
   {
     "id": "minecraft:trip_wire",
     "legacyId": 132,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [
       "minecraft:tripWire"
@@ -177176,7 +176792,6 @@
     "id": "minecraft:tripwire_hook",
     "legacyId": 131,
     "group": "itemGroup.name.redstoneProducers",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -177506,7 +177121,6 @@
     "id": "minecraft:tuff",
     "legacyId": 588,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff392923",
     "aliases": [],
     "variants": [
@@ -177520,7 +177134,6 @@
     "id": "minecraft:turtle_egg",
     "legacyId": 414,
     "group": "itemGroup.name.eggBlocks",
-    "tags": [],
     "mapColor": "#fff7e9a3",
     "aliases": [],
     "variants": [
@@ -177710,7 +177323,6 @@
     "id": "minecraft:twisting_vines",
     "legacyId": 542,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -177980,7 +177592,6 @@
     "id": "minecraft:undyed_shulker_box",
     "legacyId": 205,
     "group": "itemGroup.name.shulkerBox",
-    "tags": [],
     "mapColor": "#ff7f3fb2",
     "aliases": [],
     "variants": [
@@ -177993,7 +177604,6 @@
   {
     "id": "minecraft:unlit_redstone_torch",
     "legacyId": 75,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -178062,7 +177672,6 @@
   {
     "id": "minecraft:unpowered_comparator",
     "legacyId": 149,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -178391,7 +178000,6 @@
   {
     "id": "minecraft:unpowered_repeater",
     "legacyId": 93,
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -178641,7 +178249,6 @@
     "id": "minecraft:verdant_froglight",
     "legacyId": 725,
     "minimumVersion": "1.19.0",
-    "tags": [],
     "mapColor": "#ff7fa796",
     "aliases": [],
     "variants": [
@@ -178681,7 +178288,6 @@
     "id": "minecraft:vine",
     "legacyId": 106,
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -178849,7 +178455,6 @@
   {
     "id": "minecraft:wall_banner",
     "legacyId": 177,
-    "tags": [],
     "mapColor": "#ff8f7748",
     "aliases": [],
     "variants": [
@@ -178992,7 +178597,6 @@
     "id": "minecraft:warped_button",
     "legacyId": 516,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -179182,7 +178786,6 @@
     "id": "minecraft:warped_door",
     "legacyId": 500,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -179992,7 +179595,6 @@
     "id": "minecraft:warped_double_slab",
     "legacyId": 522,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180022,7 +179624,6 @@
     "id": "minecraft:warped_fence",
     "legacyId": 512,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180036,7 +179637,6 @@
     "id": "minecraft:warped_fence_gate",
     "legacyId": 514,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180366,7 +179966,6 @@
     "id": "minecraft:warped_fungus",
     "legacyId": 484,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180380,7 +179979,6 @@
     "id": "minecraft:warped_hyphae",
     "legacyId": 553,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff562c3e",
     "aliases": [],
     "variants": [
@@ -180436,7 +180034,6 @@
     "id": "minecraft:warped_planks",
     "legacyId": 498,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -180450,7 +180047,6 @@
     "id": "minecraft:warped_pressure_plate",
     "legacyId": 518,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180620,7 +180216,6 @@
     "id": "minecraft:warped_roots",
     "legacyId": 479,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180634,7 +180229,6 @@
     "id": "minecraft:warped_slab",
     "legacyId": 520,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -180664,7 +180258,6 @@
     "id": "minecraft:warped_stairs",
     "legacyId": 510,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -180966,7 +180559,6 @@
     "id": "minecraft:warped_stem",
     "legacyId": 481,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -181006,7 +180598,6 @@
     "id": "minecraft:warped_trapdoor",
     "legacyId": 502,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff4c7f99",
     "aliases": [],
     "variants": [
@@ -181408,7 +180999,6 @@
     "id": "minecraft:warped_wart_block",
     "legacyId": 482,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff14b485",
     "aliases": [],
     "variants": [
@@ -181593,7 +181183,6 @@
     "id": "minecraft:waterlily",
     "legacyId": 111,
     "group": "itemGroup.name.greenery",
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -181642,7 +181231,6 @@
     "legacyId": 620,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -181805,7 +181393,6 @@
     "id": "minecraft:waxed_double_cut_copper_slab",
     "legacyId": 627,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ffd88033",
     "aliases": [],
     "variants": [
@@ -181870,7 +181457,6 @@
     "legacyId": 621,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -182033,7 +181619,6 @@
     "id": "minecraft:waxed_exposed_double_cut_copper_slab",
     "legacyId": 628,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff876b62",
     "aliases": [],
     "variants": [
@@ -182331,7 +181916,6 @@
     "legacyId": 622,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -182494,7 +182078,6 @@
     "id": "minecraft:waxed_weathered_double_cut_copper_slab",
     "legacyId": 629,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -182559,7 +182142,6 @@
     "legacyId": 618,
     "minimumVersion": "1.17.0",
     "group": "itemGroup.name.slab",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -182722,7 +182304,6 @@
     "id": "minecraft:weathered_double_cut_copper_slab",
     "legacyId": 625,
     "minimumVersion": "1.17.0",
-    "tags": [],
     "mapColor": "#ff3a8e8c",
     "aliases": [],
     "variants": [
@@ -182752,7 +182333,6 @@
     "id": "minecraft:web",
     "legacyId": 30,
     "group": "itemGroup.name.natureMisc",
-    "tags": [],
     "mapColor": "#ffc7c7c7",
     "aliases": [],
     "variants": [
@@ -182766,7 +182346,6 @@
     "id": "minecraft:weeping_vines",
     "legacyId": 486,
     "minimumVersion": "1.16.0",
-    "tags": [],
     "mapColor": "#ff700200",
     "aliases": [],
     "variants": [
@@ -183035,7 +182614,6 @@
   {
     "id": "minecraft:wheat",
     "legacyId": 59,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -183125,7 +182703,6 @@
     "id": "minecraft:white_candle",
     "legacyId": 668,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ffc7c7c7",
     "aliases": [],
     "variants": [
@@ -183256,7 +182833,6 @@
     "legacyId": 685,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -183286,7 +182862,6 @@
     "id": "minecraft:white_glazed_terracotta",
     "legacyId": 220,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ffffffff",
     "aliases": [],
     "variants": [
@@ -183355,7 +182930,6 @@
   {
     "id": "minecraft:wither_rose",
     "legacyId": 471,
-    "tags": [],
     "mapColor": "#ff007c00",
     "aliases": [],
     "variants": [
@@ -185466,7 +185040,6 @@
     "id": "minecraft:wool",
     "legacyId": 35,
     "group": "itemGroup.name.wool",
-    "tags": [],
     "aliases": [],
     "variants": [
       {
@@ -185635,7 +185208,6 @@
     "id": "minecraft:yellow_candle",
     "legacyId": 672,
     "minimumVersion": "1.17.10",
-    "tags": [],
     "mapColor": "#ffe5e533",
     "aliases": [],
     "variants": [
@@ -185766,7 +185338,6 @@
     "legacyId": 689,
     "minimumVersion": "1.17.10",
     "group": "itemGroup.name.miscFood",
-    "tags": [],
     "mapColor": "#00000000",
     "aliases": [],
     "variants": [
@@ -185812,7 +185383,6 @@
     "id": "minecraft:yellow_glazed_terracotta",
     "legacyId": 224,
     "group": "itemGroup.name.glazedTerracotta",
-    "tags": [],
     "mapColor": "#ffe5e533",
     "aliases": [],
     "variants": [
