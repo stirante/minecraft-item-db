@@ -3574,32 +3574,32 @@
     "legacyId": 175,
     "metadata": 0,
     "category": "nature",
-    "langKey": "tile.double_plant.name",
-    "langName": "Plant"
+    "langKey": "tile.double_plant.sunflower.name",
+    "langName": "Sunflower"
   },
   {
     "id": "minecraft:double_plant",
     "legacyId": 175,
     "metadata": 1,
     "category": "nature",
-    "langKey": "tile.double_plant.name",
-    "langName": "Plant"
+    "langKey": "tile.double_plant.syringa.name",
+    "langName": "Lilac"
   },
   {
     "id": "minecraft:double_plant",
     "legacyId": 175,
     "metadata": 2,
     "category": "nature",
-    "langKey": "tile.double_plant.name",
-    "langName": "Plant"
+    "langKey": "tile.double_plant.rose.name",
+    "langName": "Rose Bush"
   },
   {
     "id": "minecraft:double_plant",
     "legacyId": 175,
     "metadata": 3,
     "category": "nature",
-    "langKey": "tile.double_plant.name",
-    "langName": "Plant"
+    "langKey": "tile.double_plant.paeonia.name",
+    "langName": "Peony"
   },
   {
     "id": "minecraft:double_plant",
@@ -8402,88 +8402,88 @@
     "legacyId": 38,
     "metadata": 0,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.poppy.name",
+    "langName": "Poppy"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 1,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.blueOrchid.name",
+    "langName": "Blue Orchid"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 2,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.allium.name",
+    "langName": "Allium"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 3,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.houstonia.name",
+    "langName": "Azure Bluet"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 4,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.tulipRed.name",
+    "langName": "Red Tulip"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 5,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.tulipOrange.name",
+    "langName": "Orange Tulip"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 6,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.tulipWhite.name",
+    "langName": "White Tulip"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 7,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.tulipPink.name",
+    "langName": "Pink Tulip"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 8,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.oxeyeDaisy.name",
+    "langName": "Oxeye Daisy"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 9,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.cornflower.name",
+    "langName": "Cornflower"
   },
   {
     "id": "minecraft:red_flower",
     "legacyId": 38,
     "metadata": 10,
     "category": "nature",
-    "langKey": "tile.red_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.red_flower.lilyOfTheValley.name",
+    "langName": "Lily of the Valley"
   },
   {
     "id": "minecraft:red_glazed_terracotta",
@@ -12097,8 +12097,8 @@
     "legacyId": 37,
     "metadata": 0,
     "category": "nature",
-    "langKey": "tile.yellow_flower.name",
-    "langName": "Flower"
+    "langKey": "tile.yellow_flower.dandelion.name",
+    "langName": "Dandelion"
   },
   {
     "id": "minecraft:yellow_glazed_terracotta",
