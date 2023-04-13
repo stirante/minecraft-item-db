@@ -1,7 +1,7 @@
 [
   {
     "id": "minecraft:acacia_boat",
-    "legacyId": 379,
+    "legacyId": 381,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -23,7 +23,7 @@
   },
   {
     "id": "minecraft:acacia_chest_boat",
-    "legacyId": 648,
+    "legacyId": 650,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -38,7 +38,7 @@
   },
   {
     "id": "minecraft:acacia_door",
-    "legacyId": 561,
+    "legacyId": 563,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -49,12 +49,42 @@
     "langName": "Acacia Door"
   },
   {
+    "id": "minecraft:acacia_fence",
+    "legacyId": -575,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.acaciaFence.name",
+    "langName": "Acacia Fence"
+  },
+  {
     "id": "minecraft:acacia_fence_gate",
     "legacyId": 187,
     "metadata": 0,
     "category": "construction",
     "langKey": "tile.acacia_fence_gate.name",
     "langName": "Acacia Fence Gate"
+  },
+  {
+    "id": "minecraft:acacia_hanging_sign",
+    "legacyId": -504,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.acacia_hanging_sign.name",
+    "langName": "Acacia Hanging Sign"
+  },
+  {
+    "id": "minecraft:acacia_log",
+    "legacyId": 162,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.acacia.name",
+    "langName": "Acacia Log"
   },
   {
     "id": "minecraft:acacia_pressure_plate",
@@ -66,7 +96,7 @@
   },
   {
     "id": "minecraft:acacia_sign",
-    "legacyId": 584,
+    "legacyId": 586,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -103,7 +133,7 @@
   },
   {
     "id": "minecraft:allay_spawn_egg",
-    "legacyId": 637,
+    "legacyId": 639,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -131,8 +161,11 @@
   },
   {
     "id": "minecraft:amethyst_shard",
-    "legacyId": 630,
+    "legacyId": 632,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "minimumVersion": "1.17.0",
     "langKey": "item.amethyst_shard.name",
@@ -154,6 +187,18 @@
     "category": "construction",
     "langKey": "tile.andesite_stairs.name",
     "langName": "Andesite Stairs"
+  },
+  {
+    "id": "minecraft:angler_pottery_shard",
+    "legacyId": 664,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.angler_pottery_shard.name",
+    "langName": "Angler Pottery Shard"
   },
   {
     "id": "minecraft:anvil",
@@ -192,16 +237,40 @@
     "langName": "Apple"
   },
   {
+    "id": "minecraft:archer_pottery_shard",
+    "legacyId": 665,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.archer_pottery_shard.name",
+    "langName": "Archer Pottery Shard"
+  },
+  {
     "id": "minecraft:armor_stand",
-    "legacyId": 557,
+    "legacyId": 559,
     "metadata": 0,
     "category": "items",
     "langKey": "item.armor_stand.name",
     "langName": "Armor Stand"
   },
   {
+    "id": "minecraft:arms_up_pottery_shard",
+    "legacyId": 666,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.arms_up_pottery_shard.name",
+    "langName": "Arms Up Pottery Shard"
+  },
+  {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.arrow.name",
@@ -210,7 +279,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 5,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.awkward",
@@ -219,7 +288,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 6,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.nightVision",
@@ -228,7 +297,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 7,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.nightVision",
@@ -237,7 +306,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 8,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.invisibility",
@@ -246,7 +315,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 9,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.invisibility",
@@ -255,7 +324,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 10,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.jump",
@@ -264,7 +333,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 11,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.jump",
@@ -273,7 +342,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 12,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.jump",
@@ -282,7 +351,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 13,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.fireResistance",
@@ -291,7 +360,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 14,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.fireResistance",
@@ -300,7 +369,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 15,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.moveSpeed",
@@ -309,7 +378,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 16,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.moveSpeed",
@@ -318,7 +387,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 17,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.moveSpeed",
@@ -327,7 +396,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 18,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.moveSlowdown",
@@ -336,7 +405,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 19,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.moveSlowdown",
@@ -345,7 +414,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 20,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.waterBreathing",
@@ -354,7 +423,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 21,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.waterBreathing",
@@ -363,7 +432,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 22,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.heal",
@@ -372,7 +441,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 23,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.heal",
@@ -381,7 +450,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 24,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.harm",
@@ -390,7 +459,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 25,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.harm",
@@ -399,7 +468,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 26,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.poison",
@@ -408,7 +477,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 27,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.poison",
@@ -417,7 +486,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 28,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.poison",
@@ -426,7 +495,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 29,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.regeneration",
@@ -435,7 +504,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 30,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.regeneration",
@@ -444,7 +513,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 31,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.regeneration",
@@ -453,7 +522,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 32,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.damageBoost",
@@ -462,7 +531,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 33,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.damageBoost",
@@ -471,7 +540,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 34,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.damageBoost",
@@ -480,7 +549,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 35,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.weakness",
@@ -489,7 +558,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 36,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.weakness",
@@ -498,7 +567,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 37,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.wither",
@@ -507,7 +576,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 38,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.turtleMaster",
@@ -516,7 +585,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 39,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.turtleMaster",
@@ -525,7 +594,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 40,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.turtleMaster",
@@ -534,7 +603,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 41,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.slowFalling",
@@ -543,7 +612,7 @@
   },
   {
     "id": "minecraft:arrow",
-    "legacyId": 301,
+    "legacyId": 303,
     "metadata": 42,
     "category": "equipment",
     "langKey": "tipped_arrow.effect.slowFalling",
@@ -552,7 +621,7 @@
   },
   {
     "id": "minecraft:axolotl_bucket",
-    "legacyId": 369,
+    "legacyId": 371,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -562,7 +631,7 @@
   },
   {
     "id": "minecraft:axolotl_spawn_egg",
-    "legacyId": 501,
+    "legacyId": 503,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -620,8 +689,180 @@
     "langName": "Bamboo"
   },
   {
+    "id": "minecraft:bamboo_block",
+    "legacyId": -527,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.bamboo_block.name",
+    "langName": "Block of Bamboo"
+  },
+  {
+    "id": "minecraft:bamboo_button",
+    "legacyId": -511,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.bamboo_button.name",
+    "langName": "Bamboo Button"
+  },
+  {
+    "id": "minecraft:bamboo_chest_raft",
+    "legacyId": 662,
+    "metadata": 0,
+    "maxStackSize": 1,
+    "tags": [
+      "minecraft:boats",
+      "minecraft:boat"
+    ],
+    "category": "items",
+    "fuelDuration": 60.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.chest_boat.bamboo.name",
+    "langName": "Bamboo Raft with Chest"
+  },
+  {
+    "id": "minecraft:bamboo_door",
+    "legacyId": -517,
+    "metadata": 0,
+    "tags": [
+      "minecraft:door"
+    ],
+    "category": "construction",
+    "fuelDuration": 10.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.bamboo_door.name",
+    "langName": "Bamboo Door"
+  },
+  {
+    "id": "minecraft:bamboo_fence",
+    "legacyId": -515,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_fence.name",
+    "langName": "Bamboo Fence"
+  },
+  {
+    "id": "minecraft:bamboo_fence_gate",
+    "legacyId": -516,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_fence_gate.name",
+    "langName": "Bamboo Fence Gate"
+  },
+  {
+    "id": "minecraft:bamboo_hanging_sign",
+    "legacyId": -522,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.bamboo_hanging_sign.name",
+    "langName": "Bamboo Hanging Sign"
+  },
+  {
+    "id": "minecraft:bamboo_mosaic",
+    "legacyId": -509,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_mosaic.name",
+    "langName": "Bamboo Mosaic"
+  },
+  {
+    "id": "minecraft:bamboo_mosaic_slab",
+    "legacyId": -524,
+    "metadata": 0,
+    "category": "construction",
+    "minimumVersion": "1.20.0",
+    "langKey": "tile.bamboo_mosaic_slab.name",
+    "langName": "Bamboo Mosaic Slab"
+  },
+  {
+    "id": "minecraft:bamboo_mosaic_stairs",
+    "legacyId": -523,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_mosaic_stairs.name",
+    "langName": "Bamboo Mosaic Stairs"
+  },
+  {
+    "id": "minecraft:bamboo_planks",
+    "legacyId": -510,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_planks.name",
+    "langName": "Bamboo Planks"
+  },
+  {
+    "id": "minecraft:bamboo_pressure_plate",
+    "legacyId": -514,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.bamboo_pressure_plate.name",
+    "langName": "Bamboo Pressure Plate"
+  },
+  {
+    "id": "minecraft:bamboo_raft",
+    "legacyId": 661,
+    "metadata": 0,
+    "maxStackSize": 1,
+    "tags": [
+      "minecraft:boats",
+      "minecraft:boat"
+    ],
+    "category": "items",
+    "fuelDuration": 60.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.boat.bamboo.name",
+    "langName": "Bamboo Raft"
+  },
+  {
+    "id": "minecraft:bamboo_sign",
+    "legacyId": 660,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 10.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.bamboo_sign.name",
+    "langName": "Bamboo Sign"
+  },
+  {
+    "id": "minecraft:bamboo_slab",
+    "legacyId": -513,
+    "metadata": 0,
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
+    "category": "construction",
+    "minimumVersion": "1.20.0",
+    "langKey": "tile.bamboo_slab.name",
+    "langName": "Bamboo Slab"
+  },
+  {
+    "id": "minecraft:bamboo_stairs",
+    "legacyId": -512,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_stairs.name",
+    "langName": "Bamboo Stairs"
+  },
+  {
+    "id": "minecraft:bamboo_trapdoor",
+    "legacyId": -520,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.bamboo_trapdoor.name",
+    "langName": "Bamboo Trapdoor"
+  },
+  {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 0,
     "category": "items",
     "langKey": "item.banner.black.name",
@@ -629,7 +870,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 1,
     "category": "items",
     "langKey": "item.banner.red.name",
@@ -637,7 +878,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 2,
     "category": "items",
     "langKey": "item.banner.green.name",
@@ -645,7 +886,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 3,
     "category": "items",
     "langKey": "item.banner.brown.name",
@@ -653,7 +894,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 4,
     "category": "items",
     "langKey": "item.banner.blue.name",
@@ -661,7 +902,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 5,
     "category": "items",
     "langKey": "item.banner.purple.name",
@@ -669,7 +910,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 6,
     "category": "items",
     "langKey": "item.banner.cyan.name",
@@ -677,7 +918,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 8,
     "category": "items",
     "langKey": "item.banner.gray.name",
@@ -685,7 +926,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 9,
     "category": "items",
     "langKey": "item.banner.pink.name",
@@ -693,7 +934,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 10,
     "category": "items",
     "langKey": "item.banner.lime.name",
@@ -701,7 +942,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 11,
     "category": "items",
     "langKey": "item.banner.yellow.name",
@@ -709,7 +950,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 13,
     "category": "items",
     "langKey": "item.banner.magenta.name",
@@ -717,7 +958,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 14,
     "category": "items",
     "langKey": "item.banner.orange.name",
@@ -725,7 +966,7 @@
   },
   {
     "id": "minecraft:banner",
-    "legacyId": 572,
+    "legacyId": 574,
     "metadata": 15,
     "category": "items",
     "langKey": "item.banner.white.name",
@@ -749,7 +990,7 @@
   },
   {
     "id": "minecraft:bat_spawn_egg",
-    "legacyId": 453,
+    "legacyId": 455,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -768,7 +1009,7 @@
   },
   {
     "id": "minecraft:bed",
-    "legacyId": 418,
+    "legacyId": 420,
     "metadata": 0,
     "category": "items",
     "langKey": "tile.bed.name",
@@ -792,7 +1033,7 @@
   },
   {
     "id": "minecraft:bee_spawn_egg",
-    "legacyId": 494,
+    "legacyId": 496,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -874,7 +1115,7 @@
   },
   {
     "id": "minecraft:birch_boat",
-    "legacyId": 376,
+    "legacyId": 378,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -896,7 +1137,7 @@
   },
   {
     "id": "minecraft:birch_chest_boat",
-    "legacyId": 645,
+    "legacyId": 647,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -911,7 +1152,7 @@
   },
   {
     "id": "minecraft:birch_door",
-    "legacyId": 559,
+    "legacyId": 561,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -922,12 +1163,42 @@
     "langName": "Birch Door"
   },
   {
+    "id": "minecraft:birch_fence",
+    "legacyId": -576,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.birchFence.name",
+    "langName": "Birch Fence"
+  },
+  {
     "id": "minecraft:birch_fence_gate",
     "legacyId": 184,
     "metadata": 0,
     "category": "construction",
     "langKey": "tile.birch_fence_gate.name",
     "langName": "Birch Fence Gate"
+  },
+  {
+    "id": "minecraft:birch_hanging_sign",
+    "legacyId": -502,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.birch_hanging_sign.name",
+    "langName": "Birch Hanging Sign"
+  },
+  {
+    "id": "minecraft:birch_log",
+    "legacyId": -570,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.birch.name",
+    "langName": "Birch Log"
   },
   {
     "id": "minecraft:birch_pressure_plate",
@@ -939,7 +1210,7 @@
   },
   {
     "id": "minecraft:birch_sign",
-    "legacyId": 582,
+    "legacyId": 584,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -976,8 +1247,16 @@
     "langName": "Black Candle"
   },
   {
+    "id": "minecraft:black_carpet",
+    "legacyId": -611,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.black.name",
+    "langName": "Black Carpet"
+  },
+  {
     "id": "minecraft:black_dye",
-    "legacyId": 395,
+    "legacyId": 397,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.black_new.name",
@@ -1037,6 +1316,18 @@
     "langName": "Blackstone Wall"
   },
   {
+    "id": "minecraft:blade_pottery_shard",
+    "legacyId": 667,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.blade_pottery_shard.name",
+    "langName": "Blade Pottery Shard"
+  },
+  {
     "id": "minecraft:blast_furnace",
     "legacyId": -196,
     "metadata": 0,
@@ -1046,7 +1337,7 @@
   },
   {
     "id": "minecraft:blaze_powder",
-    "legacyId": 429,
+    "legacyId": 431,
     "metadata": 0,
     "category": "items",
     "langKey": "item.blaze_powder.name",
@@ -1054,7 +1345,7 @@
   },
   {
     "id": "minecraft:blaze_rod",
-    "legacyId": 423,
+    "legacyId": 425,
     "metadata": 0,
     "category": "items",
     "fuelDuration": 120.0,
@@ -1063,7 +1354,7 @@
   },
   {
     "id": "minecraft:blaze_spawn_egg",
-    "legacyId": 456,
+    "legacyId": 458,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -1082,8 +1373,16 @@
     "langName": "Blue Candle"
   },
   {
+    "id": "minecraft:blue_carpet",
+    "legacyId": -607,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.blue.name",
+    "langName": "Blue Carpet"
+  },
+  {
     "id": "minecraft:blue_dye",
-    "legacyId": 399,
+    "legacyId": 401,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.blue_new.name",
@@ -1119,7 +1418,7 @@
   },
   {
     "id": "minecraft:bone",
-    "legacyId": 415,
+    "legacyId": 417,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.bone.name",
@@ -1135,7 +1434,7 @@
   },
   {
     "id": "minecraft:bone_meal",
-    "legacyId": 411,
+    "legacyId": 413,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.white.name",
@@ -1144,7 +1443,7 @@
   },
   {
     "id": "minecraft:book",
-    "legacyId": 387,
+    "legacyId": 389,
     "metadata": 0,
     "tags": [
       "minecraft:bookshelf_books"
@@ -1163,7 +1462,7 @@
   },
   {
     "id": "minecraft:bordure_indented_banner_pattern",
-    "legacyId": 591,
+    "legacyId": 593,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -1172,7 +1471,7 @@
   },
   {
     "id": "minecraft:bow",
-    "legacyId": 300,
+    "legacyId": 302,
     "metadata": 0,
     "maxDurability": 384,
     "maxStackSize": 1,
@@ -1183,12 +1482,20 @@
   },
   {
     "id": "minecraft:bowl",
-    "legacyId": 321,
+    "legacyId": 323,
     "metadata": 0,
     "category": "items",
     "fuelDuration": 10.0,
     "langKey": "item.bowl.name",
     "langName": "Bowl"
+  },
+  {
+    "id": "minecraft:brain_coral",
+    "legacyId": -581,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.pink.name",
+    "langName": "Brain Coral"
   },
   {
     "id": "minecraft:bread",
@@ -1203,8 +1510,20 @@
     "langName": "Bread"
   },
   {
+    "id": "minecraft:brewer_pottery_shard",
+    "legacyId": 668,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.brewer_pottery_shard.name",
+    "langName": "Brewer Pottery Shard"
+  },
+  {
     "id": "minecraft:brewing_stand",
-    "legacyId": 431,
+    "legacyId": 433,
     "metadata": 0,
     "category": "items",
     "langKey": "item.brewing_stand.name",
@@ -1212,8 +1531,11 @@
   },
   {
     "id": "minecraft:brick",
-    "legacyId": 383,
+    "legacyId": 385,
     "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
     "category": "items",
     "langKey": "item.brick.name",
     "langName": "Brick",
@@ -1245,8 +1567,16 @@
     "langName": "Brown Candle"
   },
   {
+    "id": "minecraft:brown_carpet",
+    "legacyId": -608,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.brown.name",
+    "langName": "Brown Carpet"
+  },
+  {
     "id": "minecraft:brown_dye",
-    "legacyId": 398,
+    "legacyId": 400,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.brown_new.name",
@@ -1305,8 +1635,27 @@
     "langName": "Brown Wool"
   },
   {
+    "id": "minecraft:brush",
+    "legacyId": 684,
+    "metadata": 0,
+    "maxDurability": 64,
+    "maxStackSize": 1,
+    "category": "equipment",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.brush.name",
+    "langName": "Brush"
+  },
+  {
+    "id": "minecraft:bubble_coral",
+    "legacyId": -582,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.purple.name",
+    "langName": "Bubble Coral"
+  },
+  {
     "id": "minecraft:bucket",
-    "legacyId": 360,
+    "legacyId": 362,
     "metadata": 0,
     "maxStackSize": 16,
     "category": "items",
@@ -1322,6 +1671,18 @@
     "langName": "Budding Amethyst"
   },
   {
+    "id": "minecraft:burn_pottery_shard",
+    "legacyId": 669,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.burn_pottery_shard.name",
+    "langName": "Burn Pottery Shard"
+  },
+  {
     "id": "minecraft:cactus",
     "legacyId": 81,
     "metadata": 0,
@@ -1331,7 +1692,7 @@
   },
   {
     "id": "minecraft:cake",
-    "legacyId": 417,
+    "legacyId": 419,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "equipment",
@@ -1347,8 +1708,28 @@
     "langName": "Calcite"
   },
   {
+    "id": "minecraft:calibrated_sculk_sensor",
+    "legacyId": -580,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.calibrated_sculk_sensor.name",
+    "langName": "Calibrated Sculk Sensor"
+  },
+  {
+    "id": "minecraft:camel_spawn_egg",
+    "legacyId": 663,
+    "metadata": 0,
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
+    "category": "nature",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.spawn_egg.entity.camel.name",
+    "langName": "Spawn Camel"
+  },
+  {
     "id": "minecraft:campfire",
-    "legacyId": 594,
+    "legacyId": 596,
     "metadata": 0,
     "category": "items",
     "langKey": "tile.campfire.name",
@@ -1364,182 +1745,6 @@
     "langName": "Candle"
   },
   {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 0,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 1,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 2,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 3,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 4,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 5,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 6,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 7,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 8,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 9,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 10,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 11,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 12,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 13,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 14,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
-    "id": "minecraft:carpet",
-    "legacyId": 171,
-    "metadata": 15,
-    "tags": [
-      "minecraft:vibration_damper"
-    ],
-    "category": "construction",
-    "langKey": "tile.carpet.name",
-    "langName": "Carpet"
-  },
-  {
     "id": "minecraft:carrot",
     "legacyId": 279,
     "metadata": 0,
@@ -1553,7 +1758,7 @@
   },
   {
     "id": "minecraft:carrot_on_a_stick",
-    "legacyId": 522,
+    "legacyId": 524,
     "metadata": 0,
     "maxDurability": 26,
     "maxStackSize": 1,
@@ -1582,7 +1787,7 @@
   },
   {
     "id": "minecraft:cat_spawn_egg",
-    "legacyId": 488,
+    "legacyId": 490,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -1593,7 +1798,7 @@
   },
   {
     "id": "minecraft:cauldron",
-    "legacyId": 432,
+    "legacyId": 434,
     "metadata": 0,
     "category": "items",
     "langKey": "item.cauldron.name",
@@ -1601,7 +1806,7 @@
   },
   {
     "id": "minecraft:cave_spider_spawn_egg",
-    "legacyId": 457,
+    "legacyId": 459,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -1612,7 +1817,7 @@
   },
   {
     "id": "minecraft:chain",
-    "legacyId": 625,
+    "legacyId": 627,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.16.0",
@@ -1621,13 +1826,14 @@
   },
   {
     "id": "minecraft:chainmail_boots",
-    "legacyId": 342,
+    "legacyId": 344,
     "metadata": 0,
     "maxDurability": 195,
     "armor": 1,
     "maxStackSize": 1,
     "tags": [
       "minecraft:chainmail_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -1636,13 +1842,14 @@
   },
   {
     "id": "minecraft:chainmail_chestplate",
-    "legacyId": 340,
+    "legacyId": 342,
     "metadata": 0,
     "maxDurability": 240,
     "armor": 5,
     "maxStackSize": 1,
     "tags": [
       "minecraft:chainmail_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -1651,13 +1858,14 @@
   },
   {
     "id": "minecraft:chainmail_helmet",
-    "legacyId": 339,
+    "legacyId": 341,
     "metadata": 0,
     "maxDurability": 165,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
       "minecraft:chainmail_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -1666,13 +1874,14 @@
   },
   {
     "id": "minecraft:chainmail_leggings",
-    "legacyId": 341,
+    "legacyId": 343,
     "metadata": 0,
     "maxDurability": 225,
     "armor": 4,
     "maxStackSize": 1,
     "tags": [
       "minecraft:chainmail_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -1681,7 +1890,7 @@
   },
   {
     "id": "minecraft:charcoal",
-    "legacyId": 303,
+    "legacyId": 305,
     "metadata": 0,
     "tags": [
       "minecraft:coals"
@@ -1690,6 +1899,177 @@
     "fuelDuration": 80.0,
     "langKey": "item.charcoal.name",
     "langName": "Charcoal"
+  },
+  {
+    "id": "minecraft:cherry_boat",
+    "legacyId": 657,
+    "metadata": 0,
+    "maxStackSize": 1,
+    "tags": [
+      "minecraft:boats",
+      "minecraft:boat"
+    ],
+    "category": "items",
+    "fuelDuration": 60.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.boat.cherry.name",
+    "langName": "Cherry Boat"
+  },
+  {
+    "id": "minecraft:cherry_button",
+    "legacyId": -530,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.cherry_button.name",
+    "langName": "Cherry Button"
+  },
+  {
+    "id": "minecraft:cherry_chest_boat",
+    "legacyId": 658,
+    "metadata": 0,
+    "maxStackSize": 1,
+    "tags": [
+      "minecraft:boats",
+      "minecraft:boat"
+    ],
+    "category": "items",
+    "fuelDuration": 60.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.chest_boat.cherry.name",
+    "langName": "Cherry Boat with Chest"
+  },
+  {
+    "id": "minecraft:cherry_door",
+    "legacyId": -531,
+    "metadata": 0,
+    "tags": [
+      "minecraft:door"
+    ],
+    "category": "construction",
+    "fuelDuration": 10.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.cherry_door.name",
+    "langName": "Cherry Door"
+  },
+  {
+    "id": "minecraft:cherry_fence",
+    "legacyId": -532,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.cherry_fence.name",
+    "langName": "Cherry Fence"
+  },
+  {
+    "id": "minecraft:cherry_fence_gate",
+    "legacyId": -533,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.cherry_fence_gate.name",
+    "langName": "Cherry Fence Gate"
+  },
+  {
+    "id": "minecraft:cherry_hanging_sign",
+    "legacyId": -534,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.cherry_hanging_sign.name",
+    "langName": "Cherry Hanging Sign"
+  },
+  {
+    "id": "minecraft:cherry_leaves",
+    "legacyId": -548,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.cherry_leaves.name",
+    "langName": "Cherry Leaves"
+  },
+  {
+    "id": "minecraft:cherry_log",
+    "legacyId": -536,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.cherry_log.name",
+    "langName": "Cherry Log"
+  },
+  {
+    "id": "minecraft:cherry_planks",
+    "legacyId": -537,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.cherry_planks.name",
+    "langName": "Cherry Planks"
+  },
+  {
+    "id": "minecraft:cherry_pressure_plate",
+    "legacyId": -538,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.cherry_pressure_plate.name",
+    "langName": "Cherry Pressure Plate"
+  },
+  {
+    "id": "minecraft:cherry_sapling",
+    "legacyId": -547,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.cherry_sapling.name",
+    "langName": "Cherry Sapling"
+  },
+  {
+    "id": "minecraft:cherry_sign",
+    "legacyId": 659,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 10.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.cherry_sign.name",
+    "langName": "Cherry Sign"
+  },
+  {
+    "id": "minecraft:cherry_slab",
+    "legacyId": -539,
+    "metadata": 0,
+    "tags": [
+      "minecraft:wooden_slabs"
+    ],
+    "category": "construction",
+    "minimumVersion": "1.20.0",
+    "langKey": "tile.cherry_slab.name",
+    "langName": "Cherry Slab"
+  },
+  {
+    "id": "minecraft:cherry_stairs",
+    "legacyId": -541,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.cherry_stairs.name",
+    "langName": "Cherry Stairs"
+  },
+  {
+    "id": "minecraft:cherry_trapdoor",
+    "legacyId": -543,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.cherry_trapdoor.name",
+    "langName": "Cherry Trapdoor"
+  },
+  {
+    "id": "minecraft:cherry_wood",
+    "legacyId": -546,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.cherry_wood.name",
+    "langName": "Cherry Wood"
   },
   {
     "id": "minecraft:chest",
@@ -1701,7 +2081,7 @@
   },
   {
     "id": "minecraft:chest_minecart",
-    "legacyId": 389,
+    "legacyId": 391,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -1726,7 +2106,7 @@
   },
   {
     "id": "minecraft:chicken_spawn_egg",
-    "legacyId": 435,
+    "legacyId": 437,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -1734,6 +2114,14 @@
     "category": "nature",
     "langKey": "item.spawn_egg.entity.chicken.name",
     "langName": "Spawn Chicken"
+  },
+  {
+    "id": "minecraft:chiseled_bookshelf",
+    "legacyId": -526,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.chiseled_bookshelf.name",
+    "langName": "Chiseled Bookshelf"
   },
   {
     "id": "minecraft:chiseled_deepslate",
@@ -1769,7 +2157,7 @@
   },
   {
     "id": "minecraft:chorus_fruit",
-    "legacyId": 563,
+    "legacyId": 565,
     "metadata": 0,
     "category": "nature",
     "nutrition": 4,
@@ -1794,7 +2182,7 @@
   },
   {
     "id": "minecraft:clay_ball",
-    "legacyId": 384,
+    "legacyId": 386,
     "metadata": 0,
     "category": "items",
     "langKey": "item.clay_ball.name",
@@ -1802,7 +2190,7 @@
   },
   {
     "id": "minecraft:clock",
-    "legacyId": 393,
+    "legacyId": 395,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.clock.name",
@@ -1810,7 +2198,7 @@
   },
   {
     "id": "minecraft:coal",
-    "legacyId": 302,
+    "legacyId": 304,
     "metadata": 0,
     "tags": [
       "minecraft:coals"
@@ -1835,6 +2223,18 @@
     "category": "nature",
     "langKey": "tile.coal_ore.name",
     "langName": "Coal Ore"
+  },
+  {
+    "id": "minecraft:coast_armor_trim_smithing_template",
+    "legacyId": 688,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.coast.name",
+    "langName": "Coast Armor Trim"
   },
   {
     "id": "minecraft:cobbled_deepslate",
@@ -1991,7 +2391,7 @@
   },
   {
     "id": "minecraft:cocoa_beans",
-    "legacyId": 412,
+    "legacyId": 414,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.brown.name",
@@ -2015,7 +2415,7 @@
   },
   {
     "id": "minecraft:cod_bucket",
-    "legacyId": 364,
+    "legacyId": 366,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -2024,7 +2424,7 @@
   },
   {
     "id": "minecraft:cod_spawn_egg",
-    "legacyId": 480,
+    "legacyId": 482,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -2035,7 +2435,7 @@
   },
   {
     "id": "minecraft:comparator",
-    "legacyId": 527,
+    "legacyId": 529,
     "metadata": 0,
     "category": "items",
     "langKey": "item.comparator.name",
@@ -2043,7 +2443,7 @@
   },
   {
     "id": "minecraft:compass",
-    "legacyId": 391,
+    "legacyId": 393,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.compass.name",
@@ -2418,7 +2818,7 @@
   },
   {
     "id": "minecraft:cooked_mutton",
-    "legacyId": 556,
+    "legacyId": 558,
     "metadata": 0,
     "tags": [
       "minecraft:is_meat",
@@ -2501,8 +2901,11 @@
   },
   {
     "id": "minecraft:copper_ingot",
-    "legacyId": 509,
+    "legacyId": 511,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "minimumVersion": "1.17.0",
     "langKey": "item.copper_ingot.name",
@@ -2516,86 +2919,6 @@
     "category": "nature",
     "langKey": "tile.copper_ore.name",
     "langName": "Copper Ore"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 0,
-    "category": "nature",
-    "langKey": "tile.coral.blue.name",
-    "langName": "Tube Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 1,
-    "category": "nature",
-    "langKey": "tile.coral.pink.name",
-    "langName": "Brain Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 2,
-    "category": "nature",
-    "langKey": "tile.coral.purple.name",
-    "langName": "Bubble Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 3,
-    "category": "nature",
-    "langKey": "tile.coral.red.name",
-    "langName": "Fire Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 4,
-    "category": "nature",
-    "langKey": "tile.coral.yellow.name",
-    "langName": "Horn Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 8,
-    "category": "nature",
-    "langKey": "tile.coral.blue_dead.name",
-    "langName": "Dead Tube Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 9,
-    "category": "nature",
-    "langKey": "tile.coral.pink_dead.name",
-    "langName": "Dead Brain Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 10,
-    "category": "nature",
-    "langKey": "tile.coral.purple_dead.name",
-    "langName": "Dead Bubble Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 11,
-    "category": "nature",
-    "langKey": "tile.coral.red_dead.name",
-    "langName": "Dead Fire Coral"
-  },
-  {
-    "id": "minecraft:coral",
-    "legacyId": -131,
-    "metadata": 12,
-    "category": "nature",
-    "langKey": "tile.coral.yellow_dead.name",
-    "langName": "Dead Horn Coral"
   },
   {
     "id": "minecraft:coral_block",
@@ -2759,7 +3082,7 @@
   },
   {
     "id": "minecraft:cow_spawn_egg",
-    "legacyId": 436,
+    "legacyId": 438,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -2810,7 +3133,7 @@
   },
   {
     "id": "minecraft:creeper_banner_pattern",
-    "legacyId": 587,
+    "legacyId": 589,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -2819,7 +3142,7 @@
   },
   {
     "id": "minecraft:creeper_spawn_egg",
-    "legacyId": 441,
+    "legacyId": 443,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -2838,7 +3161,7 @@
   },
   {
     "id": "minecraft:crimson_door",
-    "legacyId": 622,
+    "legacyId": 624,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -2871,6 +3194,19 @@
     "category": "nature",
     "langKey": "tile.crimson_fungus.name",
     "langName": "Crimson Fungus"
+  },
+  {
+    "id": "minecraft:crimson_hanging_sign",
+    "legacyId": -506,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.crimson_hanging_sign.name",
+    "langName": "Crimson Hanging Sign"
   },
   {
     "id": "minecraft:crimson_hyphae",
@@ -2915,7 +3251,7 @@
   },
   {
     "id": "minecraft:crimson_sign",
-    "legacyId": 620,
+    "legacyId": 622,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -2964,7 +3300,7 @@
   },
   {
     "id": "minecraft:crossbow",
-    "legacyId": 580,
+    "legacyId": 582,
     "metadata": 0,
     "maxDurability": 464,
     "maxStackSize": 1,
@@ -3019,8 +3355,16 @@
     "langName": "Cyan Candle"
   },
   {
+    "id": "minecraft:cyan_carpet",
+    "legacyId": -605,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.cyan.name",
+    "langName": "Cyan Carpet"
+  },
+  {
     "id": "minecraft:cyan_dye",
-    "legacyId": 401,
+    "legacyId": 403,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.cyan.name",
@@ -3047,8 +3391,20 @@
     "langName": "Cyan Wool"
   },
   {
+    "id": "minecraft:danger_pottery_shard",
+    "legacyId": 670,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.danger_pottery_shard.name",
+    "langName": "Danger Pottery Shard"
+  },
+  {
     "id": "minecraft:dark_oak_boat",
-    "legacyId": 380,
+    "legacyId": 382,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -3070,7 +3426,7 @@
   },
   {
     "id": "minecraft:dark_oak_chest_boat",
-    "legacyId": 649,
+    "legacyId": 651,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -3085,7 +3441,7 @@
   },
   {
     "id": "minecraft:dark_oak_door",
-    "legacyId": 562,
+    "legacyId": 564,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -3096,12 +3452,42 @@
     "langName": "Dark Oak Door"
   },
   {
+    "id": "minecraft:dark_oak_fence",
+    "legacyId": -577,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.darkOakFence.name",
+    "langName": "Dark Oak Fence"
+  },
+  {
     "id": "minecraft:dark_oak_fence_gate",
     "legacyId": 186,
     "metadata": 0,
     "category": "construction",
     "langKey": "tile.dark_oak_fence_gate.name",
     "langName": "Dark Oak Fence Gate"
+  },
+  {
+    "id": "minecraft:dark_oak_hanging_sign",
+    "legacyId": -505,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.dark_oak_hanging_sign.name",
+    "langName": "Dark Oak Hanging Sign"
+  },
+  {
+    "id": "minecraft:dark_oak_log",
+    "legacyId": -572,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.big_oak.name",
+    "langName": "Dark Oak Log"
   },
   {
     "id": "minecraft:dark_oak_pressure_plate",
@@ -3113,7 +3499,7 @@
   },
   {
     "id": "minecraft:dark_oak_sign",
-    "legacyId": 585,
+    "legacyId": 587,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -3160,12 +3546,67 @@
     "langName": "Daylight Sensor"
   },
   {
+    "id": "minecraft:dead_brain_coral",
+    "legacyId": -586,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.pink_dead.name",
+    "langName": "Dead Brain Coral"
+  },
+  {
+    "id": "minecraft:dead_bubble_coral",
+    "legacyId": -587,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.purple_dead.name",
+    "langName": "Dead Bubble Coral"
+  },
+  {
+    "id": "minecraft:dead_fire_coral",
+    "legacyId": -588,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.red_dead.name",
+    "langName": "Dead Fire Coral"
+  },
+  {
+    "id": "minecraft:dead_horn_coral",
+    "legacyId": -589,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.yellow_dead.name",
+    "langName": "Dead Horn Coral"
+  },
+  {
+    "id": "minecraft:dead_tube_coral",
+    "legacyId": -585,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral_fan_dead.blue_fan.name",
+    "langName": "Dead Tube Coral Fan"
+  },
+  {
     "id": "minecraft:deadbush",
     "legacyId": 32,
     "metadata": 0,
     "category": "nature",
     "langKey": "tile.deadbush.name",
     "langName": "Dead Bush"
+  },
+  {
+    "id": "minecraft:decorated_pot",
+    "legacyId": -551,
+    "metadata": 0,
+    "tags": [
+      "minecraft:logs_that_burn",
+      "minecraft:wool",
+      "minecraft:vibration_damper",
+      "minecraft:logs"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "tile.decorated_pot.name",
+    "langName": "Decorated Pot"
   },
   {
     "id": "minecraft:deepslate",
@@ -3315,8 +3756,11 @@
   },
   {
     "id": "minecraft:diamond",
-    "legacyId": 304,
+    "legacyId": 306,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.diamond.name",
     "langName": "Diamond",
@@ -3324,7 +3768,7 @@
   },
   {
     "id": "minecraft:diamond_axe",
-    "legacyId": 319,
+    "legacyId": 321,
     "metadata": 0,
     "maxDurability": 1561,
     "damage": 6,
@@ -3333,7 +3777,8 @@
       "minecraft:is_tool",
       "minecraft:digger",
       "minecraft:diamond_tier",
-      "minecraft:is_axe"
+      "minecraft:is_axe",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_axe.name",
@@ -3349,14 +3794,16 @@
   },
   {
     "id": "minecraft:diamond_boots",
-    "legacyId": 350,
+    "legacyId": 352,
     "metadata": 0,
     "maxDurability": 429,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
       "minecraft:diamond_tier",
-      "minecraft:is_armor"
+      "minecraft:trimmable_armors",
+      "minecraft:is_armor",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_boots.name",
@@ -3364,14 +3811,16 @@
   },
   {
     "id": "minecraft:diamond_chestplate",
-    "legacyId": 348,
+    "legacyId": 350,
     "metadata": 0,
     "maxDurability": 528,
     "armor": 8,
     "maxStackSize": 1,
     "tags": [
       "minecraft:diamond_tier",
-      "minecraft:is_armor"
+      "minecraft:trimmable_armors",
+      "minecraft:is_armor",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_chestplate.name",
@@ -3379,14 +3828,16 @@
   },
   {
     "id": "minecraft:diamond_helmet",
-    "legacyId": 347,
+    "legacyId": 349,
     "metadata": 0,
     "maxDurability": 363,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
       "minecraft:diamond_tier",
-      "minecraft:is_armor"
+      "minecraft:trimmable_armors",
+      "minecraft:is_armor",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_helmet.name",
@@ -3394,7 +3845,7 @@
   },
   {
     "id": "minecraft:diamond_hoe",
-    "legacyId": 332,
+    "legacyId": 334,
     "metadata": 0,
     "maxDurability": 1561,
     "damage": 5,
@@ -3403,7 +3854,8 @@
       "minecraft:is_tool",
       "minecraft:digger",
       "minecraft:diamond_tier",
-      "minecraft:is_hoe"
+      "minecraft:is_hoe",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_hoe.name",
@@ -3411,7 +3863,7 @@
   },
   {
     "id": "minecraft:diamond_horse_armor",
-    "legacyId": 538,
+    "legacyId": 540,
     "metadata": 0,
     "armor": 11,
     "maxStackSize": 1,
@@ -3427,14 +3879,16 @@
   },
   {
     "id": "minecraft:diamond_leggings",
-    "legacyId": 349,
+    "legacyId": 351,
     "metadata": 0,
     "maxDurability": 495,
     "armor": 6,
     "maxStackSize": 1,
     "tags": [
       "minecraft:diamond_tier",
-      "minecraft:is_armor"
+      "minecraft:trimmable_armors",
+      "minecraft:is_armor",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_leggings.name",
@@ -3450,7 +3904,7 @@
   },
   {
     "id": "minecraft:diamond_pickaxe",
-    "legacyId": 318,
+    "legacyId": 320,
     "metadata": 0,
     "maxDurability": 1561,
     "damage": 5,
@@ -3459,7 +3913,8 @@
       "minecraft:is_tool",
       "minecraft:digger",
       "minecraft:is_pickaxe",
-      "minecraft:diamond_tier"
+      "minecraft:diamond_tier",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_pickaxe.name",
@@ -3467,7 +3922,7 @@
   },
   {
     "id": "minecraft:diamond_shovel",
-    "legacyId": 317,
+    "legacyId": 319,
     "metadata": 0,
     "maxDurability": 1561,
     "damage": 4,
@@ -3476,7 +3931,8 @@
       "minecraft:is_tool",
       "minecraft:is_shovel",
       "minecraft:digger",
-      "minecraft:diamond_tier"
+      "minecraft:diamond_tier",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_shovel.name",
@@ -3484,7 +3940,7 @@
   },
   {
     "id": "minecraft:diamond_sword",
-    "legacyId": 316,
+    "legacyId": 318,
     "metadata": 0,
     "maxDurability": 1561,
     "damage": 7,
@@ -3492,7 +3948,8 @@
     "tags": [
       "minecraft:is_tool",
       "minecraft:diamond_tier",
-      "minecraft:is_sword"
+      "minecraft:is_sword",
+      "minecraft:transformable_items"
     ],
     "category": "equipment",
     "langKey": "item.diamond_sword.name",
@@ -3532,7 +3989,7 @@
   },
   {
     "id": "minecraft:disc_fragment_5",
-    "legacyId": 643,
+    "legacyId": 645,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.19.0",
@@ -3549,7 +4006,7 @@
   },
   {
     "id": "minecraft:dolphin_spawn_egg",
-    "legacyId": 484,
+    "legacyId": 486,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3560,7 +4017,7 @@
   },
   {
     "id": "minecraft:donkey_spawn_egg",
-    "legacyId": 465,
+    "legacyId": 467,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3619,7 +4076,7 @@
   },
   {
     "id": "minecraft:dragon_breath",
-    "legacyId": 565,
+    "legacyId": 567,
     "metadata": 0,
     "category": "items",
     "langKey": "item.dragon_breath.name",
@@ -3672,7 +4129,7 @@
   },
   {
     "id": "minecraft:drowned_spawn_egg",
-    "legacyId": 483,
+    "legacyId": 485,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3682,8 +4139,20 @@
     "langName": "Spawn Drowned"
   },
   {
+    "id": "minecraft:dune_armor_trim_smithing_template",
+    "legacyId": 687,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.dune.name",
+    "langName": "Dune Armor Trim"
+  },
+  {
     "id": "minecraft:echo_shard",
-    "legacyId": 653,
+    "legacyId": 655,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.19.0",
@@ -3692,7 +4161,7 @@
   },
   {
     "id": "minecraft:egg",
-    "legacyId": 390,
+    "legacyId": 392,
     "metadata": 0,
     "maxStackSize": 16,
     "category": "nature",
@@ -3701,7 +4170,7 @@
   },
   {
     "id": "minecraft:elder_guardian_spawn_egg",
-    "legacyId": 471,
+    "legacyId": 473,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3712,7 +4181,7 @@
   },
   {
     "id": "minecraft:elytra",
-    "legacyId": 569,
+    "legacyId": 571,
     "metadata": 0,
     "maxDurability": 432,
     "maxStackSize": 1,
@@ -3725,8 +4194,11 @@
   },
   {
     "id": "minecraft:emerald",
-    "legacyId": 517,
+    "legacyId": 519,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.emerald.name",
     "langName": "Emerald",
@@ -3750,7 +4222,7 @@
   },
   {
     "id": "minecraft:empty_map",
-    "legacyId": 520,
+    "legacyId": 522,
     "metadata": 0,
     "category": "equipment",
     "aliases": [
@@ -3761,7 +4233,7 @@
   },
   {
     "id": "minecraft:enchanted_book",
-    "legacyId": 526,
+    "legacyId": 528,
     "metadata": 0,
     "tags": [
       "minecraft:bookshelf_books"
@@ -3811,7 +4283,7 @@
   },
   {
     "id": "minecraft:end_crystal",
-    "legacyId": 664,
+    "legacyId": 712,
     "metadata": 0,
     "category": "items",
     "langKey": "item.end_crystal.name",
@@ -3851,7 +4323,7 @@
   },
   {
     "id": "minecraft:ender_dragon_spawn_egg",
-    "legacyId": 506,
+    "legacyId": 508,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3862,7 +4334,7 @@
   },
   {
     "id": "minecraft:ender_eye",
-    "legacyId": 433,
+    "legacyId": 435,
     "metadata": 0,
     "category": "items",
     "langKey": "item.ender_eye.name",
@@ -3870,7 +4342,7 @@
   },
   {
     "id": "minecraft:ender_pearl",
-    "legacyId": 422,
+    "legacyId": 424,
     "metadata": 0,
     "maxStackSize": 16,
     "category": "items",
@@ -3879,7 +4351,7 @@
   },
   {
     "id": "minecraft:enderman_spawn_egg",
-    "legacyId": 442,
+    "legacyId": 444,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3890,7 +4362,7 @@
   },
   {
     "id": "minecraft:endermite_spawn_egg",
-    "legacyId": 460,
+    "legacyId": 462,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3901,7 +4373,7 @@
   },
   {
     "id": "minecraft:evoker_spawn_egg",
-    "legacyId": 475,
+    "legacyId": 477,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -3912,11 +4384,23 @@
   },
   {
     "id": "minecraft:experience_bottle",
-    "legacyId": 513,
+    "legacyId": 515,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.experience_bottle.name",
     "langName": "Bottle o' Enchanting"
+  },
+  {
+    "id": "minecraft:explorer_pottery_shard",
+    "legacyId": 671,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.explorer_pottery_shard.name",
+    "langName": "Explorer Pottery Shard"
   },
   {
     "id": "minecraft:exposed_copper",
@@ -3952,6 +4436,18 @@
     "langName": "Exposed Cut Copper Stairs"
   },
   {
+    "id": "minecraft:eye_armor_trim_smithing_template",
+    "legacyId": 691,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.eye.name",
+    "langName": "Eye Armor Trim"
+  },
+  {
     "id": "minecraft:farmland",
     "legacyId": 60,
     "metadata": 0,
@@ -3961,59 +4457,11 @@
   },
   {
     "id": "minecraft:feather",
-    "legacyId": 327,
+    "legacyId": 329,
     "metadata": 0,
     "category": "items",
     "langKey": "item.feather.name",
     "langName": "Feather"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 0,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 1,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 2,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 3,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 4,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
-  },
-  {
-    "id": "minecraft:fence",
-    "legacyId": 85,
-    "metadata": 5,
-    "category": "construction",
-    "langKey": "tile.fence.name",
-    "langName": "Oak Fence"
   },
   {
     "id": "minecraft:fence_gate",
@@ -4025,7 +4473,7 @@
   },
   {
     "id": "minecraft:fermented_spider_eye",
-    "legacyId": 428,
+    "legacyId": 430,
     "metadata": 0,
     "category": "items",
     "langKey": "item.fermented_spider_eye.name",
@@ -4033,7 +4481,7 @@
   },
   {
     "id": "minecraft:field_masoned_banner_pattern",
-    "legacyId": 590,
+    "legacyId": 592,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -4042,7 +4490,7 @@
   },
   {
     "id": "minecraft:fire_charge",
-    "legacyId": 514,
+    "legacyId": 516,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -4052,8 +4500,16 @@
     "langName": "Fire Charge"
   },
   {
+    "id": "minecraft:fire_coral",
+    "legacyId": -583,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.red.name",
+    "langName": "Fire Coral"
+  },
+  {
     "id": "minecraft:firework_rocket",
-    "legacyId": 524,
+    "legacyId": 526,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -4064,7 +4520,7 @@
   },
   {
     "id": "minecraft:firework_star",
-    "legacyId": 525,
+    "legacyId": 527,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -4075,7 +4531,7 @@
   },
   {
     "id": "minecraft:fishing_rod",
-    "legacyId": 392,
+    "legacyId": 394,
     "metadata": 0,
     "maxDurability": 384,
     "category": "equipment",
@@ -4092,7 +4548,7 @@
   },
   {
     "id": "minecraft:flint",
-    "legacyId": 356,
+    "legacyId": 358,
     "metadata": 0,
     "category": "items",
     "langKey": "item.flint.name",
@@ -4100,7 +4556,7 @@
   },
   {
     "id": "minecraft:flint_and_steel",
-    "legacyId": 299,
+    "legacyId": 301,
     "metadata": 0,
     "maxDurability": 64,
     "category": "equipment",
@@ -4109,7 +4565,7 @@
   },
   {
     "id": "minecraft:flower_banner_pattern",
-    "legacyId": 586,
+    "legacyId": 588,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -4118,7 +4574,7 @@
   },
   {
     "id": "minecraft:flower_pot",
-    "legacyId": 519,
+    "legacyId": 521,
     "metadata": 0,
     "category": "items",
     "langKey": "item.flower_pot.name",
@@ -4134,7 +4590,7 @@
   },
   {
     "id": "minecraft:fox_spawn_egg",
-    "legacyId": 490,
+    "legacyId": 492,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4145,11 +4601,23 @@
   },
   {
     "id": "minecraft:frame",
-    "legacyId": 518,
+    "legacyId": 520,
     "metadata": 0,
     "category": "items",
     "langKey": "item.frame.name",
     "langName": "Item Frame"
+  },
+  {
+    "id": "minecraft:friend_pottery_shard",
+    "legacyId": 672,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.friend_pottery_shard.name",
+    "langName": "Friend Pottery Shard"
   },
   {
     "id": "minecraft:frog_spawn",
@@ -4162,7 +4630,7 @@
   },
   {
     "id": "minecraft:frog_spawn_egg",
-    "legacyId": 634,
+    "legacyId": 636,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4182,7 +4650,7 @@
   },
   {
     "id": "minecraft:ghast_spawn_egg",
-    "legacyId": 454,
+    "legacyId": 456,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4193,7 +4661,7 @@
   },
   {
     "id": "minecraft:ghast_tear",
-    "legacyId": 424,
+    "legacyId": 426,
     "metadata": 0,
     "category": "items",
     "langKey": "item.ghast_tear.name",
@@ -4217,7 +4685,7 @@
   },
   {
     "id": "minecraft:glass_bottle",
-    "legacyId": 427,
+    "legacyId": 429,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.glass_bottle.name",
@@ -4233,7 +4701,7 @@
   },
   {
     "id": "minecraft:glistering_melon_slice",
-    "legacyId": 434,
+    "legacyId": 436,
     "metadata": 0,
     "category": "nature",
     "aliases": [
@@ -4244,7 +4712,7 @@
   },
   {
     "id": "minecraft:globe_banner_pattern",
-    "legacyId": 593,
+    "legacyId": 595,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -4256,7 +4724,7 @@
   },
   {
     "id": "minecraft:glow_berries",
-    "legacyId": 665,
+    "legacyId": 713,
     "metadata": 0,
     "category": "nature",
     "nutrition": 2,
@@ -4265,7 +4733,7 @@
   },
   {
     "id": "minecraft:glow_frame",
-    "legacyId": 629,
+    "legacyId": 631,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.17.0",
@@ -4274,7 +4742,7 @@
   },
   {
     "id": "minecraft:glow_ink_sac",
-    "legacyId": 508,
+    "legacyId": 510,
     "metadata": 0,
     "category": "nature",
     "minimumVersion": "1.17.0",
@@ -4291,7 +4759,7 @@
   },
   {
     "id": "minecraft:glow_squid_spawn_egg",
-    "legacyId": 503,
+    "legacyId": 505,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4311,7 +4779,7 @@
   },
   {
     "id": "minecraft:glowstone_dust",
-    "legacyId": 394,
+    "legacyId": 396,
     "metadata": 0,
     "category": "items",
     "langKey": "item.glowstone_dust.name",
@@ -4319,7 +4787,7 @@
   },
   {
     "id": "minecraft:goat_horn",
-    "legacyId": 633,
+    "legacyId": 635,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "equipment",
@@ -4329,7 +4797,7 @@
   },
   {
     "id": "minecraft:goat_spawn_egg",
-    "legacyId": 502,
+    "legacyId": 504,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4349,8 +4817,11 @@
   },
   {
     "id": "minecraft:gold_ingot",
-    "legacyId": 306,
+    "legacyId": 308,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.gold_ingot.name",
     "langName": "Gold Ingot",
@@ -4358,7 +4829,7 @@
   },
   {
     "id": "minecraft:gold_nugget",
-    "legacyId": 425,
+    "legacyId": 427,
     "metadata": 0,
     "category": "items",
     "langKey": "item.gold_nugget.name",
@@ -4387,7 +4858,7 @@
   },
   {
     "id": "minecraft:golden_axe",
-    "legacyId": 325,
+    "legacyId": 327,
     "metadata": 0,
     "maxDurability": 32,
     "damage": 3,
@@ -4404,12 +4875,13 @@
   },
   {
     "id": "minecraft:golden_boots",
-    "legacyId": 354,
+    "legacyId": 356,
     "metadata": 0,
     "maxDurability": 91,
     "armor": 1,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:golden_tier"
     ],
@@ -4431,12 +4903,13 @@
   },
   {
     "id": "minecraft:golden_chestplate",
-    "legacyId": 352,
+    "legacyId": 354,
     "metadata": 0,
     "maxDurability": 112,
     "armor": 5,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:golden_tier"
     ],
@@ -4446,12 +4919,13 @@
   },
   {
     "id": "minecraft:golden_helmet",
-    "legacyId": 351,
+    "legacyId": 353,
     "metadata": 0,
     "maxDurability": 77,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:golden_tier"
     ],
@@ -4461,7 +4935,7 @@
   },
   {
     "id": "minecraft:golden_hoe",
-    "legacyId": 333,
+    "legacyId": 335,
     "metadata": 0,
     "maxDurability": 32,
     "damage": 2,
@@ -4478,7 +4952,7 @@
   },
   {
     "id": "minecraft:golden_horse_armor",
-    "legacyId": 537,
+    "legacyId": 539,
     "metadata": 0,
     "armor": 7,
     "maxStackSize": 1,
@@ -4494,12 +4968,13 @@
   },
   {
     "id": "minecraft:golden_leggings",
-    "legacyId": 353,
+    "legacyId": 355,
     "metadata": 0,
     "maxDurability": 105,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:golden_tier"
     ],
@@ -4509,7 +4984,7 @@
   },
   {
     "id": "minecraft:golden_pickaxe",
-    "legacyId": 324,
+    "legacyId": 326,
     "metadata": 0,
     "maxDurability": 32,
     "damage": 2,
@@ -4534,7 +5009,7 @@
   },
   {
     "id": "minecraft:golden_shovel",
-    "legacyId": 323,
+    "legacyId": 325,
     "metadata": 0,
     "maxDurability": 32,
     "damage": 1,
@@ -4551,7 +5026,7 @@
   },
   {
     "id": "minecraft:golden_sword",
-    "legacyId": 322,
+    "legacyId": 324,
     "metadata": 0,
     "maxDurability": 32,
     "damage": 4,
@@ -4607,8 +5082,16 @@
     "langName": "Gray Candle"
   },
   {
+    "id": "minecraft:gray_carpet",
+    "legacyId": -603,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.gray.name",
+    "langName": "Gray Carpet"
+  },
+  {
     "id": "minecraft:gray_dye",
-    "legacyId": 403,
+    "legacyId": 405,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.gray.name",
@@ -4644,8 +5127,16 @@
     "langName": "Green Candle"
   },
   {
+    "id": "minecraft:green_carpet",
+    "legacyId": -609,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.green.name",
+    "langName": "Green Carpet"
+  },
+  {
     "id": "minecraft:green_dye",
-    "legacyId": 397,
+    "legacyId": 399,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.green.name",
@@ -4681,7 +5172,7 @@
   },
   {
     "id": "minecraft:guardian_spawn_egg",
-    "legacyId": 461,
+    "legacyId": 463,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4692,7 +5183,7 @@
   },
   {
     "id": "minecraft:gunpowder",
-    "legacyId": 328,
+    "legacyId": 330,
     "metadata": 0,
     "category": "items",
     "langKey": "item.gunpowder.name",
@@ -4724,11 +5215,35 @@
   },
   {
     "id": "minecraft:heart_of_the_sea",
-    "legacyId": 576,
+    "legacyId": 578,
     "metadata": 0,
     "category": "items",
     "langKey": "item.heart_of_the_sea.name",
     "langName": "Heart of the Sea"
+  },
+  {
+    "id": "minecraft:heart_pottery_shard",
+    "legacyId": 673,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.heart_pottery_shard.name",
+    "langName": "Heart Pottery Shard"
+  },
+  {
+    "id": "minecraft:heartbreak_pottery_shard",
+    "legacyId": 674,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.heartbreak_pottery_shard.name",
+    "langName": "Heartbreak Pottery Shard"
   },
   {
     "id": "minecraft:heavy_weighted_pressure_plate",
@@ -4740,7 +5255,7 @@
   },
   {
     "id": "minecraft:hoglin_spawn_egg",
-    "legacyId": 496,
+    "legacyId": 498,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4760,7 +5275,7 @@
   },
   {
     "id": "minecraft:honey_bottle",
-    "legacyId": 598,
+    "legacyId": 600,
     "metadata": 0,
     "maxStackSize": 16,
     "category": "items",
@@ -4771,7 +5286,7 @@
   },
   {
     "id": "minecraft:honeycomb",
-    "legacyId": 597,
+    "legacyId": 599,
     "metadata": 0,
     "category": "nature",
     "minimumVersion": "1.14.0",
@@ -4788,7 +5303,7 @@
   },
   {
     "id": "minecraft:hopper",
-    "legacyId": 532,
+    "legacyId": 534,
     "metadata": 0,
     "category": "items",
     "langKey": "tile.hopper.name",
@@ -4796,7 +5311,7 @@
   },
   {
     "id": "minecraft:hopper_minecart",
-    "legacyId": 531,
+    "legacyId": 533,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -4807,8 +5322,16 @@
     "langName": "Minecart with Hopper"
   },
   {
+    "id": "minecraft:horn_coral",
+    "legacyId": -584,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral.yellow.name",
+    "langName": "Horn Coral"
+  },
+  {
     "id": "minecraft:horse_spawn_egg",
-    "legacyId": 458,
+    "legacyId": 460,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4818,8 +5341,32 @@
     "langName": "Spawn Horse"
   },
   {
+    "id": "minecraft:host_armor_trim_smithing_template",
+    "legacyId": 701,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.host.name",
+    "langName": "Host Armor Trim"
+  },
+  {
+    "id": "minecraft:howl_pottery_shard",
+    "legacyId": 675,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.howl_pottery_shard.name",
+    "langName": "Howl Pottery Shard"
+  },
+  {
     "id": "minecraft:husk_spawn_egg",
-    "legacyId": 463,
+    "legacyId": 465,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4846,7 +5393,7 @@
   },
   {
     "id": "minecraft:ink_sac",
-    "legacyId": 413,
+    "legacyId": 415,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.black.name",
@@ -4855,7 +5402,7 @@
   },
   {
     "id": "minecraft:iron_axe",
-    "legacyId": 298,
+    "legacyId": 300,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 5,
@@ -4888,13 +5435,14 @@
   },
   {
     "id": "minecraft:iron_boots",
-    "legacyId": 346,
+    "legacyId": 348,
     "metadata": 0,
     "maxDurability": 195,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
       "minecraft:iron_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -4903,13 +5451,14 @@
   },
   {
     "id": "minecraft:iron_chestplate",
-    "legacyId": 344,
+    "legacyId": 346,
     "metadata": 0,
     "maxDurability": 240,
     "armor": 6,
     "maxStackSize": 1,
     "tags": [
       "minecraft:iron_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -4918,7 +5467,7 @@
   },
   {
     "id": "minecraft:iron_door",
-    "legacyId": 372,
+    "legacyId": 374,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -4929,7 +5478,7 @@
   },
   {
     "id": "minecraft:iron_golem_spawn_egg",
-    "legacyId": 504,
+    "legacyId": 506,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -4940,13 +5489,14 @@
   },
   {
     "id": "minecraft:iron_helmet",
-    "legacyId": 343,
+    "legacyId": 345,
     "metadata": 0,
     "maxDurability": 165,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
       "minecraft:iron_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -4955,7 +5505,7 @@
   },
   {
     "id": "minecraft:iron_hoe",
-    "legacyId": 331,
+    "legacyId": 333,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 4,
@@ -4972,7 +5522,7 @@
   },
   {
     "id": "minecraft:iron_horse_armor",
-    "legacyId": 536,
+    "legacyId": 538,
     "metadata": 0,
     "armor": 5,
     "maxStackSize": 1,
@@ -4988,8 +5538,11 @@
   },
   {
     "id": "minecraft:iron_ingot",
-    "legacyId": 305,
+    "legacyId": 307,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.iron_ingot.name",
     "langName": "Iron Ingot",
@@ -4997,13 +5550,14 @@
   },
   {
     "id": "minecraft:iron_leggings",
-    "legacyId": 345,
+    "legacyId": 347,
     "metadata": 0,
     "maxDurability": 225,
     "armor": 5,
     "maxStackSize": 1,
     "tags": [
       "minecraft:iron_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -5012,7 +5566,7 @@
   },
   {
     "id": "minecraft:iron_nugget",
-    "legacyId": 574,
+    "legacyId": 576,
     "metadata": 0,
     "category": "items",
     "langKey": "item.iron_nugget.name",
@@ -5029,7 +5583,7 @@
   },
   {
     "id": "minecraft:iron_pickaxe",
-    "legacyId": 297,
+    "legacyId": 299,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 4,
@@ -5046,7 +5600,7 @@
   },
   {
     "id": "minecraft:iron_shovel",
-    "legacyId": 296,
+    "legacyId": 298,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 3,
@@ -5063,7 +5617,7 @@
   },
   {
     "id": "minecraft:iron_sword",
-    "legacyId": 307,
+    "legacyId": 309,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 6,
@@ -5095,7 +5649,7 @@
   },
   {
     "id": "minecraft:jungle_boat",
-    "legacyId": 377,
+    "legacyId": 379,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -5117,7 +5671,7 @@
   },
   {
     "id": "minecraft:jungle_chest_boat",
-    "legacyId": 646,
+    "legacyId": 648,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -5132,7 +5686,7 @@
   },
   {
     "id": "minecraft:jungle_door",
-    "legacyId": 560,
+    "legacyId": 562,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -5143,12 +5697,42 @@
     "langName": "Jungle Door"
   },
   {
+    "id": "minecraft:jungle_fence",
+    "legacyId": -578,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.jungleFence.name",
+    "langName": "Jungle Fence"
+  },
+  {
     "id": "minecraft:jungle_fence_gate",
     "legacyId": 185,
     "metadata": 0,
     "category": "construction",
     "langKey": "tile.jungle_fence_gate.name",
     "langName": "Jungle Fence Gate"
+  },
+  {
+    "id": "minecraft:jungle_hanging_sign",
+    "legacyId": -503,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.jungle_hanging_sign.name",
+    "langName": "Jungle Hanging Sign"
+  },
+  {
+    "id": "minecraft:jungle_log",
+    "legacyId": -571,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.jungle.name",
+    "langName": "Jungle Log"
   },
   {
     "id": "minecraft:jungle_pressure_plate",
@@ -5160,7 +5744,7 @@
   },
   {
     "id": "minecraft:jungle_sign",
-    "legacyId": 583,
+    "legacyId": 585,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -5189,7 +5773,7 @@
   },
   {
     "id": "minecraft:kelp",
-    "legacyId": 382,
+    "legacyId": 384,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.kelp.name",
@@ -5221,8 +5805,11 @@
   },
   {
     "id": "minecraft:lapis_lazuli",
-    "legacyId": 414,
+    "legacyId": 416,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "nature",
     "langKey": "item.dye.blue.name",
     "langName": "Lapis Lazuli",
@@ -5246,7 +5833,7 @@
   },
   {
     "id": "minecraft:lava_bucket",
-    "legacyId": 363,
+    "legacyId": 365,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -5256,7 +5843,7 @@
   },
   {
     "id": "minecraft:lead",
-    "legacyId": 552,
+    "legacyId": 554,
     "metadata": 0,
     "category": "equipment",
     "langKey": "item.lead.name",
@@ -5264,7 +5851,7 @@
   },
   {
     "id": "minecraft:leather",
-    "legacyId": 381,
+    "legacyId": 383,
     "metadata": 0,
     "category": "items",
     "langKey": "item.leather.name",
@@ -5272,12 +5859,13 @@
   },
   {
     "id": "minecraft:leather_boots",
-    "legacyId": 338,
+    "legacyId": 340,
     "metadata": 0,
     "maxDurability": 65,
     "armor": 1,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:leather_tier"
     ],
@@ -5287,12 +5875,13 @@
   },
   {
     "id": "minecraft:leather_chestplate",
-    "legacyId": 336,
+    "legacyId": 338,
     "metadata": 0,
     "maxDurability": 80,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:leather_tier"
     ],
@@ -5302,12 +5891,13 @@
   },
   {
     "id": "minecraft:leather_helmet",
-    "legacyId": 335,
+    "legacyId": 337,
     "metadata": 0,
     "maxDurability": 55,
     "armor": 1,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:leather_tier"
     ],
@@ -5317,7 +5907,7 @@
   },
   {
     "id": "minecraft:leather_horse_armor",
-    "legacyId": 535,
+    "legacyId": 537,
     "metadata": 0,
     "armor": 3,
     "maxStackSize": 1,
@@ -5333,12 +5923,13 @@
   },
   {
     "id": "minecraft:leather_leggings",
-    "legacyId": 337,
+    "legacyId": 339,
     "metadata": 0,
     "maxDurability": 75,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor",
       "minecraft:leather_tier"
     ],
@@ -5420,8 +6011,16 @@
     "langName": "Light Blue Candle"
   },
   {
+    "id": "minecraft:light_blue_carpet",
+    "legacyId": -599,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.lightBlue.name",
+    "langName": "Light Blue Carpet"
+  },
+  {
     "id": "minecraft:light_blue_dye",
-    "legacyId": 407,
+    "legacyId": 409,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.lightBlue.name",
@@ -5457,8 +6056,16 @@
     "langName": "Light Gray Candle"
   },
   {
+    "id": "minecraft:light_gray_carpet",
+    "legacyId": -604,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.silver.name",
+    "langName": "Light Gray Carpet"
+  },
+  {
     "id": "minecraft:light_gray_dye",
-    "legacyId": 402,
+    "legacyId": 404,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.silver.name",
@@ -5499,8 +6106,16 @@
     "langName": "Lime Candle"
   },
   {
+    "id": "minecraft:lime_carpet",
+    "legacyId": -601,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.lime.name",
+    "langName": "Lime Carpet"
+  },
+  {
     "id": "minecraft:lime_dye",
-    "legacyId": 405,
+    "legacyId": 407,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.lime.name",
@@ -5528,7 +6143,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 0,
     "category": "equipment",
     "langKey": "potion.emptyPotion.linger.name",
@@ -5536,7 +6151,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 1,
     "category": "equipment",
     "langKey": "potion.mundane.linger.name",
@@ -5544,7 +6159,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 2,
     "category": "equipment",
     "langKey": "potion.mundane.extended.linger.name",
@@ -5552,7 +6167,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 3,
     "category": "equipment",
     "langKey": "potion.thick.linger.name",
@@ -5560,7 +6175,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 4,
     "category": "equipment",
     "langKey": "potion.awkward.linger.name",
@@ -5568,7 +6183,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 5,
     "category": "equipment",
     "langKey": "potion.nightVision.linger.name",
@@ -5576,7 +6191,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 6,
     "category": "equipment",
     "langKey": "potion.nightVision.linger.name",
@@ -5584,7 +6199,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 7,
     "category": "equipment",
     "langKey": "potion.invisibility.linger.name",
@@ -5592,7 +6207,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 8,
     "category": "equipment",
     "langKey": "potion.invisibility.linger.name",
@@ -5600,7 +6215,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 9,
     "category": "equipment",
     "langKey": "potion.jump.linger.name",
@@ -5608,7 +6223,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 10,
     "category": "equipment",
     "langKey": "potion.jump.linger.name",
@@ -5616,7 +6231,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 11,
     "category": "equipment",
     "langKey": "potion.jump.linger.name",
@@ -5624,7 +6239,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 12,
     "category": "equipment",
     "langKey": "potion.fireResistance.linger.name",
@@ -5632,7 +6247,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 13,
     "category": "equipment",
     "langKey": "potion.fireResistance.linger.name",
@@ -5640,7 +6255,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 14,
     "category": "equipment",
     "langKey": "potion.moveSpeed.linger.name",
@@ -5648,7 +6263,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 15,
     "category": "equipment",
     "langKey": "potion.moveSpeed.linger.name",
@@ -5656,7 +6271,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 16,
     "category": "equipment",
     "langKey": "potion.moveSpeed.linger.name",
@@ -5664,7 +6279,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 17,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.linger.name",
@@ -5672,7 +6287,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 18,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.linger.name",
@@ -5680,7 +6295,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 19,
     "category": "equipment",
     "langKey": "potion.waterBreathing.linger.name",
@@ -5688,7 +6303,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 20,
     "category": "equipment",
     "langKey": "potion.waterBreathing.linger.name",
@@ -5696,7 +6311,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 21,
     "category": "equipment",
     "langKey": "potion.heal.linger.name",
@@ -5704,7 +6319,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 22,
     "category": "equipment",
     "langKey": "potion.heal.linger.name",
@@ -5712,7 +6327,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 23,
     "category": "equipment",
     "langKey": "potion.harm.linger.name",
@@ -5720,7 +6335,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 24,
     "category": "equipment",
     "langKey": "potion.harm.linger.name",
@@ -5728,7 +6343,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 25,
     "category": "equipment",
     "langKey": "potion.poison.linger.name",
@@ -5736,7 +6351,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 26,
     "category": "equipment",
     "langKey": "potion.poison.linger.name",
@@ -5744,7 +6359,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 27,
     "category": "equipment",
     "langKey": "potion.poison.linger.name",
@@ -5752,7 +6367,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 28,
     "category": "equipment",
     "langKey": "potion.regeneration.linger.name",
@@ -5760,7 +6375,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 29,
     "category": "equipment",
     "langKey": "potion.regeneration.linger.name",
@@ -5768,7 +6383,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 30,
     "category": "equipment",
     "langKey": "potion.regeneration.linger.name",
@@ -5776,7 +6391,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 31,
     "category": "equipment",
     "langKey": "potion.damageBoost.linger.name",
@@ -5784,7 +6399,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 32,
     "category": "equipment",
     "langKey": "potion.damageBoost.linger.name",
@@ -5792,7 +6407,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 33,
     "category": "equipment",
     "langKey": "potion.damageBoost.linger.name",
@@ -5800,7 +6415,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 34,
     "category": "equipment",
     "langKey": "potion.weakness.linger.name",
@@ -5808,7 +6423,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 35,
     "category": "equipment",
     "langKey": "potion.weakness.linger.name",
@@ -5816,7 +6431,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 36,
     "category": "equipment",
     "langKey": "potion.wither.linger.name",
@@ -5824,7 +6439,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 37,
     "category": "equipment",
     "langKey": "potion.turtleMaster.linger.name",
@@ -5832,7 +6447,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 38,
     "category": "equipment",
     "langKey": "potion.turtleMaster.linger.name",
@@ -5840,7 +6455,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 39,
     "category": "equipment",
     "langKey": "potion.turtleMaster.linger.name",
@@ -5848,7 +6463,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 40,
     "category": "equipment",
     "langKey": "potion.slowFalling.linger.name",
@@ -5856,7 +6471,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 41,
     "category": "equipment",
     "langKey": "potion.slowFalling.linger.name",
@@ -5864,7 +6479,7 @@
   },
   {
     "id": "minecraft:lingering_potion",
-    "legacyId": 567,
+    "legacyId": 569,
     "metadata": 42,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.linger.name",
@@ -5880,7 +6495,7 @@
   },
   {
     "id": "minecraft:llama_spawn_egg",
-    "legacyId": 473,
+    "legacyId": 475,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -5899,85 +6514,13 @@
   },
   {
     "id": "minecraft:lodestone_compass",
-    "legacyId": 608,
+    "legacyId": 610,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "commands",
     "minimumVersion": "1.16.0",
     "langKey": "item.lodestonecompass.name",
     "langName": "Lodestone Compass"
-  },
-  {
-    "id": "minecraft:log",
-    "legacyId": 17,
-    "metadata": 0,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.name",
-    "langName": "Log"
-  },
-  {
-    "id": "minecraft:log",
-    "legacyId": 17,
-    "metadata": 1,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.name",
-    "langName": "Log"
-  },
-  {
-    "id": "minecraft:log",
-    "legacyId": 17,
-    "metadata": 2,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.name",
-    "langName": "Log"
-  },
-  {
-    "id": "minecraft:log",
-    "legacyId": 17,
-    "metadata": 3,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.name",
-    "langName": "Log"
-  },
-  {
-    "id": "minecraft:log2",
-    "legacyId": 162,
-    "metadata": 0,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.acacia.name",
-    "langName": "Acacia Log"
-  },
-  {
-    "id": "minecraft:log2",
-    "legacyId": 162,
-    "metadata": 1,
-    "tags": [
-      "minecraft:logs_that_burn",
-      "minecraft:logs"
-    ],
-    "category": "nature",
-    "langKey": "tile.log.big_oak.name",
-    "langName": "Dark Oak Log"
   },
   {
     "id": "minecraft:loom",
@@ -5997,8 +6540,16 @@
     "langName": "Magenta Candle"
   },
   {
+    "id": "minecraft:magenta_carpet",
+    "legacyId": -598,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.magenta.name",
+    "langName": "Magenta Carpet"
+  },
+  {
     "id": "minecraft:magenta_dye",
-    "legacyId": 408,
+    "legacyId": 410,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.magenta.name",
@@ -6034,7 +6585,7 @@
   },
   {
     "id": "minecraft:magma_cream",
-    "legacyId": 430,
+    "legacyId": 432,
     "metadata": 0,
     "category": "items",
     "langKey": "item.magma_cream.name",
@@ -6042,7 +6593,7 @@
   },
   {
     "id": "minecraft:magma_cube_spawn_egg",
-    "legacyId": 455,
+    "legacyId": 457,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -6053,7 +6604,7 @@
   },
   {
     "id": "minecraft:mangrove_boat",
-    "legacyId": 641,
+    "legacyId": 643,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6076,7 +6627,7 @@
   },
   {
     "id": "minecraft:mangrove_chest_boat",
-    "legacyId": 650,
+    "legacyId": 652,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6091,7 +6642,7 @@
   },
   {
     "id": "minecraft:mangrove_door",
-    "legacyId": 639,
+    "legacyId": 641,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -6117,6 +6668,20 @@
     "category": "construction",
     "langKey": "tile.mangrove_fence_gate.name",
     "langName": "Mangrove Fence Gate"
+  },
+  {
+    "id": "minecraft:mangrove_hanging_sign",
+    "legacyId": -508,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.mangrove_hanging_sign.name",
+    "langName": "Mangrove Hanging Sign"
   },
   {
     "id": "minecraft:mangrove_leaves",
@@ -6171,7 +6736,7 @@
   },
   {
     "id": "minecraft:mangrove_sign",
-    "legacyId": 640,
+    "legacyId": 642,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -6260,7 +6825,7 @@
   },
   {
     "id": "minecraft:milk_bucket",
-    "legacyId": 361,
+    "legacyId": 363,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -6269,7 +6834,7 @@
   },
   {
     "id": "minecraft:minecart",
-    "legacyId": 370,
+    "legacyId": 372,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6278,6 +6843,18 @@
     "category": "items",
     "langKey": "item.minecart.name",
     "langName": "Minecart"
+  },
+  {
+    "id": "minecraft:miner_pottery_shard",
+    "legacyId": 676,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.miner_pottery_shard.name",
+    "langName": "Miner Pottery Shard"
   },
   {
     "id": "minecraft:mob_spawner",
@@ -6289,7 +6866,7 @@
   },
   {
     "id": "minecraft:mojang_banner_pattern",
-    "legacyId": 589,
+    "legacyId": 591,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -6346,7 +6923,7 @@
   },
   {
     "id": "minecraft:mooshroom_spawn_egg",
-    "legacyId": 440,
+    "legacyId": 442,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -6394,6 +6971,18 @@
     "category": "construction",
     "langKey": "tile.mossy_stone_brick_stairs.name",
     "langName": "Mossy Stone Brick Stairs"
+  },
+  {
+    "id": "minecraft:mourner_pottery_shard",
+    "legacyId": 677,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.mourner_pottery_shard.name",
+    "langName": "Mourner Pottery Shard"
   },
   {
     "id": "minecraft:mud",
@@ -6447,7 +7036,7 @@
   },
   {
     "id": "minecraft:mule_spawn_egg",
-    "legacyId": 466,
+    "legacyId": 468,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -6471,7 +7060,7 @@
   },
   {
     "id": "minecraft:music_disc_11",
-    "legacyId": 549,
+    "legacyId": 551,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6486,7 +7075,7 @@
   },
   {
     "id": "minecraft:music_disc_13",
-    "legacyId": 539,
+    "legacyId": 541,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6501,7 +7090,7 @@
   },
   {
     "id": "minecraft:music_disc_5",
-    "legacyId": 642,
+    "legacyId": 644,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6517,7 +7106,7 @@
   },
   {
     "id": "minecraft:music_disc_blocks",
-    "legacyId": 541,
+    "legacyId": 543,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6532,7 +7121,7 @@
   },
   {
     "id": "minecraft:music_disc_cat",
-    "legacyId": 540,
+    "legacyId": 542,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6547,7 +7136,7 @@
   },
   {
     "id": "minecraft:music_disc_chirp",
-    "legacyId": 542,
+    "legacyId": 544,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6562,7 +7151,7 @@
   },
   {
     "id": "minecraft:music_disc_far",
-    "legacyId": 543,
+    "legacyId": 545,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6577,7 +7166,7 @@
   },
   {
     "id": "minecraft:music_disc_mall",
-    "legacyId": 544,
+    "legacyId": 546,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6592,7 +7181,7 @@
   },
   {
     "id": "minecraft:music_disc_mellohi",
-    "legacyId": 545,
+    "legacyId": 547,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6607,7 +7196,7 @@
   },
   {
     "id": "minecraft:music_disc_otherside",
-    "legacyId": 632,
+    "legacyId": 634,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6623,7 +7212,7 @@
   },
   {
     "id": "minecraft:music_disc_pigstep",
-    "legacyId": 626,
+    "legacyId": 628,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6639,7 +7228,7 @@
   },
   {
     "id": "minecraft:music_disc_stal",
-    "legacyId": 546,
+    "legacyId": 548,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6654,7 +7243,7 @@
   },
   {
     "id": "minecraft:music_disc_strad",
-    "legacyId": 547,
+    "legacyId": 549,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6669,7 +7258,7 @@
   },
   {
     "id": "minecraft:music_disc_wait",
-    "legacyId": 550,
+    "legacyId": 552,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6684,7 +7273,7 @@
   },
   {
     "id": "minecraft:music_disc_ward",
-    "legacyId": 548,
+    "legacyId": 550,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -6699,7 +7288,7 @@
   },
   {
     "id": "minecraft:mutton",
-    "legacyId": 555,
+    "legacyId": 557,
     "metadata": 0,
     "tags": [
       "minecraft:is_meat",
@@ -6723,7 +7312,7 @@
   },
   {
     "id": "minecraft:name_tag",
-    "legacyId": 553,
+    "legacyId": 555,
     "metadata": 0,
     "category": "items",
     "langKey": "item.name_tag.name",
@@ -6731,7 +7320,7 @@
   },
   {
     "id": "minecraft:nautilus_shell",
-    "legacyId": 575,
+    "legacyId": 577,
     "metadata": 0,
     "category": "items",
     "langKey": "item.nautilus_shell.name",
@@ -6772,7 +7361,7 @@
   },
   {
     "id": "minecraft:nether_sprouts",
-    "legacyId": 627,
+    "legacyId": 629,
     "metadata": 0,
     "category": "nature",
     "minimumVersion": "1.16.0",
@@ -6781,7 +7370,7 @@
   },
   {
     "id": "minecraft:nether_star",
-    "legacyId": 523,
+    "legacyId": 525,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -6808,7 +7397,7 @@
   },
   {
     "id": "minecraft:netherbrick",
-    "legacyId": 528,
+    "legacyId": 530,
     "metadata": 0,
     "category": "items",
     "langKey": "item.netherbrick.name",
@@ -6817,7 +7406,7 @@
   },
   {
     "id": "minecraft:netherite_axe",
-    "legacyId": 613,
+    "legacyId": 614,
     "metadata": 0,
     "maxDurability": 2031,
     "damage": 7,
@@ -6844,13 +7433,14 @@
   },
   {
     "id": "minecraft:netherite_boots",
-    "legacyId": 618,
+    "legacyId": 620,
     "metadata": 0,
     "maxDurability": 481,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
       "minecraft:netherite_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -6860,13 +7450,14 @@
   },
   {
     "id": "minecraft:netherite_chestplate",
-    "legacyId": 616,
+    "legacyId": 618,
     "metadata": 0,
     "maxDurability": 592,
     "armor": 8,
     "maxStackSize": 1,
     "tags": [
       "minecraft:netherite_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -6876,13 +7467,14 @@
   },
   {
     "id": "minecraft:netherite_helmet",
-    "legacyId": 615,
+    "legacyId": 617,
     "metadata": 0,
     "maxDurability": 407,
     "armor": 3,
     "maxStackSize": 1,
     "tags": [
       "minecraft:netherite_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -6892,7 +7484,7 @@
   },
   {
     "id": "minecraft:netherite_hoe",
-    "legacyId": 614,
+    "legacyId": 615,
     "metadata": 0,
     "maxDurability": 2031,
     "damage": 6,
@@ -6910,8 +7502,12 @@
   },
   {
     "id": "minecraft:netherite_ingot",
-    "legacyId": 609,
+    "legacyId": 616,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials",
+      "minecraft:transform_materials"
+    ],
     "category": "items",
     "minimumVersion": "1.16.0",
     "langKey": "item.netherite_ingot.name",
@@ -6919,13 +7515,14 @@
   },
   {
     "id": "minecraft:netherite_leggings",
-    "legacyId": 617,
+    "legacyId": 619,
     "metadata": 0,
     "maxDurability": 555,
     "armor": 6,
     "maxStackSize": 1,
     "tags": [
       "minecraft:netherite_tier",
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -6935,7 +7532,7 @@
   },
   {
     "id": "minecraft:netherite_pickaxe",
-    "legacyId": 612,
+    "legacyId": 613,
     "metadata": 0,
     "maxDurability": 2031,
     "damage": 6,
@@ -6953,7 +7550,7 @@
   },
   {
     "id": "minecraft:netherite_scrap",
-    "legacyId": 619,
+    "legacyId": 621,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.16.0",
@@ -6963,7 +7560,7 @@
   },
   {
     "id": "minecraft:netherite_shovel",
-    "legacyId": 611,
+    "legacyId": 612,
     "metadata": 0,
     "maxDurability": 2031,
     "damage": 5,
@@ -6981,7 +7578,7 @@
   },
   {
     "id": "minecraft:netherite_sword",
-    "legacyId": 610,
+    "legacyId": 611,
     "metadata": 0,
     "maxDurability": 2031,
     "damage": 8,
@@ -6995,6 +7592,18 @@
     "minimumVersion": "1.16.0",
     "langKey": "item.netherite_sword.name",
     "langName": "Netherite Sword"
+  },
+  {
+    "id": "minecraft:netherite_upgrade_smithing_template",
+    "legacyId": 685,
+    "metadata": 0,
+    "tags": [
+      "minecraft:transform_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "upgrade.netherite_upgrade.name",
+    "langName": "Netherite Upgrade"
   },
   {
     "id": "minecraft:netherrack",
@@ -7022,7 +7631,7 @@
   },
   {
     "id": "minecraft:oak_boat",
-    "legacyId": 375,
+    "legacyId": 377,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -7036,7 +7645,7 @@
   },
   {
     "id": "minecraft:oak_chest_boat",
-    "legacyId": 644,
+    "legacyId": 646,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -7050,8 +7659,38 @@
     "langName": "Oak Boat with Chest"
   },
   {
+    "id": "minecraft:oak_fence",
+    "legacyId": 85,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.fence.name",
+    "langName": "Oak Fence"
+  },
+  {
+    "id": "minecraft:oak_hanging_sign",
+    "legacyId": -500,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.oak_hanging_sign.name",
+    "langName": "Oak Hanging Sign"
+  },
+  {
+    "id": "minecraft:oak_log",
+    "legacyId": 17,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.oak.name",
+    "langName": "Oak Log"
+  },
+  {
     "id": "minecraft:oak_sign",
-    "legacyId": 358,
+    "legacyId": 360,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -7091,7 +7730,7 @@
   },
   {
     "id": "minecraft:ocelot_spawn_egg",
-    "legacyId": 451,
+    "legacyId": 453,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7118,8 +7757,16 @@
     "langName": "Orange Candle"
   },
   {
+    "id": "minecraft:orange_carpet",
+    "legacyId": -597,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.orange.name",
+    "langName": "Orange Carpet"
+  },
+  {
     "id": "minecraft:orange_dye",
-    "legacyId": 409,
+    "legacyId": 411,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.orange.name",
@@ -7196,7 +7843,7 @@
   },
   {
     "id": "minecraft:painting",
-    "legacyId": 357,
+    "legacyId": 359,
     "metadata": 0,
     "tags": [
       "minecraft:hanging_actor"
@@ -7207,7 +7854,7 @@
   },
   {
     "id": "minecraft:panda_spawn_egg",
-    "legacyId": 489,
+    "legacyId": 491,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7218,7 +7865,7 @@
   },
   {
     "id": "minecraft:paper",
-    "legacyId": 386,
+    "legacyId": 388,
     "metadata": 0,
     "category": "items",
     "langKey": "item.paper.name",
@@ -7226,7 +7873,7 @@
   },
   {
     "id": "minecraft:parrot_spawn_egg",
-    "legacyId": 478,
+    "legacyId": 480,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7245,7 +7892,7 @@
   },
   {
     "id": "minecraft:phantom_membrane",
-    "legacyId": 579,
+    "legacyId": 581,
     "metadata": 0,
     "category": "items",
     "langKey": "item.phantom_membrane.name",
@@ -7253,7 +7900,7 @@
   },
   {
     "id": "minecraft:phantom_spawn_egg",
-    "legacyId": 486,
+    "legacyId": 488,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7264,7 +7911,7 @@
   },
   {
     "id": "minecraft:pig_spawn_egg",
-    "legacyId": 437,
+    "legacyId": 439,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7275,7 +7922,7 @@
   },
   {
     "id": "minecraft:piglin_banner_pattern",
-    "legacyId": 592,
+    "legacyId": 594,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -7284,7 +7931,7 @@
   },
   {
     "id": "minecraft:piglin_brute_spawn_egg",
-    "legacyId": 499,
+    "legacyId": 501,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7296,7 +7943,7 @@
   },
   {
     "id": "minecraft:piglin_spawn_egg",
-    "legacyId": 497,
+    "legacyId": 499,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7308,7 +7955,7 @@
   },
   {
     "id": "minecraft:pillager_spawn_egg",
-    "legacyId": 491,
+    "legacyId": 493,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7327,8 +7974,16 @@
     "langName": "Pink Candle"
   },
   {
+    "id": "minecraft:pink_carpet",
+    "legacyId": -602,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.pink.name",
+    "langName": "Pink Carpet"
+  },
+  {
     "id": "minecraft:pink_dye",
-    "legacyId": 404,
+    "legacyId": 406,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.pink.name",
@@ -7347,6 +8002,14 @@
     "langName": "Pink Glazed Terracotta"
   },
   {
+    "id": "minecraft:pink_petals",
+    "legacyId": -549,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.pink_petals.name",
+    "langName": "Pink Petals"
+  },
+  {
     "id": "minecraft:pink_wool",
     "legacyId": -566,
     "metadata": 0,
@@ -7361,6 +8024,22 @@
     "category": "items",
     "langKey": "tile.piston.name",
     "langName": "Piston"
+  },
+  {
+    "id": "minecraft:pitcher_plant",
+    "legacyId": -612,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.pitcher_plant.name",
+    "langName": "Pitcher Plant"
+  },
+  {
+    "id": "minecraft:pitcher_pod",
+    "legacyId": 297,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "item.pitcher_pod.name",
+    "langName": "Pitcher Pod"
   },
   {
     "id": "minecraft:planks",
@@ -7429,6 +8108,18 @@
     "langName": "Wooden Planks"
   },
   {
+    "id": "minecraft:plenty_pottery_shard",
+    "legacyId": 678,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.plenty_pottery_shard.name",
+    "langName": "Plenty Pottery Shard"
+  },
+  {
     "id": "minecraft:podzol",
     "legacyId": 243,
     "metadata": 0,
@@ -7455,7 +8146,7 @@
   },
   {
     "id": "minecraft:polar_bear_spawn_egg",
-    "legacyId": 472,
+    "legacyId": 474,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -7613,14 +8304,15 @@
   },
   {
     "id": "minecraft:popped_chorus_fruit",
-    "legacyId": 564,
+    "legacyId": 566,
     "metadata": 0,
     "category": "nature",
     "aliases": [
       "minecraft:chorus_fruit_popped"
     ],
     "langKey": "item.chorus_fruit_popped.name",
-    "langName": "Popped Chorus Fruit"
+    "langName": "Popped Chorus Fruit",
+    "furnaceXpMultiplier": 0.1
   },
   {
     "id": "minecraft:porkchop",
@@ -7649,7 +8341,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 0,
     "category": "equipment",
     "langKey": "potion.emptyPotion.name",
@@ -7657,7 +8349,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 1,
     "category": "equipment",
     "langKey": "potion.mundane.name",
@@ -7665,7 +8357,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 2,
     "category": "equipment",
     "langKey": "potion.mundane.extended.name",
@@ -7673,7 +8365,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 3,
     "category": "equipment",
     "langKey": "potion.thick.name",
@@ -7681,7 +8373,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 4,
     "category": "equipment",
     "langKey": "potion.awkward.name",
@@ -7689,7 +8381,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 5,
     "category": "equipment",
     "langKey": "potion.nightVision.name",
@@ -7697,7 +8389,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 6,
     "category": "equipment",
     "langKey": "potion.nightVision.name",
@@ -7705,7 +8397,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 7,
     "category": "equipment",
     "langKey": "potion.invisibility.name",
@@ -7713,7 +8405,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 8,
     "category": "equipment",
     "langKey": "potion.invisibility.name",
@@ -7721,7 +8413,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 9,
     "category": "equipment",
     "langKey": "potion.jump.name",
@@ -7729,7 +8421,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 10,
     "category": "equipment",
     "langKey": "potion.jump.name",
@@ -7737,7 +8429,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 11,
     "category": "equipment",
     "langKey": "potion.jump.name",
@@ -7745,7 +8437,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 12,
     "category": "equipment",
     "langKey": "potion.fireResistance.name",
@@ -7753,7 +8445,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 13,
     "category": "equipment",
     "langKey": "potion.fireResistance.name",
@@ -7761,7 +8453,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 14,
     "category": "equipment",
     "langKey": "potion.moveSpeed.name",
@@ -7769,7 +8461,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 15,
     "category": "equipment",
     "langKey": "potion.moveSpeed.name",
@@ -7777,7 +8469,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 16,
     "category": "equipment",
     "langKey": "potion.moveSpeed.name",
@@ -7785,7 +8477,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 17,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.name",
@@ -7793,7 +8485,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 18,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.name",
@@ -7801,7 +8493,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 19,
     "category": "equipment",
     "langKey": "potion.waterBreathing.name",
@@ -7809,7 +8501,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 20,
     "category": "equipment",
     "langKey": "potion.waterBreathing.name",
@@ -7817,7 +8509,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 21,
     "category": "equipment",
     "langKey": "potion.heal.name",
@@ -7825,7 +8517,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 22,
     "category": "equipment",
     "langKey": "potion.heal.name",
@@ -7833,7 +8525,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 23,
     "category": "equipment",
     "langKey": "potion.harm.name",
@@ -7841,7 +8533,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 24,
     "category": "equipment",
     "langKey": "potion.harm.name",
@@ -7849,7 +8541,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 25,
     "category": "equipment",
     "langKey": "potion.poison.name",
@@ -7857,7 +8549,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 26,
     "category": "equipment",
     "langKey": "potion.poison.name",
@@ -7865,7 +8557,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 27,
     "category": "equipment",
     "langKey": "potion.poison.name",
@@ -7873,7 +8565,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 28,
     "category": "equipment",
     "langKey": "potion.regeneration.name",
@@ -7881,7 +8573,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 29,
     "category": "equipment",
     "langKey": "potion.regeneration.name",
@@ -7889,7 +8581,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 30,
     "category": "equipment",
     "langKey": "potion.regeneration.name",
@@ -7897,7 +8589,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 31,
     "category": "equipment",
     "langKey": "potion.damageBoost.name",
@@ -7905,7 +8597,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 32,
     "category": "equipment",
     "langKey": "potion.damageBoost.name",
@@ -7913,7 +8605,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 33,
     "category": "equipment",
     "langKey": "potion.damageBoost.name",
@@ -7921,7 +8613,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 34,
     "category": "equipment",
     "langKey": "potion.weakness.name",
@@ -7929,7 +8621,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 35,
     "category": "equipment",
     "langKey": "potion.weakness.name",
@@ -7937,7 +8629,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 36,
     "category": "equipment",
     "langKey": "potion.wither.name",
@@ -7945,7 +8637,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 37,
     "category": "equipment",
     "langKey": "potion.turtleMaster.name",
@@ -7953,7 +8645,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 38,
     "category": "equipment",
     "langKey": "potion.turtleMaster.name",
@@ -7961,7 +8653,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 39,
     "category": "equipment",
     "langKey": "potion.turtleMaster.name",
@@ -7969,7 +8661,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 40,
     "category": "equipment",
     "langKey": "potion.slowFalling.name",
@@ -7977,7 +8669,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 41,
     "category": "equipment",
     "langKey": "potion.slowFalling.name",
@@ -7985,7 +8677,7 @@
   },
   {
     "id": "minecraft:potion",
-    "legacyId": 426,
+    "legacyId": 428,
     "metadata": 42,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.name",
@@ -7993,7 +8685,7 @@
   },
   {
     "id": "minecraft:powder_snow_bucket",
-    "legacyId": 368,
+    "legacyId": 370,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.17.0",
@@ -8034,7 +8726,7 @@
   },
   {
     "id": "minecraft:prismarine_crystals",
-    "legacyId": 554,
+    "legacyId": 556,
     "metadata": 0,
     "category": "items",
     "langKey": "item.prismarine_crystals.name",
@@ -8042,7 +8734,7 @@
   },
   {
     "id": "minecraft:prismarine_shard",
-    "legacyId": 570,
+    "legacyId": 572,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -8060,6 +8752,18 @@
     "langName": "Prismarine Stairs"
   },
   {
+    "id": "minecraft:prize_pottery_shard",
+    "legacyId": 679,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.prize_pottery_shard.name",
+    "langName": "Prize Pottery Shard"
+  },
+  {
     "id": "minecraft:pufferfish",
     "legacyId": 267,
     "metadata": 0,
@@ -8073,7 +8777,7 @@
   },
   {
     "id": "minecraft:pufferfish_bucket",
-    "legacyId": 367,
+    "legacyId": 369,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -8082,7 +8786,7 @@
   },
   {
     "id": "minecraft:pufferfish_spawn_egg",
-    "legacyId": 481,
+    "legacyId": 483,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -8129,8 +8833,16 @@
     "langName": "Purple Candle"
   },
   {
+    "id": "minecraft:purple_carpet",
+    "legacyId": -606,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.purple.name",
+    "langName": "Purple Carpet"
+  },
+  {
     "id": "minecraft:purple_dye",
-    "legacyId": 400,
+    "legacyId": 402,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.purple.name",
@@ -8182,8 +8894,11 @@
   },
   {
     "id": "minecraft:quartz",
-    "legacyId": 529,
+    "legacyId": 531,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.quartz.name",
     "langName": "Nether Quartz",
@@ -8260,7 +8975,7 @@
   },
   {
     "id": "minecraft:rabbit_foot",
-    "legacyId": 533,
+    "legacyId": 535,
     "metadata": 0,
     "category": "items",
     "langKey": "item.rabbit_foot.name",
@@ -8268,7 +8983,7 @@
   },
   {
     "id": "minecraft:rabbit_hide",
-    "legacyId": 534,
+    "legacyId": 536,
     "metadata": 0,
     "category": "items",
     "langKey": "item.rabbit_hide.name",
@@ -8276,7 +8991,7 @@
   },
   {
     "id": "minecraft:rabbit_spawn_egg",
-    "legacyId": 459,
+    "legacyId": 461,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -8309,8 +9024,20 @@
     "langName": "Rail"
   },
   {
+    "id": "minecraft:raiser_armor_trim_smithing_template",
+    "legacyId": 699,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.raiser.name",
+    "langName": "Raiser Armor Trim"
+  },
+  {
     "id": "minecraft:ravager_spawn_egg",
-    "legacyId": 493,
+    "legacyId": 495,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -8321,7 +9048,7 @@
   },
   {
     "id": "minecraft:raw_copper",
-    "legacyId": 512,
+    "legacyId": 514,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.17.0",
@@ -8338,7 +9065,7 @@
   },
   {
     "id": "minecraft:raw_gold",
-    "legacyId": 511,
+    "legacyId": 513,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.17.0",
@@ -8355,7 +9082,7 @@
   },
   {
     "id": "minecraft:raw_iron",
-    "legacyId": 510,
+    "legacyId": 512,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.17.0",
@@ -8372,7 +9099,7 @@
   },
   {
     "id": "minecraft:recovery_compass",
-    "legacyId": 652,
+    "legacyId": 654,
     "metadata": 0,
     "category": "equipment",
     "minimumVersion": "1.19.0",
@@ -8389,8 +9116,16 @@
     "langName": "Red Candle"
   },
   {
+    "id": "minecraft:red_carpet",
+    "legacyId": -610,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.red.name",
+    "langName": "Red Carpet"
+  },
+  {
     "id": "minecraft:red_dye",
-    "legacyId": 396,
+    "legacyId": 398,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.red.name",
@@ -8508,6 +9243,10 @@
     "id": "minecraft:red_mushroom_block",
     "legacyId": 100,
     "metadata": 14,
+    "tags": [
+      "minecraft:logs_that_burn",
+      "minecraft:logs"
+    ],
     "category": "nature",
     "langKey": "tile.red_mushroom_block.name",
     "langName": "Red Mushroom Block"
@@ -8578,8 +9317,11 @@
   },
   {
     "id": "minecraft:redstone",
-    "legacyId": 373,
+    "legacyId": 375,
     "metadata": 0,
+    "tags": [
+      "minecraft:trim_materials"
+    ],
     "category": "items",
     "langKey": "item.redstone.name",
     "langName": "Redstone Dust",
@@ -8627,7 +9369,7 @@
   },
   {
     "id": "minecraft:repeater",
-    "legacyId": 419,
+    "legacyId": 421,
     "metadata": 0,
     "category": "items",
     "langKey": "item.repeater.name",
@@ -8641,6 +9383,18 @@
     "minimumVersion": "1.16.0",
     "langKey": "tile.respawn_anchor.name",
     "langName": "Respawn Anchor"
+  },
+  {
+    "id": "minecraft:rib_armor_trim_smithing_template",
+    "legacyId": 695,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.rib.name",
+    "langName": "Rib Armor Trim"
   },
   {
     "id": "minecraft:rotten_flesh",
@@ -8657,7 +9411,7 @@
   },
   {
     "id": "minecraft:saddle",
-    "legacyId": 371,
+    "legacyId": 373,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "equipment",
@@ -8678,7 +9432,7 @@
   },
   {
     "id": "minecraft:salmon_bucket",
-    "legacyId": 365,
+    "legacyId": 367,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -8687,7 +9441,7 @@
   },
   {
     "id": "minecraft:salmon_spawn_egg",
-    "legacyId": 482,
+    "legacyId": 484,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -8856,7 +9610,7 @@
   },
   {
     "id": "minecraft:scute",
-    "legacyId": 577,
+    "legacyId": 579,
     "metadata": 0,
     "category": "items",
     "aliases": [
@@ -8893,8 +9647,44 @@
     "langName": "Seagrass"
   },
   {
+    "id": "minecraft:sentry_armor_trim_smithing_template",
+    "legacyId": 686,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.sentry.name",
+    "langName": "Sentry Armor Trim"
+  },
+  {
+    "id": "minecraft:shaper_armor_trim_smithing_template",
+    "legacyId": 700,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.shaper.name",
+    "langName": "Shaper Armor Trim"
+  },
+  {
+    "id": "minecraft:sheaf_pottery_shard",
+    "legacyId": 680,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.sheaf_pottery_shard.name",
+    "langName": "Sheaf Pottery Shard"
+  },
+  {
     "id": "minecraft:shears",
-    "legacyId": 421,
+    "legacyId": 423,
     "metadata": 0,
     "maxDurability": 238,
     "maxStackSize": 1,
@@ -8904,7 +9694,7 @@
   },
   {
     "id": "minecraft:sheep_spawn_egg",
-    "legacyId": 438,
+    "legacyId": 440,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -8914,8 +9704,20 @@
     "langName": "Spawn Sheep"
   },
   {
+    "id": "minecraft:shelter_pottery_shard",
+    "legacyId": 681,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.shelter_pottery_shard.name",
+    "langName": "Shelter Pottery Shard"
+  },
+  {
     "id": "minecraft:shield",
-    "legacyId": 355,
+    "legacyId": 357,
     "metadata": 0,
     "maxDurability": 336,
     "maxStackSize": 1,
@@ -9061,7 +9863,7 @@
   },
   {
     "id": "minecraft:shulker_shell",
-    "legacyId": 571,
+    "legacyId": 573,
     "metadata": 0,
     "category": "items",
     "langKey": "item.shulker_shell.name",
@@ -9069,7 +9871,7 @@
   },
   {
     "id": "minecraft:shulker_spawn_egg",
-    "legacyId": 469,
+    "legacyId": 471,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9077,6 +9879,18 @@
     "category": "nature",
     "langKey": "item.spawn_egg.entity.shulker.name",
     "langName": "Spawn Shulker"
+  },
+  {
+    "id": "minecraft:silence_armor_trim_smithing_template",
+    "legacyId": 697,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.silence.name",
+    "langName": "Silence Armor Trim"
   },
   {
     "id": "minecraft:silver_glazed_terracotta",
@@ -9091,7 +9905,7 @@
   },
   {
     "id": "minecraft:silverfish_spawn_egg",
-    "legacyId": 443,
+    "legacyId": 445,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9102,7 +9916,7 @@
   },
   {
     "id": "minecraft:skeleton_horse_spawn_egg",
-    "legacyId": 467,
+    "legacyId": 469,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9113,7 +9927,7 @@
   },
   {
     "id": "minecraft:skeleton_spawn_egg",
-    "legacyId": 444,
+    "legacyId": 446,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9124,7 +9938,7 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 0,
     "category": "items",
     "langKey": "item.skull.skeleton.name",
@@ -9132,7 +9946,7 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 1,
     "category": "items",
     "langKey": "item.skull.wither.name",
@@ -9140,7 +9954,7 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 2,
     "category": "items",
     "langKey": "item.skull.zombie.name",
@@ -9148,7 +9962,7 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 3,
     "category": "items",
     "langKey": "item.skull.char.name",
@@ -9156,7 +9970,7 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 4,
     "category": "items",
     "langKey": "item.skull.creeper.name",
@@ -9164,20 +9978,40 @@
   },
   {
     "id": "minecraft:skull",
-    "legacyId": 521,
+    "legacyId": 523,
     "metadata": 5,
     "category": "items",
     "langKey": "item.skull.dragon.name",
     "langName": "Dragon Head"
   },
   {
+    "id": "minecraft:skull",
+    "legacyId": 523,
+    "metadata": 6,
+    "category": "items",
+    "langKey": "item.skull.player.name",
+    "langName": "%s's Head"
+  },
+  {
     "id": "minecraft:skull_banner_pattern",
-    "legacyId": 588,
+    "legacyId": 590,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
     "langKey": "item.banner_pattern.skull",
     "langName": "Skull Charge"
+  },
+  {
+    "id": "minecraft:skull_pottery_shard",
+    "legacyId": 682,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.skull_pottery_shard.name",
+    "langName": "Skull Pottery Shard"
   },
   {
     "id": "minecraft:slime",
@@ -9189,7 +10023,7 @@
   },
   {
     "id": "minecraft:slime_ball",
-    "legacyId": 388,
+    "legacyId": 390,
     "metadata": 0,
     "category": "items",
     "langKey": "item.slime_ball.name",
@@ -9197,7 +10031,7 @@
   },
   {
     "id": "minecraft:slime_spawn_egg",
-    "legacyId": 445,
+    "legacyId": 447,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9279,6 +10113,49 @@
     "langName": "Smooth Stone"
   },
   {
+    "id": "minecraft:sniffer_egg",
+    "legacyId": -596,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.sniffer_egg.name",
+    "langName": "Sniffer Egg"
+  },
+  {
+    "id": "minecraft:sniffer_spawn_egg",
+    "legacyId": 502,
+    "metadata": 0,
+    "tags": [
+      "minecraft:spawn_egg"
+    ],
+    "category": "nature",
+    "langKey": "item.spawn_egg.entity.sniffer.name",
+    "langName": "Spawn Sniffer"
+  },
+  {
+    "id": "minecraft:snort_pottery_shard",
+    "legacyId": 683,
+    "metadata": 0,
+    "tags": [
+      "minecraft:decorated_pot_shards"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.snort_pottery_shard.name",
+    "langName": "Snort Pottery Shard"
+  },
+  {
+    "id": "minecraft:snout_armor_trim_smithing_template",
+    "legacyId": 694,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.snout.name",
+    "langName": "Snout Armor Trim"
+  },
+  {
     "id": "minecraft:snow",
     "legacyId": 80,
     "metadata": 0,
@@ -9288,7 +10165,7 @@
   },
   {
     "id": "minecraft:snow_golem_spawn_egg",
-    "legacyId": 505,
+    "legacyId": 507,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9307,7 +10184,7 @@
   },
   {
     "id": "minecraft:snowball",
-    "legacyId": 374,
+    "legacyId": 376,
     "metadata": 0,
     "maxStackSize": 16,
     "category": "equipment",
@@ -9316,7 +10193,7 @@
   },
   {
     "id": "minecraft:soul_campfire",
-    "legacyId": 628,
+    "legacyId": 630,
     "metadata": 0,
     "category": "items",
     "minimumVersion": "1.16.0",
@@ -9366,7 +10243,7 @@
   },
   {
     "id": "minecraft:spider_spawn_egg",
-    "legacyId": 446,
+    "legacyId": 448,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -9376,8 +10253,20 @@
     "langName": "Spawn Spider"
   },
   {
+    "id": "minecraft:spire_armor_trim_smithing_template",
+    "legacyId": 696,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.spire.name",
+    "langName": "Spire Armor Trim"
+  },
+  {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 0,
     "category": "equipment",
     "langKey": "potion.emptyPotion.splash.name",
@@ -9385,7 +10274,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 1,
     "category": "equipment",
     "langKey": "potion.mundane.splash.name",
@@ -9393,7 +10282,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 2,
     "category": "equipment",
     "langKey": "potion.mundane.extended.splash.name",
@@ -9401,7 +10290,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 3,
     "category": "equipment",
     "langKey": "potion.thick.splash.name",
@@ -9409,7 +10298,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 4,
     "category": "equipment",
     "langKey": "potion.awkward.splash.name",
@@ -9417,7 +10306,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 5,
     "category": "equipment",
     "langKey": "potion.nightVision.splash.name",
@@ -9425,7 +10314,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 6,
     "category": "equipment",
     "langKey": "potion.nightVision.splash.name",
@@ -9433,7 +10322,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 7,
     "category": "equipment",
     "langKey": "potion.invisibility.splash.name",
@@ -9441,7 +10330,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 8,
     "category": "equipment",
     "langKey": "potion.invisibility.splash.name",
@@ -9449,7 +10338,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 9,
     "category": "equipment",
     "langKey": "potion.jump.splash.name",
@@ -9457,7 +10346,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 10,
     "category": "equipment",
     "langKey": "potion.jump.splash.name",
@@ -9465,7 +10354,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 11,
     "category": "equipment",
     "langKey": "potion.jump.splash.name",
@@ -9473,7 +10362,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 12,
     "category": "equipment",
     "langKey": "potion.fireResistance.splash.name",
@@ -9481,7 +10370,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 13,
     "category": "equipment",
     "langKey": "potion.fireResistance.splash.name",
@@ -9489,7 +10378,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 14,
     "category": "equipment",
     "langKey": "potion.moveSpeed.splash.name",
@@ -9497,7 +10386,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 15,
     "category": "equipment",
     "langKey": "potion.moveSpeed.splash.name",
@@ -9505,7 +10394,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 16,
     "category": "equipment",
     "langKey": "potion.moveSpeed.splash.name",
@@ -9513,7 +10402,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 17,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.splash.name",
@@ -9521,7 +10410,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 18,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.splash.name",
@@ -9529,7 +10418,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 19,
     "category": "equipment",
     "langKey": "potion.waterBreathing.splash.name",
@@ -9537,7 +10426,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 20,
     "category": "equipment",
     "langKey": "potion.waterBreathing.splash.name",
@@ -9545,7 +10434,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 21,
     "category": "equipment",
     "langKey": "potion.heal.splash.name",
@@ -9553,7 +10442,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 22,
     "category": "equipment",
     "langKey": "potion.heal.splash.name",
@@ -9561,7 +10450,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 23,
     "category": "equipment",
     "langKey": "potion.harm.splash.name",
@@ -9569,7 +10458,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 24,
     "category": "equipment",
     "langKey": "potion.harm.splash.name",
@@ -9577,7 +10466,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 25,
     "category": "equipment",
     "langKey": "potion.poison.splash.name",
@@ -9585,7 +10474,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 26,
     "category": "equipment",
     "langKey": "potion.poison.splash.name",
@@ -9593,7 +10482,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 27,
     "category": "equipment",
     "langKey": "potion.poison.splash.name",
@@ -9601,7 +10490,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 28,
     "category": "equipment",
     "langKey": "potion.regeneration.splash.name",
@@ -9609,7 +10498,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 29,
     "category": "equipment",
     "langKey": "potion.regeneration.splash.name",
@@ -9617,7 +10506,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 30,
     "category": "equipment",
     "langKey": "potion.regeneration.splash.name",
@@ -9625,7 +10514,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 31,
     "category": "equipment",
     "langKey": "potion.damageBoost.splash.name",
@@ -9633,7 +10522,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 32,
     "category": "equipment",
     "langKey": "potion.damageBoost.splash.name",
@@ -9641,7 +10530,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 33,
     "category": "equipment",
     "langKey": "potion.damageBoost.splash.name",
@@ -9649,7 +10538,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 34,
     "category": "equipment",
     "langKey": "potion.weakness.splash.name",
@@ -9657,7 +10546,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 35,
     "category": "equipment",
     "langKey": "potion.weakness.splash.name",
@@ -9665,7 +10554,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 36,
     "category": "equipment",
     "langKey": "potion.wither.splash.name",
@@ -9673,7 +10562,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 37,
     "category": "equipment",
     "langKey": "potion.turtleMaster.splash.name",
@@ -9681,7 +10570,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 38,
     "category": "equipment",
     "langKey": "potion.turtleMaster.splash.name",
@@ -9689,7 +10578,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 39,
     "category": "equipment",
     "langKey": "potion.turtleMaster.splash.name",
@@ -9697,7 +10586,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 40,
     "category": "equipment",
     "langKey": "potion.slowFalling.splash.name",
@@ -9705,7 +10594,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 41,
     "category": "equipment",
     "langKey": "potion.slowFalling.splash.name",
@@ -9713,7 +10602,7 @@
   },
   {
     "id": "minecraft:splash_potion",
-    "legacyId": 566,
+    "legacyId": 568,
     "metadata": 42,
     "category": "equipment",
     "langKey": "potion.moveSlowdown.splash.name",
@@ -9745,7 +10634,7 @@
   },
   {
     "id": "minecraft:spruce_boat",
-    "legacyId": 378,
+    "legacyId": 380,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -9767,7 +10656,7 @@
   },
   {
     "id": "minecraft:spruce_chest_boat",
-    "legacyId": 647,
+    "legacyId": 649,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -9782,7 +10671,7 @@
   },
   {
     "id": "minecraft:spruce_door",
-    "legacyId": 558,
+    "legacyId": 560,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -9793,12 +10682,42 @@
     "langName": "Spruce Door"
   },
   {
+    "id": "minecraft:spruce_fence",
+    "legacyId": -579,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.spruceFence.name",
+    "langName": "Spruce Fence"
+  },
+  {
     "id": "minecraft:spruce_fence_gate",
     "legacyId": 183,
     "metadata": 0,
     "category": "construction",
     "langKey": "tile.spruce_fence_gate.name",
     "langName": "Spruce Fence Gate"
+  },
+  {
+    "id": "minecraft:spruce_hanging_sign",
+    "legacyId": -501,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "fuelDuration": 40.0,
+    "minimumVersion": "1.20.0",
+    "langKey": "item.spruce_hanging_sign.name",
+    "langName": "Spruce Hanging Sign"
+  },
+  {
+    "id": "minecraft:spruce_log",
+    "legacyId": -569,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.log.spruce.name",
+    "langName": "Spruce Log"
   },
   {
     "id": "minecraft:spruce_pressure_plate",
@@ -9810,7 +10729,7 @@
   },
   {
     "id": "minecraft:spruce_sign",
-    "legacyId": 581,
+    "legacyId": 583,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -9839,7 +10758,7 @@
   },
   {
     "id": "minecraft:spyglass",
-    "legacyId": 631,
+    "legacyId": 633,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "equipment",
@@ -9849,7 +10768,7 @@
   },
   {
     "id": "minecraft:squid_spawn_egg",
-    "legacyId": 450,
+    "legacyId": 452,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -10118,10 +11037,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 0,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10130,10 +11045,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 1,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10142,10 +11053,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 2,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10154,10 +11061,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 3,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10166,10 +11069,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 4,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10178,10 +11077,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 5,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10190,10 +11085,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 6,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10202,10 +11093,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 7,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10214,10 +11101,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 8,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10226,10 +11109,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 9,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10238,10 +11117,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 10,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10250,10 +11125,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 11,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10262,10 +11133,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 12,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10274,10 +11141,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 13,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10286,10 +11149,6 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 14,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
@@ -10298,17 +11157,13 @@
     "id": "minecraft:stained_hardened_clay",
     "legacyId": 159,
     "metadata": 15,
-    "tags": [
-      "minecraft:wool",
-      "minecraft:vibration_damper"
-    ],
     "category": "construction",
     "langKey": "tile.stained_hardened_clay.name",
     "langName": "Terracotta"
   },
   {
     "id": "minecraft:stick",
-    "legacyId": 320,
+    "legacyId": 322,
     "metadata": 0,
     "category": "items",
     "fuelDuration": 5.0,
@@ -10381,7 +11236,7 @@
   },
   {
     "id": "minecraft:stone_axe",
-    "legacyId": 315,
+    "legacyId": 317,
     "metadata": 0,
     "maxDurability": 131,
     "damage": 4,
@@ -10750,7 +11605,7 @@
   },
   {
     "id": "minecraft:stone_hoe",
-    "legacyId": 330,
+    "legacyId": 332,
     "metadata": 0,
     "maxDurability": 131,
     "damage": 3,
@@ -10767,7 +11622,7 @@
   },
   {
     "id": "minecraft:stone_pickaxe",
-    "legacyId": 314,
+    "legacyId": 316,
     "metadata": 0,
     "maxDurability": 131,
     "damage": 3,
@@ -10792,7 +11647,7 @@
   },
   {
     "id": "minecraft:stone_shovel",
-    "legacyId": 313,
+    "legacyId": 315,
     "metadata": 0,
     "maxDurability": 131,
     "damage": 2,
@@ -10817,7 +11672,7 @@
   },
   {
     "id": "minecraft:stone_sword",
-    "legacyId": 312,
+    "legacyId": 314,
     "metadata": 0,
     "maxDurability": 131,
     "damage": 5,
@@ -10885,7 +11740,7 @@
   },
   {
     "id": "minecraft:stray_spawn_egg",
-    "legacyId": 462,
+    "legacyId": 464,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -10896,7 +11751,7 @@
   },
   {
     "id": "minecraft:strider_spawn_egg",
-    "legacyId": 495,
+    "legacyId": 497,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -10908,7 +11763,7 @@
   },
   {
     "id": "minecraft:string",
-    "legacyId": 326,
+    "legacyId": 328,
     "metadata": 0,
     "category": "items",
     "langKey": "item.string.name",
@@ -10923,12 +11778,36 @@
     "langName": "Stripped Acacia Log"
   },
   {
+    "id": "minecraft:stripped_bamboo_block",
+    "legacyId": -528,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.stripped_bamboo_block.name",
+    "langName": "Block of Stripped Bamboo"
+  },
+  {
     "id": "minecraft:stripped_birch_log",
     "legacyId": -6,
     "metadata": 0,
     "category": "nature",
     "langKey": "tile.stripped_birch_log.name",
     "langName": "Stripped Birch Log"
+  },
+  {
+    "id": "minecraft:stripped_cherry_log",
+    "legacyId": -535,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.stripped_cherry_log.name",
+    "langName": "Stripped Cherry Log"
+  },
+  {
+    "id": "minecraft:stripped_cherry_wood",
+    "legacyId": -545,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.stripped_cherry_wood.name",
+    "langName": "Stripped Cherry Wood"
   },
   {
     "id": "minecraft:stripped_crimson_hyphae",
@@ -11012,7 +11891,7 @@
   },
   {
     "id": "minecraft:sugar",
-    "legacyId": 416,
+    "legacyId": 418,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.sugar.name",
@@ -11020,7 +11899,7 @@
   },
   {
     "id": "minecraft:sugar_cane",
-    "legacyId": 385,
+    "legacyId": 387,
     "metadata": 0,
     "category": "nature",
     "aliases": [
@@ -11028,6 +11907,22 @@
     ],
     "langKey": "item.reeds.name",
     "langName": "Sugar Canes"
+  },
+  {
+    "id": "minecraft:suspicious_gravel",
+    "legacyId": -573,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.suspicious_gravel.name",
+    "langName": "Suspicious Gravel"
+  },
+  {
+    "id": "minecraft:suspicious_sand",
+    "legacyId": -529,
+    "metadata": 0,
+    "category": "items",
+    "langKey": "tile.suspicious_sand.name",
+    "langName": "Suspicious Sand"
   },
   {
     "id": "minecraft:sweet_berries",
@@ -11043,7 +11938,7 @@
   },
   {
     "id": "minecraft:tadpole_bucket",
-    "legacyId": 636,
+    "legacyId": 638,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -11053,7 +11948,7 @@
   },
   {
     "id": "minecraft:tadpole_spawn_egg",
-    "legacyId": 635,
+    "legacyId": 637,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11088,6 +11983,18 @@
     "langName": "Target"
   },
   {
+    "id": "minecraft:tide_armor_trim_smithing_template",
+    "legacyId": 693,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.tide.name",
+    "langName": "Tide Armor Trim"
+  },
+  {
     "id": "minecraft:tinted_glass",
     "legacyId": -334,
     "metadata": 0,
@@ -11105,7 +12012,7 @@
   },
   {
     "id": "minecraft:tnt_minecart",
-    "legacyId": 530,
+    "legacyId": 532,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -11124,8 +12031,24 @@
     "langName": "Torch"
   },
   {
+    "id": "minecraft:torchflower",
+    "legacyId": -568,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.torchflower.name",
+    "langName": "Torchflower"
+  },
+  {
+    "id": "minecraft:torchflower_seeds",
+    "legacyId": 296,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "item.torchflower_seeds.name",
+    "langName": "Torchflower Seeds"
+  },
+  {
     "id": "minecraft:totem_of_undying",
-    "legacyId": 573,
+    "legacyId": 575,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "equipment",
@@ -11138,7 +12061,7 @@
   },
   {
     "id": "minecraft:trader_llama_spawn_egg",
-    "legacyId": 654,
+    "legacyId": 656,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11166,7 +12089,7 @@
   },
   {
     "id": "minecraft:trident",
-    "legacyId": 551,
+    "legacyId": 553,
     "metadata": 0,
     "maxDurability": 250,
     "damage": 8,
@@ -11203,7 +12126,7 @@
   },
   {
     "id": "minecraft:tropical_fish_bucket",
-    "legacyId": 366,
+    "legacyId": 368,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -11212,7 +12135,7 @@
   },
   {
     "id": "minecraft:tropical_fish_spawn_egg",
-    "legacyId": 479,
+    "legacyId": 481,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11220,6 +12143,14 @@
     "category": "nature",
     "langKey": "item.spawn_egg.entity.tropicalfish.name",
     "langName": "Spawn Tropical Fish"
+  },
+  {
+    "id": "minecraft:tube_coral",
+    "legacyId": -131,
+    "metadata": 0,
+    "category": "nature",
+    "langKey": "tile.coral_fan.blue_fan.name",
+    "langName": "Tube Coral Fan"
   },
   {
     "id": "minecraft:tuff",
@@ -11239,12 +12170,13 @@
   },
   {
     "id": "minecraft:turtle_helmet",
-    "legacyId": 578,
+    "legacyId": 580,
     "metadata": 0,
     "maxDurability": 275,
     "armor": 2,
     "maxStackSize": 1,
     "tags": [
+      "minecraft:trimmable_armors",
       "minecraft:is_armor"
     ],
     "category": "equipment",
@@ -11253,7 +12185,7 @@
   },
   {
     "id": "minecraft:turtle_spawn_egg",
-    "legacyId": 485,
+    "legacyId": 487,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11287,8 +12219,20 @@
     "langName": "Verdant Froglight"
   },
   {
+    "id": "minecraft:vex_armor_trim_smithing_template",
+    "legacyId": 692,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.vex.name",
+    "langName": "Vex Armor Trim"
+  },
+  {
     "id": "minecraft:vex_spawn_egg",
-    "legacyId": 476,
+    "legacyId": 478,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11299,7 +12243,7 @@
   },
   {
     "id": "minecraft:villager_spawn_egg",
-    "legacyId": 449,
+    "legacyId": 451,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11310,7 +12254,7 @@
   },
   {
     "id": "minecraft:vindicator_spawn_egg",
-    "legacyId": 474,
+    "legacyId": 476,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11329,7 +12273,7 @@
   },
   {
     "id": "minecraft:wandering_trader_spawn_egg",
-    "legacyId": 492,
+    "legacyId": 494,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11339,8 +12283,20 @@
     "langName": "Spawn Wandering Trader"
   },
   {
+    "id": "minecraft:ward_armor_trim_smithing_template",
+    "legacyId": 690,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.ward.name",
+    "langName": "Ward Armor Trim"
+  },
+  {
     "id": "minecraft:warden_spawn_egg",
-    "legacyId": 638,
+    "legacyId": 640,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11360,7 +12316,7 @@
   },
   {
     "id": "minecraft:warped_door",
-    "legacyId": 623,
+    "legacyId": 625,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -11396,7 +12352,7 @@
   },
   {
     "id": "minecraft:warped_fungus_on_a_stick",
-    "legacyId": 624,
+    "legacyId": 626,
     "metadata": 0,
     "maxDurability": 100,
     "maxStackSize": 1,
@@ -11404,6 +12360,19 @@
     "minimumVersion": "1.16.0",
     "langKey": "item.warped_fungus_on_a_stick.name",
     "langName": "Warped Fungus on a Stick"
+  },
+  {
+    "id": "minecraft:warped_hanging_sign",
+    "legacyId": -507,
+    "metadata": 0,
+    "maxStackSize": 16,
+    "tags": [
+      "minecraft:sign"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "item.warped_hanging_sign.name",
+    "langName": "Warped Hanging Sign"
   },
   {
     "id": "minecraft:warped_hyphae",
@@ -11448,7 +12417,7 @@
   },
   {
     "id": "minecraft:warped_sign",
-    "legacyId": 621,
+    "legacyId": 623,
     "metadata": 0,
     "maxStackSize": 16,
     "tags": [
@@ -11505,7 +12474,7 @@
   },
   {
     "id": "minecraft:water_bucket",
-    "legacyId": 362,
+    "legacyId": 364,
     "metadata": 0,
     "maxStackSize": 1,
     "category": "items",
@@ -11653,6 +12622,18 @@
     "langName": "Waxed Weathered Cut Copper Stairs"
   },
   {
+    "id": "minecraft:wayfinder_armor_trim_smithing_template",
+    "legacyId": 698,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.wayfinder.name",
+    "langName": "Wayfinder Armor Trim"
+  },
+  {
     "id": "minecraft:weathered_copper",
     "legacyId": -342,
     "metadata": 0,
@@ -11703,7 +12684,7 @@
   },
   {
     "id": "minecraft:wheat",
-    "legacyId": 334,
+    "legacyId": 336,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.wheat.name",
@@ -11727,8 +12708,16 @@
     "langName": "White Candle"
   },
   {
+    "id": "minecraft:white_carpet",
+    "legacyId": 171,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.white.name",
+    "langName": "White Carpet"
+  },
+  {
     "id": "minecraft:white_dye",
-    "legacyId": 410,
+    "legacyId": 412,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.white_new.name",
@@ -11755,8 +12744,20 @@
     "langName": "White Wool"
   },
   {
+    "id": "minecraft:wild_armor_trim_smithing_template",
+    "legacyId": 689,
+    "metadata": 0,
+    "tags": [
+      "minecraft:trim_templates"
+    ],
+    "category": "items",
+    "minimumVersion": "1.20.0",
+    "langKey": "trim_pattern.wild.name",
+    "langName": "Wild Armor Trim"
+  },
+  {
     "id": "minecraft:witch_spawn_egg",
-    "legacyId": 452,
+    "legacyId": 454,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11775,7 +12776,7 @@
   },
   {
     "id": "minecraft:wither_skeleton_spawn_egg",
-    "legacyId": 464,
+    "legacyId": 466,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11786,7 +12787,7 @@
   },
   {
     "id": "minecraft:wither_spawn_egg",
-    "legacyId": 507,
+    "legacyId": 509,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11797,7 +12798,7 @@
   },
   {
     "id": "minecraft:wolf_spawn_egg",
-    "legacyId": 439,
+    "legacyId": 441,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -11880,7 +12881,7 @@
   },
   {
     "id": "minecraft:wooden_axe",
-    "legacyId": 311,
+    "legacyId": 313,
     "metadata": 0,
     "maxDurability": 59,
     "damage": 3,
@@ -11906,7 +12907,7 @@
   },
   {
     "id": "minecraft:wooden_door",
-    "legacyId": 359,
+    "legacyId": 361,
     "metadata": 0,
     "tags": [
       "minecraft:door"
@@ -11918,7 +12919,7 @@
   },
   {
     "id": "minecraft:wooden_hoe",
-    "legacyId": 329,
+    "legacyId": 331,
     "metadata": 0,
     "maxDurability": 59,
     "damage": 2,
@@ -11936,7 +12937,7 @@
   },
   {
     "id": "minecraft:wooden_pickaxe",
-    "legacyId": 310,
+    "legacyId": 312,
     "metadata": 0,
     "maxDurability": 59,
     "damage": 2,
@@ -11962,7 +12963,7 @@
   },
   {
     "id": "minecraft:wooden_shovel",
-    "legacyId": 309,
+    "legacyId": 311,
     "metadata": 0,
     "maxDurability": 59,
     "damage": 1,
@@ -12046,7 +13047,7 @@
   },
   {
     "id": "minecraft:wooden_sword",
-    "legacyId": 308,
+    "legacyId": 310,
     "metadata": 0,
     "maxDurability": 59,
     "damage": 4,
@@ -12063,7 +13064,7 @@
   },
   {
     "id": "minecraft:writable_book",
-    "legacyId": 515,
+    "legacyId": 517,
     "metadata": 0,
     "maxStackSize": 1,
     "tags": [
@@ -12084,8 +13085,16 @@
     "langName": "Yellow Candle"
   },
   {
+    "id": "minecraft:yellow_carpet",
+    "legacyId": -600,
+    "metadata": 0,
+    "category": "construction",
+    "langKey": "tile.carpet.yellow.name",
+    "langName": "Yellow Carpet"
+  },
+  {
     "id": "minecraft:yellow_dye",
-    "legacyId": 406,
+    "legacyId": 408,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.dye.yellow.name",
@@ -12121,7 +13130,7 @@
   },
   {
     "id": "minecraft:zoglin_spawn_egg",
-    "legacyId": 498,
+    "legacyId": 500,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -12133,7 +13142,7 @@
   },
   {
     "id": "minecraft:zombie_horse_spawn_egg",
-    "legacyId": 468,
+    "legacyId": 470,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -12144,7 +13153,7 @@
   },
   {
     "id": "minecraft:zombie_pigman_spawn_egg",
-    "legacyId": 448,
+    "legacyId": 450,
     "metadata": 0,
     "category": "nature",
     "langKey": "item.spawn_egg.entity.zombie_pigman.name",
@@ -12152,7 +13161,7 @@
   },
   {
     "id": "minecraft:zombie_spawn_egg",
-    "legacyId": 447,
+    "legacyId": 449,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
@@ -12163,7 +13172,7 @@
   },
   {
     "id": "minecraft:zombie_villager_spawn_egg",
-    "legacyId": 477,
+    "legacyId": 479,
     "metadata": 0,
     "tags": [
       "minecraft:spawn_egg"
