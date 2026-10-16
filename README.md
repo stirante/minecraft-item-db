@@ -41,7 +41,7 @@ Block object schema:
 | `aliases`        | A list of old IDs, that this block was under                                        |
 | `minimumVersion` | Required Minecraft version in order to be able to use this block                    |
 | `variants`       | A list of block variants                                                            |
-| `mapColor`       | A hex color on the map in format `#RRGGBB`                                          |
+| `mapColor`       | A hex color on the map in format `#AARRGGBB`                                        |
 | `experienceDrop` | An array of integers specifying minimum and maximum experience dropped after mining |
 | `explodeable`    | Resistance to explosions                                                            |
 | `destroyTime`    | Time required to destroy the block                                                  |
@@ -52,7 +52,7 @@ Block Variant object schema:
 |------------|------------------------------------------------------------------|
 | `metadata` | Numerical data value of the block variant                        |
 | `states`   | List of NBT properties, that will be defined for this data value |
-| `mapColor` | A hex color on the map in format `#RRGGBB`                       |
+| `mapColor` | A hex color on the map in format `AARRGGBB`                      |
 
 NBT Property object schema:
 
